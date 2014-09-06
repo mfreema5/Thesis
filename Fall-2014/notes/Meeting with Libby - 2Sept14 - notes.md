@@ -51,10 +51,10 @@
 
 # Due on 09-Sept-14
 
-* Well-defined research question
+* Well-defined research question [ ]
  *  Presumably about: An ‘altmetric’ on transfer of knowledge from academia to practice
 
-* Independent study agreement
+* Independent study agreement [ ]
  *  Emailed to me by Libby
 
 
