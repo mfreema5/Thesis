@@ -13,8 +13,10 @@ How can you identify when practitioners take notice of research?  Can you quanti
 
 ## Deliverables
 
-Final report should include:
-* Literature review of existing methods/resources for this and similar processes
+* Narrow scope
+* First complete draft of literature review of existing methods/resources for this and similar processes
+
+Future deliverables:
 * Specific resources that can be used to generate practical impact data
 * “Proof of concept” code and preliminary results
 
