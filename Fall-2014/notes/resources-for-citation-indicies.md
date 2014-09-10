@@ -17,7 +17,7 @@ Timespan=All years.
 ```
 
 
-##Open?
+##Open(?)
 
 ###eigenfactor.org
 
@@ -25,11 +25,11 @@ Timespan=All years.
 
 * Rosvall, Martin, and Carl T. Bergstrom. "Maps of random walks on complex networks reveal community structure." *Proceedings of the National Academy of Sciences* 105, no. 4 (2008): 1118-1123.
 
-###mas.eigenfactor.org
+###[mas.eigenfactor.org](http://mas.eigenfactor.org/)
 
 >Microsoft Academic Search is an academic search engine developed by Microsoft Research, providing search capabilities across the scientific literature. All the data are from the Microsoft Academic Search API. For this demo, this includes 2,680,578 publications from the discipline, Computer Science. ([mas.eigenfactor.org/about](http://mas.eigenfactor.org/about.php))
 
-###http://jstor.eigenfactor.org/about.php
+###[jstor.eigenfactor.org](http://jstor.eigenfactor.org/)
 
 >JSTOR is one of the most valuable digital repositories in the academic world. Users have access to over 3 million articles from biology to biblical studies, from economics to music. The most salient feature of the JSTOR collection is the depth of time. The scale is not in years or even decades; the archive includes primary literature dating back to Isaac Netwon’s time. ([jstor.eigenfactor.org/about](http://jstor.eigenfactor.org/about.php))
 
