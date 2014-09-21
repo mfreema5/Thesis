@@ -5,9 +5,8 @@
 
 ###Who is the author?
 
-Peter Haddawy – Faculty of ICT, Mahidol University, Phuttamonthon 4 Road, Nakhon Pathom, 73170 (Thailand)
-
-Saeed-Ul Hassan – Scientometrics Lab, Information Technology University - Punjab, Ferozepur Road, Lahore, 54770 (Pakistan)
+* Peter Haddawy – Faculty of ICT, Mahidol University, Phuttamonthon 4 Road, Nakhon Pathom, 73170 (Thailand)
+* Saeed-Ul Hassan – Scientometrics Lab, Information Technology University - Punjab, Ferozepur Road, Lahore, 54770 (Pakistan)
 
 ###What’s the article about?
 
@@ -26,7 +25,7 @@ The strongest correlation by SNIP is due to judging “quality” of journals as
 
 ###What questions do you have about the reading?
 
-How were the ERA rankings assembled?  (Averages? Medians? Modes? etcetcetc)
+How were the ERA rankings assembled?  (Probably in: [ERA 2010 Ranked Journal List Development](http://www.arc.gov.au/era/journal_list_dev.htm).)
 
 ----
 ##Second time you read
