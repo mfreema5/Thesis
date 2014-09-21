@@ -23,6 +23,8 @@ Bornmann, et al. (2011) cover many of those same issues, and also throw in:
 
 There are now a number of competing indicies.  For example, Haddawy & Hassan (2014) compared the Journal Impact Factor, the Source Normalized Impact per Paper (SNIP) and the SCImago Journal Rank (SJR) against a non-numeric ranking by experts based on the perceived quality of the papers in each journal.  They briefly discuss the relative merits of each of the indicies.
 
+----
+
 In the conclusion of their article, Archambault & Larivière (2009) write:
 
 >At this juncture, the best course of action therefore seems to be redesigning the tool from the ground up. We could deal knowingly with inter-field variations, journal self- citations, citable and non-citable items, citation windows – all technical aspects for which several teams have already suggested remediation and potentially robust solutions. …
@@ -36,6 +38,22 @@ Which struck me as an “Aha!” moment, until I read the next sentence:
 >At present, the bibliometric and scientific communities appear to be excluded from this “we”, as they have so far been largely unable to effect significant change. The evolution of the dominant indicator and the provision of alternate, widely available solutions have been placed into the hands of a private firm that has failed to respond to increasingly numerous calls for action.
 
 I was hoping for some kind of inclusion of practitioners, but Archambault & Larivière seem to be recommending that the determination of “impact” of research be pulled even deeper into the research community, and kept behind the walls of academia.  But I may be reading too much into that.
+
+Anyway, I want to take a step back for a moment:
+
+Archambault & Larivière shouldn't be surprised that “the bibliometric and scientific communities appear to be excluded from this ‘we’, as they have so far been largely unable to effect significant change”.  Why fix something that isn't broke?
+
+The continued popularity of the JIF and similar indicies is part-and-parcel with a lack of common will to change it.  People like that it's simple.  People like that it's quantified.  It's so very easy and efficient to determine that “2 > 1”.  What's even more lovable about JIF is that bigger is better.  So 3 beats 2 beats 1.  No thinking or judgement required.
+
+I see this as falling under my “tyranny of numbers” diatribe.  The relative *value* of journals has been reduced to a simple quantity.  And we will then use that to quantify the value of not only articles, but the people who wrote the articles.  Is that a valid use?  Who cares—as long as it's easy!  Besides, it *must* be right, because 2 > 1!
+
+Indeed, the complexity and opacity of the process to determine JIFs actually works to it's favor.  You can't argue against it's validity if you don't really understand it.  More importantly, since it does give you a nice, simple number to use, it's easy to convince yourself that you “understand it well enough” to use it.
+
+But in the end, it's like using your weight to judge your state of health or your attractiveness.  It might be strongly correlated with the things you care about, but it's way too easy to start believing that it's the key to controlling the things you care about.  When in fact the cause-and-effect often are the other way around.
+
+In the case of JIF: your article isn't more important than other articles because it's in a journal with a high JIF.  That journal has a high JIF because it publishes more important articles than it does trivial ones.  But your article may well be one of the trivial ones.
+
+----
 
 Up next:
 
