@@ -10,11 +10,11 @@ The basic method for calculating an impact factor is to take the number of citat
 
 There are any number of criticisms for how the JIF is calculated.  Archambault & Larivière (2009) have five main criticisms:
 
-1 The JIF is optimized in a US-centric manner (English-language journals are preferred, etc.).
-2 The JIF is misused to infer the “impact” of individual articles in journals
-3 Including journal self-citations in the calculation provides an easy way for editors to manipulate the impact factor of their journals.
-4 The items that are included in the “number of citations” and the “citable articles” are different (e.g., citations to a book review are included in the count of citations, but book reviews are not counted as citable items).
-5 The initial use of a two-year time window disadvantaged certain fields, and certain types of articles.  (There are now 5-year JIFs, but that is still an essentially arbitrary window.)
+1. The JIF is optimized in a US-centric manner (English-language journals are preferred, etc.).
+2. The JIF is misused to infer the “impact” of individual articles in journals
+3. Including journal self-citations in the calculation provides an easy way for editors to manipulate the impact factor of their journals.
+4. The items that are included in the “number of citations” and the “citable articles” are different (e.g., citations to a book review are included in the count of citations, but book reviews are not counted as citable items).
+5. The initial use of a two-year time window disadvantaged certain fields, and certain types of articles.  (There are now 5-year JIFs, but that is still an essentially arbitrary window.)
 
 Bornmann, et al. (2011) cover many of those same issues, and also throw in:
 
