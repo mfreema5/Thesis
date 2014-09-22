@@ -61,3 +61,13 @@ Up next:
 
 And maybe I can dig up some other things that criticize the incestuous nature of JIF, etc.
 
+----
+----
+
+###References
+
+  * Archambault, Éric, and Vincent Larivière. 2009. “History of the journal impact factor: Contingencies and consequences.” *Scientometrics* 79, no. 3 : 635-649.
+  * Bornmann, Lutz, Werner Marx, Armen Yuri Gasparyan, and George D. Kitas. 2012. “Diversity, value and limitations of the journal impact factor and alternative metrics.” *Rheumatology international* 32, no. 7 : 1861-1867.
+  * Haddawy, Peter, and Hassan, Saeed-Ul. 2014. “A comparison of three prominent journal metrics with expert judgement of journal quality.” In: Noyons, Ed (Ed.): *Context counts: pathways to master big and little data. Proceedings of the 19th International Conference on Science and Technology Indicators 2014 Leiden*. p. 238-240. DOI: 10.13140/2.1.3086.5285. ISBN 978-90-817527-1-8
+
+
