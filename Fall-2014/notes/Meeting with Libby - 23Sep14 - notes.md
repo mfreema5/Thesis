@@ -7,8 +7,21 @@
 ----
 
 * Hot topic
-  * Special issue Journal of Information Management
-    * “Social-media metric papers”  (Libby sent link)
+  * Special issue of [Aslib Journal of Information Management](http://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=AJIM)
+    * “Social-media metric papers”  (Libby forwarded email)
+      * Novel methods of analyzing social media in scholarly communication;
+      * Evaluation of various new sources of metrics (e.g., tweets, social bookmarking and readership counts, post publication peer review rankings, blog posts, mass media coverage, views and downloads of presentations, datasets, code);
+      * Meaning of and differentiation between various social media metrics;
+      * Challenging or validating the concept of alternative metrics;
+      * Theoretical and qualitative approaches to classifying and defining social media metrics;
+      * Best practices and limitations in data collection and cleaning;
+      * Data accuracy and reproducibility;
+      * User behavior;
+      * Gaming or abuse of social media metrics;
+      * Social media metrics in research evaluation and researchers’ careers;
+      * Ethics of social media metrics;
+      * Altmetrics as tools for libraries and publishers; and
+      * Social network analyses and visualizations of social media environments.
 
 ----
 
