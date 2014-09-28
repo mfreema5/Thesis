@@ -10,8 +10,11 @@ A not-in-any-way-compleat list:
 * SJR (Scimago Journal Ranking)
   * González-Pereira, Borja, Vicente P. Guerrero-Bote, and Félix Moya-Anegón. "A new approach to the metric of journals’ scientific prestige: The SJR indicator." *Journal of informetrics* 4, no. 3 (2010): 379-391.
 * Cited Half-life
+  * ¿tracks *when* citations “peak” to indicate nature of impact?
 * Immediacy Index of the ISI
-* PageRank (ala, Google)
+  * ¿Similar to JIF, but more recent window?
+* PageRank
+  * ¿variant of “eigenvector centrality” algorithm?
 
 ----
 
