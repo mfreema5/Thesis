@@ -82,7 +82,7 @@ You guess at a prestige for all the nodes, then start iterating through shifts o
 
 ##Altmetrics “Manifesto”
 
-“No one can read everything.”  (need cite)
+“No one can read everything.”  (Priem, J., Taraborelli, D., Groth, P., & Neylon, C. 2010. *alt-metrics: A manifesto.* http://altmetrics.org/manifesto/)
 
 Traditional filters:
 * Peer review process for publication
@@ -149,6 +149,7 @@ But back to the main point here: passive citations seem potentially more “hone
 The interesting bit being “the kinds of impact that matter to them”.  They don't go into much more detail on that.  (ot surprising since they are trying to sell Altmetrics' services.  It can be anything you want!  Or something like that.)
 
 
+----
 
-
+* Priem, Jason, and Bradely H. Hemminger. "[Scientometrics 2.0: New metrics of scholarly impact on the social Web](http://pear.accc.uic.edu/ojs/index.php/fm/article/view/2874/2570)." *First Monday* 15, no. 7 (2010).
 
