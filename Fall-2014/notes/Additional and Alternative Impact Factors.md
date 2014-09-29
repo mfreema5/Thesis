@@ -86,15 +86,77 @@ You guess at a prestige for all the nodes, then start iterating through shifts o
   * “…The SRJ indicator establishes different values for citations according to the scientific influence of the journals that generate them.” (González-Pereira 2010)
 * Self-citations are capped.
   * “It restricts a journal's self-citation to a maximum of 33% of its issued references, so that excessive self-citation will not involve artificially inflating a journal's value, but without touching the normal process of self-citation.” (González-Pereira 2010)
-    * (One third seems arbitrary.  And any editor with a brain will make sure there are *at least* that many self-citations in their journal. Does setting a ceiling always create a target?)
+    * *(One third seems arbitrary.  And any editor with a brain will make sure there are  AT LEAST that many self-citations in their journal.  Does setting a ceiling always create a target?)*
 
+----
 
+##Altmetrics “Manifesto”
 
+“No one can read everything.”  (need cite)
 
+Traditional filters:
+* Peer review process for publication
+* Citation counts
+* Journal rankings
 
+Problems with those:
+* Slow
+* Discourage innovation / encourage *status quo*
+* Lack of accountability for peer-reviewers
+* Peer-review doesn't *prevent* publication, it just pushes lower-value articles to lower-prestige journals (in ideal circumstances); those articles are still in the population.
+* Too narrow in what they count, index, or include
+* Too focused within academia
+* Ignore context of citations (a critical citation counts as much as a positive one)
+* Indicies are mis-used to assign funding and evaluate personnel
+* Many are easy to game
 
+Claims:
+* “Altmetrics look beyond counting and emphasize semantic content.”
+* “…Altmetrics reflect the impact of the article itself, not its venue.
+  * *(Somewhat specious, since the venue typically has a major effect on the impact.)*
+* Altmetrics will include the previously ignored:
+  * “impact outside the academy”
+  * “impact of influential but uncited work, and”
+  * “impact from sources that aren't peer-reviewed.”
 
+Future work needed:
+* Correlate altmetrics and existing measures
+* Predict citations using altmetrics
+  * *(Odd choice… did they already have that paper in progress?)*
+* Compare altmetrics to expert opinions (¿of journal or article quality?)
 
+>“But given the crisis facing existing filters….”
+
+The what now?
+
+##Altmetric “Case Study”
+
+###Adie, Euan, and William Roe. "Altmetric: enriching scholarly content with article-level discussion and metrics." *Learned Publishing* 26, no. 1 (2013): 11-17.
+
+This is specifically about the firm [Altmetric LLP](http://www.altmetric.com/about.php).
+
+Collects/analyzes:
+
+* Download statistics (from?)
+* Reference-manager citations (probably: Mendeley, CiteULike and Zotero)
+* Links from “mainstream media sources” (how?)
+* Social media shares (e.g., Twitter)
+* Social media discussions (e.g., reddit)
+
+####Active versus passive citations
+They never mention what I see as a major difference between data that comes from things like downloads and reference-manager information, and the traditionally-used citations data.  Which is that the former tracks the unconsidered assignment of importance.  Meaning, you consider what sources to cite; you have preferences about what sources to use, and which to avoid.  You may (or more likely: “should”) adjust what sources you cite based on the audience you expect, or based on to which journal you'll be submitting something, or even whom you expect to receive it for reviewing.
+
+What papers you download to read/use or whatever aren't nearly as considered.  You may hate some sonofabitch and avoid citing him as much as you can, but if he does good work, you'll download his papers.
+
+Though, you may download them to look for things to criticize. But that probably doesn't matter.  It's probably best *not* to differentiate between “positive” and “negative” citations.  Either way, you considered the thing being cited as more important than all the other things that you might have been cited in its place.
+
+But back to the main point here: passive citations seem potentially more “honest” than active ones.  Less “gamed” on a individual level.
+
+####“What the future holds”
+
+>“As the volume of data increases, so does the potential signal – the challenge for Altmetric will be to help people identify the kinds of impact that matter to them, to supply them with the data they need and to help them filter out the noise.” (Adie & Roe, 2013)
+
+The interesting bit being “the kinds of impact that matter to them”.  They don't go into much more detail on that; not surprising since they are trying to sell Altmetrics' services.  It can be anything you want!  Or something like that.
 
 
 
