@@ -1,34 +1,25 @@
 #Additional and Alternative Impact Factors
 
+A not-in-any-way-complete list of products and/or methods:
 
-A not-in-any-way-compleat list:
-
-* H-index
+* Ranking similar to percentile ranking
+* Calculation of *h*-index for scientific journals based on citations
   * Hirsch, Jorge E. "An index to quantify an individual's scientific research output." *Proceedings of the National academy of Sciences of the United States of America* 102, no. 46 (2005): 16569-16572.
 * SNIP (Source Normalized Impact per Paper)
   * Moed, Henk F. "Measuring contextual citation impact of scientific journals." *Journal of Informetrics* 4, no. 3 (2010): 265-277.
 * SJR (Scimago Journal Ranking)
   * González-Pereira, Borja, Vicente P. Guerrero-Bote, and Félix Moya-Anegón. "A new approach to the metric of journals’ scientific prestige: The SJR indicator." *Journal of informetrics* 4, no. 3 (2010): 379-391.
 * Cited Half-life
-  * ¿tracks *when* citations “peak” to indicate nature of impact?
+  * Tracks *when* citations “peak” to indicate nature of impact(?)
 * Immediacy Index of the ISI
-  * ¿Similar to JIF, but more recent window?
+  * Similar to JIF, but more recent window(?)
 * PageRank
-  * ¿variant of “eigenvector centrality” algorithm?
-
-----
-
-From Moed (2010):
-
->During the past years, numerous other approaches to the measurement and ranking of journal impact or status were explored. Without claiming completeness, important approaches are:
-
-* Ranking similar to percentile ranking
-* Application of a (variant of the) PageRank algorithm to the journal-to-journal citation network
-* Calculation of *h*-index for scientific journals based on citations
+  * Variant of “eigenvector centrality” algorithm(?)
 * Modeling the asymptotic number of citations collected by papers published in a journal, in order to quantify both *typical* impact, and *range* of impacts of papers
 * Using the frequency of downloads of papers to calculate a journal's ‘usage’ factor
 * Modeling the citation distributions in a journal as a negative binomial distribution,
 and characterizing a journal’s impact using the parameters of that distribution
+* Altmetrics (as in “Altmetrics LLP”)
 
 
 ##SNIP
@@ -36,7 +27,6 @@ and characterizing a journal’s impact using the parameters of that distributio
 >“This paper explores a new indicator of journal citation impact, denoted as source normalized impact per paper (SNIP). It measures a journal’s contextual citation impact, taking into account characteristics of its properly defined subject field, especially the frequency at which authors cite other papers in their reference lists, the rapidity of maturing of citation impact, and the extent to which a database used for the assessment covers the field’s literature….”
 
 >“SNIP is defined as the ratio of the journal’s citation count per paper and the citation potential in its subject field. It aims to allow direct comparison of sources in different subject fields.” (Moed 2010)
-
 
 SNIP corrects for differences between fields and topics within fields, by addressing:
 
@@ -46,7 +36,7 @@ SNIP corrects for differences between fields and topics within fields, by addres
 
 SNIP doesn't address any other problems with the JCR's Journal Impact Factor.
 
-One interesting feature is that it doesn't rely on the pre-categorization of journals into fields or topics.  It uses the inter-relationship of citations to identify the context of an (¿ article|journal ?).
+One interesting feature is that it doesn't rely on the pre-categorization of journals into fields or topics.  It uses the inter-relationship of citations to identify the context of an (article|journal).
 
 
 ##SJR
@@ -119,7 +109,7 @@ Claims:
   * “impact of influential but uncited work, and”
   * “impact from sources that aren't peer-reviewed.”
 
-Future work needed:
+“Future work needed”
 * Correlate altmetrics and existing measures
 * Predict citations using altmetrics
   * *(Odd choice… did they already have that paper in progress?)*
@@ -156,7 +146,7 @@ But back to the main point here: passive citations seem potentially more “hone
 
 >“As the volume of data increases, so does the potential signal – the challenge for Altmetric will be to help people identify the kinds of impact that matter to them, to supply them with the data they need and to help them filter out the noise.” (Adie & Roe, 2013)
 
-The interesting bit being “the kinds of impact that matter to them”.  They don't go into much more detail on that; not surprising since they are trying to sell Altmetrics' services.  It can be anything you want!  Or something like that.
+The interesting bit being “the kinds of impact that matter to them”.  They don't go into much more detail on that.  (ot surprising since they are trying to sell Altmetrics' services.  It can be anything you want!  Or something like that.)
 
 
 
