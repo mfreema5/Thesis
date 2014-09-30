@@ -77,7 +77,7 @@ You guess at a prestige for all the nodes, then start iterating through shifts o
 * Self-citations are capped.
   * “It restricts a journal's self-citation to a maximum of 33% of its issued references, so that excessive self-citation will not involve artificially inflating a journal's value, but without touching the normal process of self-citation.” (González-Pereira 2010)
     * *(One third seems arbitrary.  And any editor with a brain will make sure there are  AT LEAST that many self-citations in their journal.  Does setting a ceiling always create a target?)*
-    * LH NOTE: need some element of time here. Without it, not sure how the nodes can cite each other (i.e., in order to be cited something has to exist). Plenty of network measures of prestige - how is this one different?
+* *LH NOTE: need some element of time here. Without it, not sure how the nodes can cite each other (i.e., in order to be cited something has to exist). Plenty of network measures of prestige - how is this one different?*
 
 ----
 
@@ -122,7 +122,7 @@ The what now?
 
 ##Altmetric “Case Study”
 
-###Adie, Euan, and William Roe. "Altmetric: enriching scholarly content with article-level discussion and metrics." *Learned Publishing* 26, no. 1 (2013): 11-17.
+>Adie, Euan, and William Roe. "Altmetric: enriching scholarly content with article-level discussion and metrics." *Learned Publishing* 26, no. 1 (2013): 11-17.
 
 This is specifically about the firm [Altmetric LLP](http://www.altmetric.com/about.php).
 
