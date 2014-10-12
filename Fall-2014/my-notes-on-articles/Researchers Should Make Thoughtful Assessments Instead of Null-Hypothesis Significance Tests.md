@@ -78,6 +78,15 @@ And also maybe:
 
 * Einhorn, H. J., R. M. Hogarth. 1975. “Unit weighting schemes for decision making.” Organ. Behav. Human. Perform. 13(2) 171–192.
 
+  *Organizational behavior and human performance.
+  * University of Illinois at Chicago
+    * Location: 	Daley Library - Periodicals/2nd floor south-Call Number Area
+    * Call Number: 	BF636.A1 O7
+  * Illinois Institute of Technology
+    * Location: 	Galvin Library Periodicals (Shelved Alphabetically by Title)
+    * Call Number: 	PER.1623687
+      * Continued by: Organizational Behavior And Human Decision Processes
+
 * Hubbard, R., J. S. Armstrong. 1992. “Are null results becoming an endangered species in marketing?” Marketing Lett. 3(2) 127–136.
 
 * Mezias, J. M., W. H. Starbuck. 2003. “Studying the accuracy of managers’ perceptions: A research odyssey.” British J. Management 14(1) 3–17.
@@ -86,7 +95,11 @@ And also maybe:
 
 * Seth, A., K. D. Carlson, D. E. Hatfield, H. W. Lan. 2009. “So what? Beyond statistical significance to substantive significance in strategy research.” D. Bergh, D. Ketchen, eds. Research Methodology in Strategy and Management, Vol. 5. Elsevier, New York, 3–28.
 
-
+  * Research Methodology in Strategy and Management, Vol. 5
+    * University of Illinois at Chicago
+      * Location: 	Daley Library - Book Stacks
+      * Call Number: 	HD30.28 .R468
+      * Status: 	Available
 
 
 
