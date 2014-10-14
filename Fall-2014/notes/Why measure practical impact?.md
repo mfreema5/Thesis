@@ -18,7 +18,10 @@ So, we shouldn't let practical impact lead and/or restrict research.
 
 But, remembering Mitroff's radical notions, if existent research findings could be applied in practice to improve outcomes, is it ethical for us to ignore when the are *not* being applied?
 
->It is hardly news that many organizations do not implement practices that research has shown to be positively associated with employee productivity and firm financial performance (e.g., Hambrick, 1994; Johns, 1993; Pfeffer & Sutton, 2000). Indeed, the failure to implement research-supported practices has been observed in nearly every field where there is a separation between those who conduct research and those who are in a position to implement research findings (Lewis, 2003; Rogers, 1995; Straus, Richardson, Glasziou, & Haynes, 2005).  [Rynes, *et al.* (2007)](http://doi.org/10.5465/AMJ.2007.27151939)
+>It is hardly news that many organizations do not implement practices that research has shown to be positively associated with employee productivity and firm financial performance (e.g., Hambrick, 1994; Johns, 1993; Pfeffer & Sutton, 2000). Indeed, the failure to implement research-supported practices has been observed in nearly every field where there is a separation between those who conduct research and those who are in a position to implement research findings (Lewis, 2003; Rogers, 1995; Straus, Richardson, Glasziou, & Haynes, 2005).  \[[Rynes, *et al.* (2007)](http://doi.org/10.5465/AMJ.2007.27151939)]
+
+>Sadly, there is poor uptake of management practices of known effectiveness (e.g., goal setting and performance feedback [Locke & Latham, 1984]). Even in businesses populated by MBAs from top-ranked universities, there is unexplained wide variation in managerial practice patterns (e.g., how [or if] goals are set, selection decisions made, rewards allocated, or training investments determined) and, worse, persistent use of practices known to be largely ineffective (e.g., downsizing [Cascio, Young, & Morris, 1997; high ratios of executive to rankand-file employee compensation [Cowherd & Levine, 1992]). The result is a research-practice gap. \[[Rousseau (2006)](http://doi.org/10.2307/20159200)]
+
 
 It doesn't seem particularly radical to expect that researchers should help practitioners when they can.  But, apparently, they aren't.  So, how can we change that?
 
@@ -38,7 +41,7 @@ Also, we should consider fields that *do* manage to transfer knowledge between r
 
 And [Rynes, *et al.* (2007)](http://doi.org/10.5465/AMJ.2007.27151939) give an additional reason:
 
->…unlike medicine, education, or law, management is not truly a profession (Leicht & Fennell, 2001; Trank & Rynes, 2003). As such, there is no requirement that managers be exposed to scientific knowledge about management, that they pass examinations in order to become licensed to practice, or that they pursue continuing education in order to be allowed to maintain their practice.  [Rynes *et al.*, 2007](http://doi.org/10.5465/AMJ.2007.27151939)
+>…unlike medicine, education, or law, management is not truly a profession (Leicht & Fennell, 2001; Trank & Rynes, 2003). As such, there is no requirement that managers be exposed to scientific knowledge about management, that they pass examinations in order to become licensed to practice, or that they pursue continuing education in order to be allowed to maintain their practice.
 
 So, to *increase* the practical impact of research, you *measure* the practical impact of research.
 
