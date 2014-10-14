@@ -53,7 +53,7 @@ Specifically, we should track practical impact in other fields for the same reas
     * Guides future research
     * Allows for follow-up studies on effectiveness
 
-Research does not need to have practical impact to be important or valuable; and requiring practical impact would degrade the overall research in any field.  But it is unethical to leave practitioners ignorant of practically-applicable research simply because we do not reward researchers for their impact on practice.
+Research does not need to have practical impact to be important or valuable, and requiring practical impact could possibly degrade the overall research in any given field.  But it is unethical to leave practitioners ignorant of practically-applicable research simply because we do not reward researchers for their impact on practice.
 
 ----
 
