@@ -4,9 +4,17 @@
 
 >Pragmatism is the philosophical school that posits that truth is that which makes a significant difference in the lives of humans. Something—an action, empirical finding, proposition, conjecture, theorem—that is true in theory (i.e., in the abstract only) but makes no difference in the lives of humans is not a truth for pragmatism. Thus, contrary to what many academics believe, truth is not solely a property of formal propositions, theorems, research findings, and so forth but of ethical actions (i.e., actions that eliminate, or make significant headway in eliminating, some important human problem).
 
-In other words, without practical impact, a research hypothesis can *never* be “true”, no matter what evidence there may be, empirical or otherwise.  It's not an argument many would agree with, but it's an interesting proposition.
+In other words, without practical impact, a research hypothesis can *never* be “true”, no matter what evidence there may be, empirical or otherwise.
 
 It's not an argument many would agree with, but it's an interesting proposition: Why do we believe that science/research must be independent of practical concerns?
+
+----
+
+Different approach:
+
+If we require research to have practical impact, we end up applying Mitroff's Pragmatism [ref] to research.  We are effectively negating the “truth” of any research that has no practical application by rejecting it.  Only those things “which makes a significant difference in the lives of humans” are accepted, so only they are true.
+
+----
 
 [Charles Hulin (2001)](http://doi.org/10.1111/1464-0597.00055) was writing specifically about the field of I/O psychology when he rejected the notion that research should be required to have practical application, but his arguments are applicable to other fields:
 
