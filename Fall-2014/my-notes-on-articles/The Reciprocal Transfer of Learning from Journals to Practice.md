@@ -1,4 +1,4 @@
-Latham, Gary. 2001. “The Reciprocal Transfer of Learning from Journals to Practice.” Applied Psychology: An International Review 50 (2): 201–11.
+Latham, Gary. 2001. “The Reciprocal Transfer of Learning from Journals to Practice.” Applied Psychology: An International Review 50 (2): 201–11.  doi:10.1111/1464-0597.00054
 
 
 
