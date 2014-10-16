@@ -4,11 +4,11 @@ A not-in-any-way-complete list of products and/or methods:
 
 * Ranking similar to percentile ranking
 * Calculation of *h*-index for scientific journals based on citations
-  * Hirsch, Jorge E. "An index to quantify an individual's scientific research output." *Proceedings of the National academy of Sciences of the United States of America* 102, no. 46 (2005): 16569-16572.
+  * Hirsch, Jorge E. "An index to quantify an individual's scientific research output." *Proceedings of the National academy of Sciences of the United States of America* 102, no. 46 (2005): 16569-16572. doi: [10.1073/pnas.0507655102](http://doi.org/10.1073/pnas.0507655102)
 * SNIP (Source Normalized Impact per Paper)
-  * Moed, Henk F. "Measuring contextual citation impact of scientific journals." *Journal of Informetrics* 4, no. 3 (2010): 265-277.
+  * Moed, Henk F. "Measuring contextual citation impact of scientific journals." *Journal of Informetrics* 4, no. 3 (2010): 265-277. doi: [10.1016/j.joi.2010.01.002](http://doi.org/10.1016/j.joi.2010.01.002)
 * SJR (Scimago Journal Ranking)
-  * González-Pereira, Borja, Vicente P. Guerrero-Bote, and Félix Moya-Anegón. "A new approach to the metric of journals’ scientific prestige: The SJR indicator." *Journal of informetrics* 4, no. 3 (2010): 379-391.
+  * González-Pereira, Borja, Vicente P. Guerrero-Bote, and Félix Moya-Anegón. "A new approach to the metric of journals’ scientific prestige: The SJR indicator." *Journal of informetrics* 4, no. 3 (2010): 379-391.  doi: [10.1016/j.joi.2010.03.002](http://doi.org/10.1016/j.joi.2010.03.002)
 * Cited Half-life
   * Tracks *when* citations “peak” to indicate nature of impact(?)
 * Immediacy Index of the ISI
@@ -77,7 +77,8 @@ You guess at a prestige for all the nodes, then start iterating through shifts o
 * Self-citations are capped.
   * “It restricts a journal's self-citation to a maximum of 33% of its issued references, so that excessive self-citation will not involve artificially inflating a journal's value, but without touching the normal process of self-citation.” (González-Pereira 2010)
     * *(One third seems arbitrary.  And any editor with a brain will make sure there are  AT LEAST that many self-citations in their journal.  Does setting a ceiling always create a target?)*
-* *LH NOTE: need some element of time here. Without it, not sure how the nodes can cite each other (i.e., in order to be cited something has to exist). Plenty of network measures of prestige - how is this one different?*
+
+* **LH NOTE:** *need some element of time here. Without it, not sure how the nodes can cite each other (i.e., in order to be cited something has to exist). Plenty of network measures of prestige - how is this one different?*
 
 ----
 
