@@ -85,13 +85,43 @@ Thed van Leeuwen. “Application of bibliometric analysis – Advantages & pitfa
 ##The H-Index and its limitations
 
 
+>The H-Index is the score that indicates the position at which a publication in a set, the number of received citations is equal to the ranking position of that publication.
+
+###Problems with the H-Index
+
+* The *h*-index:
+  * Is insensitive to field specific characteristics
+    * E.g., difference in citation cultures
+  * Does not take into account age and career length of scientists
+    * Larger output strongly correlates with a high *h*-index value
+  * Is otherwise inconsistent in its behavior
 
 
+##Consistency: Definition
+
+>A scientific performance measure is said to be consistent if and only if for any two actors A and B and for any number n ≥ 0 the ranking of A and B given by the performance measure does not change when A and B both have a new publication with n citations.
+
+* For
+  * any two actors
+    * A
+    * B
+* Relative ranking
+  * ( A > B ) or ( B < A )
+* Does not change when
+  * Both A and B
+    * get a new publication
+      * both of which each have ‘*n*’ citations
+
+In other words:
+
+  If A ranks higher than B, and both A and B get a new publication, and those new publications both get the same number of citations, A should continue to rank higher than B.
+
+###Consistency and the *h*-index
+
+The *h*-index does not satisfy this definition of consistency.
 
 
-
-
-
+##ISI Impact Factors – calculation and validity
 
 
 
