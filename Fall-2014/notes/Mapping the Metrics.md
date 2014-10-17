@@ -1,7 +1,9 @@
 #Mapping the Metrics
 
 
-##Decoder Ring / Sources
+##Decoder Ring
+
+###Name-brand metrics
 
 | TLA  |  Name                              |  Data source(s)                                       | More info |
 |------|------------------------------------|-------------------------------------------------------|-----------|
@@ -11,9 +13,6 @@
 | SNIP | Source Normalized Impact per Paper | [Scopus](http://www.elsevier.com/online-tools/scopus) | [CWTS Journal Indicators](http://www.journalindicators.com/methodology) |
 | RIP  | Raw Impact per Publication         | [Scopus](http://www.elsevier.com/online-tools/scopus) | [CWTS Journal Indicators](http://www.journalindicators.com/methodology) |
 | SJR  | SCImago Journal Rank               | [Scopus](http://www.elsevier.com/online-tools/scopus) | [SCImago Journal & Country Rank](http://www.scimagojr.com/)             |
-| *h*-I  | *h*-index                          | (*multiple possible?*)                                | Hirsch, J. E. 2005                                                       |
-
-  * Hirsch, J. E. 2005. “An Index to Quantify an Individual’s Scientific Research Output.” *Proceedings of the National Academy of Sciences of the United States of America* 102 (46): 16569–72. doi:[10.1073/pnas.0507655102](http://doi.org/10.1073/pnas.0507655102).
 
 Note: Institute for Scientific Information (ISI) ➾ ISI Web of Knowledge ➾ [Web of Science](http://thomsonreuters.com/thomson-reuters-web-of-science/)
 
@@ -22,6 +21,30 @@ Note: Institute for Scientific Information (ISI) ➾ ISI Web of Knowledge ➾ [W
     * Science Citation Index
     * Social Science Citation Index
     * Arts & Humanities Citation Index
+
+###DIY metrics
+
+| TLA    |  description                 |  Data source(s)                                       | More info |
+|--------|------------------------------------|-------------------------------------------------------|-----------|
+| *h*-I  | *h*-index                          | (*multiple possible?*)                                | Hirsch, J. E. 2005                                                       |
+
+  * Hirsch, J. E. 2005. “An Index to Quantify an Individual’s Scientific Research Output.” *Proceedings of the National Academy of Sciences of the United States of America* 102 (46): 16569–72. doi:[10.1073/pnas.0507655102](http://doi.org/10.1073/pnas.0507655102).
+
+
+###CWTS bibliometric indicators
+
+| TLA           |  description                                           |
+|---------------|--------------------------------------------------------|
+| **P**         | number of publications by [actor]                      |
+| **C**         | number of received citations                           |
+| **CPP**       | mean number of citations per pub                       |
+| **Pnc**       | percentage of pubs not cited                           |
+| **% SC**      | percentage self-citations related to an output set     |
+| **CPP/JCSm**  | ratio (mean actor cites/pub) to (mean journal impact)  |
+| **CPP/FCSm**  | ratio (mean actor cites/pub) to (mean field impact)    |
+| **JCSm/FCSm** | ratio (journal impact) to (field impact)               |
+
+
 
 ##Relevant features
 
