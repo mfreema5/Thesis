@@ -2,7 +2,12 @@
 
 Thed van Leeuwen. “Application of bibliometric analysis – Advantages & pitfalls”. Workshop on Research Evaluation in Statistical Sciences, Società Italiana di Statistica, Bologna, 25th March 2010
 
-^(leeuwen@cwts.nl)
+{
+Thed N. van Leeuwen
+Centre for Science and Technology Studies (CWTS)
+Leiden University, PO Box 9555, 2300 RB Leiden, The Netherlands
+leeuwen@cwts.leidenuniv.nl
+}
 
 *Key concepts in bibliometrics
   * *output*
@@ -12,6 +17,8 @@ Thed van Leeuwen. “Application of bibliometric analysis – Advantages & pitfa
 
 
 ##Bibliometric indicators produced by CWTS
+
+**CWTS** - Centre for Science and Technology Studies, Leiden University (Leiden, The Netherlands)
 
 * Basic indicators
   * **P**: number of publications by researcher/research group
@@ -24,8 +31,8 @@ Thed van Leeuwen. “Application of bibliometric analysis – Advantages & pitfa
     * within a certain time-frame
   * **% SC**: percentage self-citations related to an output set.
 * Important indicators
-  * **CPP/JCSm**: ratio between (real, actual impact) and (mean journal impact)
-  * **CPP/FCSm**: ratio between (real, actual impact) and (mean field impact)
+  * **CPP/JCSm**: ratio between (mean actor cites/pub) and (mean Journal Citation Score)
+  * **CPP/FCSm**: ratio between (mean actor cites/pub) and (mean Field Citation Score)
   * **JCSm/FCSm**: ratio between (journal impact) and (field impact)
     * indicative of the ‘quality’ of that journal in that field
 
