@@ -2,6 +2,8 @@
 
 Thed van Leeuwen. “Application of bibliometric analysis – Advantages & pitfalls”. Workshop on Research Evaluation in Statistical Sciences, Società Italiana di Statistica, Bologna, 25th March 2010
 
+^(leeuwen@cwts.nl)
+
 *Key concepts in bibliometrics
   * *output*
     * measured through publications
@@ -84,7 +86,6 @@ Thed van Leeuwen. “Application of bibliometric analysis – Advantages & pitfa
 
 ##The H-Index and its limitations
 
-
 >The H-Index is the score that indicates the position at which a publication in a set, the number of received citations is equal to the ranking position of that publication.
 
 ###Problems with the H-Index
@@ -95,7 +96,6 @@ Thed van Leeuwen. “Application of bibliometric analysis – Advantages & pitfa
   * Does not take into account age and career length of scientists
     * Larger output strongly correlates with a high *h*-index value
   * Is otherwise inconsistent in its behavior
-
 
 ##Consistency: Definition
 
@@ -120,8 +120,45 @@ In other words:
 
 The *h*-index does not satisfy this definition of consistency.
 
+{
+But is that definition a useful one?
+
+* If *h*-index is sensitive to the size of the total body of work
+  * A small body of significant work ≈ a large body of insignificant work
+    * A = small&significant
+    * B = large&insignificant
+    * Weight of total body means B > A
+    * If A & B both start adding significant pubs, shouldn't A surpass B at some point?
+* Maintaining the *status quo* is not *ipso facto* the right thing to do.
 
 ##ISI Impact Factors – calculation and validity
+
+>The ISI Impact Factor (IF) is defined as the number of citations received by a journal in year t, divided by the number of citeable documents in that same journal in the years t-1 and t-2
+
+* CWTS analyzed uses and validity of Journal Impact Factor
+  * 1995 onwards
+  * Important criticisms:
+    * Calculated erroneously
+    * Not sensitive to differences in composition of the journals
+      * (¿ e.g., articles vs. reviews ?)
+    * Not sensitive to differences in fields
+    * ‘Citation windows’ too short
+      * The “correct” citation window is field dependent
+
+###CWTS answer to JIF problems
+
+* JFIS – Journal-to-Field Impact Score
+  * calculation based on equally large entities
+  * document types taken into account
+  * field-normalized
+  * citation windows of 1-4 years
+    * ¿ “Fixed windows” or “Year blocks” ?
+
+
+
+
+
+
 
 
 
