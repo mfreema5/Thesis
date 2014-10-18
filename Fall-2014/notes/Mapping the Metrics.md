@@ -14,13 +14,13 @@
 | RIP  | Raw Impact per Publication         | [Scopus](http://www.elsevier.com/online-tools/scopus) | [CWTS Journal Indicators](http://www.journalindicators.com/methodology) |
 | SJR  | SCImago Journal Rank               | [Scopus](http://www.elsevier.com/online-tools/scopus) | [SCImago Journal & Country Rank](http://www.scimagojr.com/)             |
 
-Note: Institute for Scientific Information (ISI) ➾ ISI Web of Knowledge ➾ [Web of Science](http://thomsonreuters.com/thomson-reuters-web-of-science/)
-
-* Thomson Scientific (formerly ISI – Institute for Scientific Information)
-  * Web of Science
-    * Science Citation Index
-    * Social Science Citation Index
-    * Arts & Humanities Citation Index
+Note:
+* Institute for Scientific Information (ISI) *begat*
+  * ISI Web of Knowledge *begat*
+    * Thomson Scientific [Web of Science](http://thomsonreuters.com/thomson-reuters-web-of-science/)
+      * Science Citation Index
+      * Social Science Citation Index
+      * Arts & Humanities Citation Index
 
 ###DIY metrics
 
@@ -29,6 +29,11 @@ Note: Institute for Scientific Information (ISI) ➾ ISI Web of Knowledge ➾ [W
 | *h*-I  | *h*-index                          | (*multiple possible?*)                                | Hirsch, J. E. 2005                                                       |
 
   * Hirsch, J. E. 2005. “An Index to Quantify an Individual’s Scientific Research Output.” *Proceedings of the National Academy of Sciences of the United States of America* 102 (46): 16569–72. doi:[10.1073/pnas.0507655102](http://doi.org/10.1073/pnas.0507655102).
+
+* an actor has an *h*-index of “h” when
+  * they have “h” number of papers that
+    * have ≥ “h” number of citations
+  * E.g., 5 papers with 5 or more citations.
 
 
 ###CWTS bibliometric indicators
@@ -45,18 +50,17 @@ Note: Institute for Scientific Information (ISI) ➾ ISI Web of Knowledge ➾ [W
 | **JCSm/FCSm** | ratio (journal impact) to (field impact)               |
 
 
-
 ##Relevant features
 
-| index| article-level | silo'd | mono-db |
-|------|---------------|--------|---------|
-| JIF  |   N           |  Y     |  Y      |
-| II-WoS | N           |  Y     |  Y      |
-| JFIS |   N           |  Y     |  Y      |
-| SNIP |   N           |  Y     |  Y      |
-| RIP  |   N           |  Y     |  Y      |
-| SJR  |   N           |  Y     |  Y      |
-| *h*-I  | ¿ N ?       |  ¿ Y ? |  N      |
+| index  | article-level | silo'd | mono-db |
+|--------|---------------|--------|---------|
+| JIF    | N             |  Y     |  Y      |
+| II-WoS | N             |  Y     |  Y      |
+| JFIS   | N             |  Y     |  Y      |
+| SNIP   | N             |  Y     |  Y      |
+| RIP    | N             |  Y     |  Y      |
+| SJR    | N             |  Y     |  Y      |
+| *h*-I  | Y             |  ¿ Y ? |  N      |
 
 
 * “silo'd” - Is the metric restricted to academia?
