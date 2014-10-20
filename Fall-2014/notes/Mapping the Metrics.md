@@ -1,6 +1,5 @@
 #Mapping the Metrics
 
-
 ##Decoder Ring
 
 ###Name-brand metrics
@@ -21,6 +20,7 @@ Note:
       * Science Citation Index
       * Social Science Citation Index
       * Arts & Humanities Citation Index
+
 
 ###DIY metrics
 
@@ -52,16 +52,23 @@ Note:
 
 ##Relevant features
 
-| index  | article-level | silo'd | mono-db |
-|--------|---------------|--------|---------|
-| JIF    | N             |  Y     |  Y      |
-| II-WoS | N             |  Y     |  Y      |
-| JFIS   | N             |  Y     |  Y      |
-| SNIP   | N             |  Y     |  Y      |
-| RIP    | N             |  Y     |  Y      |
-| SJR    | N             |  Y     |  Y      |
-| *h*-I  | Y             |  ¿ Y ? |  N      |
-
+| index / indicator | article-level | silo'd | mono-db |
+|-------------------|---------------|--------|---------|
+| JIF               | N             |  Y     |  Y      |
+| II-WoS            | N             |  Y     |  Y      |
+| JFIS              | N             |  Y     |  Y      |
+| SNIP              | N             |  Y     |  Y      |
+| RIP               | N             |  Y     |  Y      |
+| SJR               | N             |  Y     |  Y      |
+| *h*-Index         | Y             |  Y     |  N      |
+| **P**             | Y             |  Y     |  N      |
+| **C**             | Y             |  Y     |  N      |
+| **CPP**           | Y             |  Y     |  N      |
+| **Pnc**           | Y             |  Y     |  N      |
+| **% SC**          | Y             |  Y     |  N      |
+| **CPP/JCSm**      | Y             |  Y     |  N      |
+| **CPP/FCSm**      | Y             |  Y     |  N      |
+| **JCSm/FCSm**     | Y             |  Y     |  N      |
 
 * “silo'd” - Is the metric restricted to academia?
 * “mono-db” – Does it use one and only one database?
