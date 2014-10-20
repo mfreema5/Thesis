@@ -2,13 +2,6 @@
 
 Thed van Leeuwen. “Application of bibliometric analysis – Advantages & pitfalls”. Workshop on Research Evaluation in Statistical Sciences, Società Italiana di Statistica, Bologna, 25th March 2010
 
-{
-Thed N. van Leeuwen
-Centre for Science and Technology Studies (CWTS)
-Leiden University, PO Box 9555, 2300 RB Leiden, The Netherlands
-leeuwen@cwts.leidenuniv.nl
-}
-
 *Key concepts in bibliometrics
   * *output*
     * measured through publications
