@@ -1,3 +1,43 @@
+#Centre for Science and Technology Studies
+
+>The Centre for Science and Technology Studies ([CWTS](http://www.cwts.nl/Home)) studies the dynamics of scientific research and its connections to technology, innovation and society. This means studying scientific and academic research from a scientific point of view.
+
+##Societal Impact of Research
+
+>The working group ‘Society Using Research’ ([SURe](http://www.cwts.nl/Societal-Impact-of-Research)) focuses on the socio-economic and cultural effects that scientific research results have on society at large; as represented by private, professionals and (lay) public.
+
+Among three main topics for SURe:
+
+>To develop an independent method to retrieve data that analyzes and/or quantifies scientific outputs (not only publications) describing societal quality of research. This approach is defined as altmetrics, or alternative metrics from bibliometrics.
+
+##CWTS Research Line in Altmetrics
+
+>[Altmetrics](http://www.cwts.nl/Altmetrics) is the study of the mentions (i.e. likes, shares, comments, tweets, blog posts, bookmarks, saves, recommendations, etc.) of scientific outputs in social web tools such as Facebook, Twitter, Wikipedia, blogs, news media, and reference management tools.
+
+* Sources of data:
+  * [Impact Story](http://impactstory.org)
+  * [PLOS ALM](http://article-level-metrics.plos.org)
+  * [Plum Analytics](http://www.plumanalytics.com)
+  * [Altmetric.com](http://www.altmetric.com)
+  * [F1000](http://f1000.com)
+  * [Mendeley](http://www.mendeley.com)
+  * etcetcetc
+
+###“Our Line of Research”
+
+>The aim of the Altmetrics research line at CWTS is to investigate the different altmetrics tools in order to study the potential and feasibility of altmetrics as a new data source for research assessment purposes and to explore what types of impact (scientific, societal, cultural...) can be supported by them. Some topics of research are the following:
+
+> • The study and analysis of the features and possibilities of the different altmetrics data sources and the metrics that they provide.
+
+> • Developing and conceptualizing systematic ways of measuring online activity around scholarly outputs.
+
+> • Developing and testing Application Programming Interfaces (APIs) in extracting altmetrics data.
+
+> • Assessing the validity and reliability of altmetrics data sources, tools and indicators and their comparison with bibliometric methodologies.
+
+> • Developing new impact assessment indicators based on altmetrics and study of their feasibility for research assessment purposes.
+
+
 ##Finding CWTS articles in the Leiden University repository
 
 [Leiden Repository -> Advanced Search](https://openaccess.leidenuniv.nl/advanced-search)
