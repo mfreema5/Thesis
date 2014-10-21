@@ -6,6 +6,8 @@
 
 Full text: [The Leiden manifesto in the making: proposal of a set of principles on the use of assessment metrics in the S&T indicators conference](http://citationculture.wordpress.com/2014/09/15/the-leiden-manifesto-in-the-making-proposal-of-a-set-of-principles-on-the-use-of-assessment-metrics-in-the-st-indicators-conference/)
 
+(Much of what following is directly quoted from that page, with just better formatting&mdash;in other words, “more white space”.)
+
 ----
 
 Diana Hicks (Georgia Institute of Technology) presented a first draft of a set of statements (the “Leiden Manifesto”), which she proposed should be published in a top-tier journal like Nature or Science. The statements are general principles on how scientometric indicators should be used, such as for example, ‘Metrics properly used support assessments; they do not substitute for judgment’ or ‘Metrics should align with strategic goals’.
