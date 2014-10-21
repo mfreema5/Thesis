@@ -41,9 +41,9 @@ But evidence of ‘practical impact’ will be *outside* of “scholarly” data
 
 ##Altmetrics
 
-The only existing metrics within informetrics that might already include practical impact are those that are usually called “altmetrics”
+The only existing metrics within informetrics that a likely to include practical impact are usually called “altmetrics”
 
->Altmetrics is the study of the mentions (i.e. likes, shares, comments, tweets, blog posts, bookmarks, saves, recommendations, etc.) of scientific outputs in social web tools such as Facebook, Twitter, Wikipedia, blogs, news media, and reference management tools. ([CWTS](http://www.cwts.nl/Home))
+>Altmetrics is the study of the mentions (i.e. likes, shares, comments, tweets, blog posts, bookmarks, saves, recommendations, etc.) of scientific outputs in social web tools such as Facebook, Twitter, Wikipedia, blogs, news media, and reference management tools. (**CWTS**)
 
 ###CWTS
 
@@ -53,9 +53,9 @@ As far as I can tell, they haven't released any actual metrics, but they have be
 
 ###Altmetric LLP
 
-I still haven't dug in to what exactly [Altmetric LLP](http://www.altmetric.com/about.php) provides.  Presumably there would be overlap.  But it's a commericial, closed source metric, so I'm not sure, A – how much I can learn, and B – how much it would matter if it does overlap.
+I still don't really know exactly what metrics [Altmetric LLP](http://www.altmetric.com/about.php) provides.  Presumably there would be overlap,  but their metrics are mostly commercial and closed source, so I'm not sure: A – how much I can learn, and B – how much it would matter if it does overlap.
 
-The other issue, of course, is for what purposes does Altmetric LLP intend their metrics?  What they give as a reason for their product is: “Increasingly [researchers] need to show the impact of their papers, books and datasets are having beyond just citations.”  Show to whom?  For what end?
+The other issue, of course, is for what purposes does Altmetric LLP intend their metrics?  What reason the give for their product is: “Increasingly [researchers] need to show the impact of their papers, books and datasets are having beyond just citations.”  Show to whom?  For what end?
 
 Similarly, CWTS-SURe states that (some of) their goals are:
 
@@ -65,15 +65,25 @@ Similarly, CWTS-SURe states that (some of) their goals are:
 
 How would practical impact tie in with their analysis of the “societal quality” of research?
 
-##Required or rewarded
+###Required or rewarded
 
-Also, I don't see either Altmetric LLP or CWTS-SURe considering the issue of whether “altmetric value” is going to be required or rewarded.  They seem to be offering them up as supplements to the existent metrics that are being used (rightly or wrongly) to quantify required properties of research.
+Also, I don't see either Altmetric LLP or CWTS-SURe considering the issue of whether a measure “altmetric value” is going to used to judge criteria that are required or criteria that are rewarded.  They seem to be simply offering them up as supplements to the existent metrics, which are being used as surrogates for quantifying various required properties of research.
 
+Of course, if existent metrics are misused, should providers of altmetrics worry about how they will be used?  Which brings us to…
 
+##‘Leiden Manifesto’
 
-[brain shutting down… time to get dinner or summat…]
+CWTS runs a conference about Science and Technology Indicators.  The 19^th annual STI conference&mdash;“Context Counts: Pathways to Master Big and Little Data”&mdash;was convened in Leiden, just last month (September 2014).
 
+As reported on a CWTS-related blog, “[The Citation Culture](http://wp.me/p1RSZG-8d)”, during a panel session [Diana Hicks](http://www.iac.gatech.edu/faculty-and-staff/faculty/bio/hicks), a professor and department chair in the School of Public Policy at the Georgia Tech, proposed a set of guidelines for the use of quantitative metrics in research assessment, which some are calling the ‘Leiden Manifesto’.
 
+The best twitter-sized summary of that proposal is perhaps: “Metrics properly used support assessments; they do not substitute for judgment.”  (For more details, see: [“Leiden Manifesto.md”](/Fall-2014/notes/Leiden%20Manifesto.md).)
+
+I'm wondering if the required/rewarded distinction is one that's never been consider, or has already been considered and dismissed.
+
+##Overlap?  Not entirely, if at all.
+
+Either way, neither of the potential sources of altmetrics seem to have given any specific recommendations of the use of altmetrics.  So, even if there is overlap in the inclusion of practical impact data, there likely won't be any overlap in how that data is treated/presented.
 
 
 
