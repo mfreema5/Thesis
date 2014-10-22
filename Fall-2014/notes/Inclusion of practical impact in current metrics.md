@@ -41,7 +41,7 @@ But evidence of ‘practical impact’ will be *outside* of “scholarly” data
 
 ##Altmetrics
 
-The only existing metrics within informetrics that a likely to include practical impact are usually called “altmetrics”
+The only existing metrics within informetrics that are likely to include practical impact are usually called “altmetrics”
 
 >Altmetrics is the study of the mentions (i.e. likes, shares, comments, tweets, blog posts, bookmarks, saves, recommendations, etc.) of scientific outputs in social web tools such as Facebook, Twitter, Wikipedia, blogs, news media, and reference management tools. (**CWTS**)
 
