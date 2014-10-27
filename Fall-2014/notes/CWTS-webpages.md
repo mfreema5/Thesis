@@ -87,3 +87,5 @@ Semi-chunked output from URL spider.
 * [www.cwts.nl/People/paulwouters](http://www.cwts.nl/People/paulwouters)
 * [www.cwts.nl/People/sarahderijcke](http://www.cwts.nl/People/sarahderijcke)
 
+
+(`wget --spider -r -e robots=off -l 25 -w 7 -o "cwts.nl.log" -R pdf,PDF,ppt,pptx,pptm,sldx,doc,docx,docm,xls,xlsx,xlsm "http://www.cwts.nl/Home"`)
