@@ -1,7 +1,5 @@
 #CWTS webpages
 
-Semi-chunked output from URL spider.
-
 * [www.cwts.nl/](http://www.cwts.nl/)
 * [www.cwts.nl/Home](http://www.cwts.nl/Home)
 * [www.cwts.nl/About-CWTS](http://www.cwts.nl/About-CWTS)
@@ -47,7 +45,6 @@ Semi-chunked output from URL spider.
     * Career studies: How do scientific careers develop, and how does that effect the development of science?
   * [www.cwts.nl/Evaluation-Practices-in-Context](http://www.cwts.nl/Evaluation-Practices-in-Context)
     * “Examines the politics and practices of research evaluation in connection with contemporary forms of governance of research and scholarship”
-
 * [www.cwts.nl/Advanced-Bibliometric-Methods](http://www.cwts.nl/Advanced-Bibliometric-Methods)
   * Research topics include:
     * Bibliometric indicators
@@ -78,7 +75,6 @@ Semi-chunked output from URL spider.
       * Developing new research assessment tools based on altmetrics
 * [www.cwts.nl/Career-Policy---Paths-in-Science](http://www.cwts.nl/Career-Policy---Paths-in-Science)
   * Studies the development of the career system, and its implications for the careers of scientists
-
 * [www.cwts.nl/Other-CWTS-sites](http://www.cwts.nl/Other-CWTS-sites)
   * `<div class="contents">			</div>`
 
