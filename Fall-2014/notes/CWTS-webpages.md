@@ -37,25 +37,58 @@ Semi-chunked output from URL spider.
   * Social sciences and humanities
   * Scientific careers
   * Societal impact of research
-
-* [www.cwts.nl/Altmetrics](http://www.cwts.nl/Altmetrics)
 * [www.cwts.nl/Scientometrics](http://www.cwts.nl/Scientometrics)
-* [www.cwts.nl/Advanced-Bibliometric-Methods](http://www.cwts.nl/Advanced-Bibliometric-Methods)
-* [www.cwts.nl/Advanced-Citation-Analysis](http://www.cwts.nl/Advanced-Citation-Analysis)
+  * Research topics include:
+    * What are the meaning of citation metrics and related indicators?
+    * Examining and interpreting the history of scientometrics and citation indexes
+    * Evaluation practices in context: How are research assessments actually done?
+    * The sociology of evaluation: how can we interpret the rise of formalized accountability in society?
+    * Citation and publication modeling: How can we use models to understand communication in science?
+    * Career studies: How do scientific careers develop, and how does that effect the development of science?
+  * [www.cwts.nl/Evaluation-Practices-in-Context](http://www.cwts.nl/Evaluation-Practices-in-Context)
+    * “Examines the politics and practices of research evaluation in connection with contemporary forms of governance of research and scholarship”
 
+* [www.cwts.nl/Advanced-Bibliometric-Methods](http://www.cwts.nl/Advanced-Bibliometric-Methods)
+  * Research topics include:
+    * Bibliometric indicators
+    * Bibliometric network analysis
+    * Bibliometric data sources and data processing
 * [www.cwts.nl/Science---Innovation-Studies](http://www.cwts.nl/Science---Innovation-Studies)
+  * Research topics include:
+    * University-industry research cooperation and connections
+    * Proximity and geography in global science and innovation systems
+    * Dynamics and socio-economic impacts of contemporary science
 * [www.cwts.nl/Science-Policy-Studies](http://www.cwts.nl/Science-Policy-Studies)
+  * Aim is to “develop a science of science policy”
 * [www.cwts.nl/Social-Sciences--Humanities---Law](http://www.cwts.nl/Social-Sciences--Humanities---Law)
+  * Research topics include:
+    * How do SSHL scholars conduct research and communicate both academic peer groups and the wider civil-society?
+    * Development of indicators to assess the scholarly performance of SSHL scholars
 * [www.cwts.nl/Societal-Impact-of-Research](http://www.cwts.nl/Societal-Impact-of-Research)
+  * Research topics include:
+    * Identify stakeholders (users of research) and their interactions with science
+    * Develop a method to analyze and/or quantify scientific outputs, describing the societal quality of research (i.e., altmetrics)
+    * Validate, value, and visualize the results of an evaluation of the societal quality of research
+  * [www.cwts.nl/Altmetrics](http://www.cwts.nl/Altmetrics)
+    * Research topics include:
+      * The study and analysis of the features and possibilities of the different altmetrics data sources and the metrics that they provide.
+      * Developing measurements of online activity related to scholarly outputs
+      * Developing/testing APIs for extracting altmetrics
+      * Studying the validity of altmetrics and comparing them with bibliometrics
+      * Developing new research assessment tools based on altmetrics
 * [www.cwts.nl/Career-Policy---Paths-in-Science](http://www.cwts.nl/Career-Policy---Paths-in-Science)
-* [www.cwts.nl/Evaluation-Practices-in-Context](http://www.cwts.nl/Evaluation-Practices-in-Context)
-* [www.cwts.nl/Bibliometric-Network-Analysis-and-Science-Mapping-Using-VOSviewer](http://www.cwts.nl/Bibliometric-Network-Analysis-and-Science-Mapping-Using-VOSviewer)
-* [www.cwts.nl/research/bibliometrics_vs_peer_review/data.txt](http://www.cwts.nl/research/bibliometrics_vs_peer_review/data.txt)
+  * Studies the development of the career system, and its implications for the careers of scientists
+
 * [www.cwts.nl/Other-CWTS-sites](http://www.cwts.nl/Other-CWTS-sites)
+  * `<div class="contents">			</div>`
 
 * [www.cwts.nl/Training---Education](http://www.cwts.nl/Training---Education)
 * [www.cwts.nl/Master---PhD-Thesis-Supervision](http://www.cwts.nl/Master---PhD-Thesis-Supervision)
 * [www.cwts.nl/Minor-Science-and-Technology-in-Society](http://www.cwts.nl/Minor-Science-and-Technology-in-Society)
+* [www.cwts.nl/Bibliometric-Network-Analysis-and-Science-Mapping-Using-VOSviewer](http://www.cwts.nl/Bibliometric-Network-Analysis-and-Science-Mapping-Using-VOSviewer)
+  * This course gives participants a thorough introduction into bibliometric network analysis and science mapping
+* [www.cwts.nl/Advanced-Citation-Analysis](http://www.cwts.nl/Advanced-Citation-Analysis)
+  * This course expands on topics in the introductory “Measuring Science and Research Performance”
 * [www.cwts.nl/CWTS-Course-for-Professionals](http://www.cwts.nl/CWTS-Course-for-Professionals)
 * [www.cwts.nl/Tailor-made-Training-Courses](http://www.cwts.nl/Tailor-made-Training-Courses)
 
