@@ -5,15 +5,38 @@ Semi-chunked output from URL spider.
 * [www.cwts.nl/](http://www.cwts.nl/)
 * [www.cwts.nl/Home](http://www.cwts.nl/Home)
 * [www.cwts.nl/About-CWTS](http://www.cwts.nl/About-CWTS)
+  * Three chairs for full professors (see below)
+  * Five working groups (see below)
 * [www.cwts.nl/About-Leiden](http://www.cwts.nl/About-Leiden)
+  * Medium-sized city in the Netherlands
 * [www.cwts.nl/Chairs](http://www.cwts.nl/Chairs)
+  * Scientometrics
+  * Science & Innovation Studies
+  * Science Policy Studies
 * [www.cwts.nl/Contact](http://www.cwts.nl/Contact)
-
+  * Willem Einthoven Building, Wassenaarseweg 62A, 2333 AL Leiden, The Netherlands
 * [www.cwts.nl/Products---Services](http://www.cwts.nl/Products---Services)
+  * [CWTS B.V.](http://www.cwtsbv.nl/Home)
+    * A company owned by Leiden University
+    * “provide products and services to research institutes”
+      * Monitoring & Evaluation
+      * Advanced Analytics
+      * Training & Education.
 * [www.cwts.nl/Research](http://www.cwts.nl/Research)
+  * Three chairs and five working groups.
 * [www.cwts.nl/CWTS-Research-Program-2012-2015](http://www.cwts.nl/CWTS-Research-Program-2012-2015)
+  * PDF: [CWTS Research Program 2012-2015: Merit, Expertise and Measurement](http://www.cwts.nl/download/f-z2s2.pdf)
 * [www.cwts.nl/CWTS-Working-Paper-Series](http://www.cwts.nl/CWTS-Working-Paper-Series)
+  * An outlet for:
+    * Papers under review
+    * Pre-print papers
+    * Background papers
 * [www.cwts.nl/Working-Groups](http://www.cwts.nl/Working-Groups)
+  * Advanced bibliometric methods
+  * Evaluation practices in context
+  * Social sciences and humanities
+  * Scientific careers
+  * Societal impact of research
 
 * [www.cwts.nl/Altmetrics](http://www.cwts.nl/Altmetrics)
 * [www.cwts.nl/Scientometrics](http://www.cwts.nl/Scientometrics)
