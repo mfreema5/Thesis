@@ -1,6 +1,10 @@
 #HEFCE – REF
 
-There's a UK government initiative (HEFCE – Research Excellence Framework) concerning funding science that is apparently asking questions about “practical impact” and related issues of “societal value”.  I should probably at least do a fly-by on that, as an additional justification on why we should care.
+##Higher Education Funding Council for England
+
+###Research Excellence Framework
+
+HEFCE-REF is a UK government initiative concerning funding science that is apparently asking questions about “practical impact” and related issues of “societal value”.  I should probably at least do a fly-by on that, as an additional justification on why we should care.
 
 ##Some links:
 
@@ -41,4 +45,7 @@ Even better:
 
 To do: check out [the ICL webpage](http://www3.imperial.ac.uk/planning/strategicprojects/researchassessment/development/impactpilot) for PDFs of example cases.   And maybe track down more of such things.
 
+##HEFCE downloadables
 
+* [Publications & reports](http://www.hefce.ac.uk/pubs/)
+* [Data & statistics](http://www.hefce.ac.uk/data/)
