@@ -31,21 +31,38 @@ From the PDF of the same name.
 
 >The benefits that can flow from excellent research are many and varied. For the purposes of the REF, impact is defined as: *“any effect on, change or benefit to the economy, society, culture, public policy or services, health, the environment or quality of life, beyond academia.”*
 
+##HEFCE downloadables
+
+* [Publications & reports](http://www.hefce.ac.uk/pubs/)
+* [Data & statistics](http://www.hefce.ac.uk/data/)
+
 ###Publication of other REF material
 
 See: [Arrangements for the publication of results](http://www.ref.ac.uk/pubs/arrangementsforthepublicationofresults/).
 
 >In early 2015, we will publish the submissions on the REF website. For each submission we will publish: a separate list of staff and outputs; the submitted case studies and impact template; and the submitted environment data and template. We will remove personal and contractual details of staff, and any other data that the HEI has indicated should not be published for commercial sensitivity or other reasons. HEIs have had the opportunity to provide redacted versions of case studies, impact templates and environment templates for the purpose of publication.
 
-###REF Impact Pilot
+###[Bibliometrics pilot exercise](http://www.ref.ac.uk/background/bibliometrics/)
 
-Even better:
+>The pilot exercise concluded that citation information is not sufficiently robust to be used formulaically or as a primary indicator of quality in the REF; but there is scope for such data to inform and enhance the process of expert review.
 
->The [Imperial College London] participated in the HEFCE pilot to assess how impact might be measured in the REF.
+###[Impact pilot exercise](http://www.ref.ac.uk/background/pilot/)
 
-To do: check out [the ICL webpage](http://www3.imperial.ac.uk/planning/strategicprojects/researchassessment/development/impactpilot) for PDFs of example cases.   And maybe track down more of such things.
+>During 2010 the REF team ran a pilot exercise to test and develop proposals for assessing the impact of research in the REF.
 
-##HEFCE downloadables
+* [Findings of the pilot expert panels](http://www.ref.ac.uk/pubs/refimpactpilotexercisefindingsoftheexpertpanels/) (November 2010) &ndash; This report from the chairs of the five pilot expert panels sets out their findings and recommendations for the assessment of impact in the REF.
 
-* [Publications & reports](http://www.hefce.ac.uk/pubs/)
-* [Data & statistics](http://www.hefce.ac.uk/data/)
+* [Feedback from the higher education institutions involved in the pilot](http://www.ref.ac.uk/pubs/refimpactpilotlessons-learnedfeedbackonpilotsubmissions/) (November 2010) &ndash; This report from Technopolis Group provides feedback from the 29 pilot institutions on the experience of making their impact submissions to the pilot exercise.
+
+* Following the completion of the pilot exercise, the four UK higher education funding bodies announced [their decisions on the assessment of impact in the REF](http://www.ref.ac.uk/pubs/2011-01/) (REF 01.2011).
+
+####PDFs of impact pilot cases
+
+I think I've struck gold:
+
+* [Example case studies - Clinical Medicine.pdf](Fall-2014/PDFs/Impact-pilot example cases/Example case studies - Clinical Medicine.PDF)
+* [Example case studies - Earth Systems and Environmental Sciences.pdf](Fall-2014/PDFs/Impact-pilot example cases/Example case studies - Earth Systems and Environmental Sciences.PDF)
+* [Example case studies - English Language and Literature.pdf](Fall-2014/PDFs/Impact-pilot example cases/Example case studies - English Language and Literature.PDF)
+* [Example case studies - Physics.pdf](Fall-2014/PDFs/Impact-pilot example cases/Example case studies - Physics.PDF)
+* [Example case studies - Social Work and Social Policy.pdf](Fall-2014/PDFs/Impact-pilot example cases/Example case studies - Social Work and Social Policy.PDF)
+
