@@ -11,3 +11,7 @@ A visual note on that:
 #Examples of practical impact
 
 It turns out that the UK's Research Excellence Framework (see note: [HEFCE – REF](/Fall-2014/notes/HEFCE-REF.md)) did a trial run back in 2010, and had various institutions submit “pilot cases” for demonstrating impact.  I'm going to try to track down some of those, to see if they give specific examples of research publications.
+
+#Another visual note:
+
+![visual notes](/Fall-2014/notes/sub-visual-notes/100_4893.JPG)
