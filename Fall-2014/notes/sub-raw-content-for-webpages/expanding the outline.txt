@@ -1,0 +1,114 @@
+Practical impact
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+What is “practical impact”?  It's when research informs practice.
+
+Practitioners do things.  Researchers study how and why practitioners do the things they do.  Ideally, when researchers identify some previously unknown correlation between what practitioners do and the results they achieve, the practitioners can use that knowledge to improve their ability to get the result they want.
+
+This conversion of knowledge gained by researchers into a tool useable by practitioners is what I'm calling “practical impact”.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Why is the “practical impact” of research interesting?
+
+* On-going empirical research into trivial correlations in social sciences
+
+(Schwab, Andreas, Eric Abrahamson, William H. Starbuck, and Fiona Fidler. 2011. “PERSPECTIVE—Researchers Should Make Thoughtful Assessments Instead of Null-Hypothesis Significance Tests.” *Organization Science* 22 (4): 1105–20. doi:10.1287/orsc.1100.0557.)
+
+As evidenced by Schwab et al. (2011), in the social sciences it is often the case that merely demonstrating that an empirical study achieves statistical significant is considered the same as demonstrating that the study represents knowledge important enough to warrant being published.
+
+However, these days very large data sets are easy to find and even easier to analyze (when compared to earlier parts of the twentieth century, which is when most empirical methods were being developed and popularized), and such data have an inherently massive statistical power.  Meaning that they make it possible to separate even the tiniest of correlations between elements in that data from the statistical “noise” of synchronous yet random variations in the same data.
+
+Such inevitable correlations, while statistically significant, are often trivial when judged by any other measure.  [Schwab talks about…]
+
+What I propose is to judge these inevitable correlations by whether or not they become a tool for use by practitioners.  Especially in the social sciences, where controlled experiments are difficult if not impossible, the best confirmation of both the existence and the importance of a phenomenon is when the knowledge about that phenomenon is taken up by practitioners.
+
+* Lack of relevance in management research
+
+[go mining in my paper for Org Comm.]
+
+* Increasing demand to demonstrate practical value of research by funding agencies
+
+The HEFCE is intending to use the value of research to practitioners as part of its decision process for what research it will recommend gets ongoing government funding.  Other European institutions are doing similar things [pull refs from HEFCE-REF overview paper].
+
+* Value of practical impact may not be captured by citation metrics
+
+As funding agencies begin to track and use information of the practical value of research, research institutions themselves will need to start keeping an eye on the same thing.  Currently in academia, research is most often judged using various bibliometrics, all of which are tied to citations in academic journals.  But citation-based informetrics are almost entirely isolated to academia, and gather no information from practice or practitioners.
+
+So, “practical impact” is not being directly captured by citation-based metrics.  Over the long term, adoption of a given piece of research knowledge will eventually circle back around and increase the citation metrics of the orignal publication, through the citations of researchers working on new studies who observe the knowledge being used in practice, and reference it.
+
+But that cycle will be slow and lossy, as it is dependent on researchers not only recognizing the use of knowledge from previous research, but also recognizing where it came from and citing that source when they publish their own work.
+
+So, citation-based metrics might reflect “practical impact”, but they do not capture it in a timely or accurate manner.
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Tracking practical impact
+
+Altmetrics breaks out of academic silo that isolates most bibliometric methods
+
+
+Passive-impact methods (e.g., Mendeley readership analysis) break out of relying on the almost exclusively academic behavior of citation
+
+
+CWTS research branch looking for “societal value of research”
+
+
+HEFCE-REF – requires submission of “cases” demonstrating impact
+  Review board for submitted cases comprises both researchers and practitioners
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Uses of practical impact information
+
+Determination of funding (e.g., HEFCE-REF)
+Judging “quality of research”
+Improving knowledge transfer between researchers and practitioners
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Hazards of making practical value requisite
+
+Lose important research with no practical value
+  Research into fundamental laws and principles
+  Research into methodologies which enable research that will have practical value
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Hazards of ignoring practical value
+
+“Gaming” system through statistical power [see: Problems]
+Losing funding [see: HEFCE-REF]
+Rewards that are based only citation-metrics begets research that maximizes citations, and only citations
+Is it ethical to leave practitioners ignorant of knowledge that would improve their outcomes?
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Rewarding practical impact
+
+Avoid both
+  …the hazard of requiring practical impact, and
+  …the hazard of ignoring practical impact
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Categorizing practical impact
+
+Comparisons should always be within the same, or similar, fields
+Qualitative process
+  Too many possible sources for practical impact data to equitably quantify
+  Different fields have widely varying levels of practical impact
+Levels:
+  U – Unknown/undefined
+    No examples of practical impact
+  A – Apparent
+    At least one example of practical impact
+  I – Important
+    Multiple examples of practical impact; has more impact than other research in the same field (with at least an A-level)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Future research
+
+Comparing practical impact with citation-impact
+  Differences (over time) in citation-impact between research with different practical impacts
+Comparing practical impact of empirical research with the statistical power of that research
+  Hypothesis: a negative correlation
+Comparing practical impact of empirical and theoretical research
+
+
