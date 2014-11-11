@@ -47,8 +47,15 @@ Tracking practical impact
 
 Altmetrics breaks out of academic silo that isolates most bibliometric methods
 
+“Altmetrics” can refer to either the specific research-metric product from Altmetrics, LLC, or to any metric which uses data from outside of the databases of academic journals used by most, if not all, citation-based metrics.
 
-Passive-impact methods (e.g., Mendeley readership analysis) break out of relying on the almost exclusively academic behavior of citation
+Both of those sorts of “altmetrics” have the potential to capture some of the practical impact of research, as they are not designed to exclusively use data from academia.  But they also don't exclude data from academia, either, which can obscure evidence of practical impact with the social chatter of academicians.
+
+Similarly, while methods for tracking the impact of research that use data passively provided by both researchers and practitioners (e.g., readership analysis), break out of the academia-only restriction that is inherent with a reliance on rigorous citations for evidence of impact, they also dilute the impact on practitioners in the flood of data from academics.
+
+(Mohammadi, Ehsan, Mike Thelwall, Stefanie Haustein, and Vincent Larivière. 2014. “Who Reads Research Articles? An Altmetrics Analysis of Mendeley User Categories.” *Journal of the Association for Information Science and Technology*, 1–27.)
+
+An example is the study by Mohammadi et al. (2014) on Mendeley readership data.  As the authors explain, “Although the Mendeley API provides information related to the discipline, academic status and country of readers for each record, it only reports percentages rather than raw data and only gives information about the top three categories.”  So, if one of the top three categories of readers isn't a practitioner category, almost no information about an articles impact on practice is available.
 
 
 CWTS research branch looking for “societal value of research”
@@ -103,12 +110,21 @@ Levels:
   I – Important
     Multiple examples of practical impact; has more impact than other research in the same field (with at least an A-level)
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Future research
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Conclusion / Reiteration
 
-Comparing practical impact with citation-impact
-  Differences (over time) in citation-impact between research with different practical impacts
-Comparing practical impact of empirical research with the statistical power of that research
-  Hypothesis: a negative correlation
-Comparing practical impact of empirical and theoretical research
+Bibliometric methods are well established and widely used, but they reinforce the isolation of academic research from real-world practice.  That isolation has a number of consequences that include: the proliferation of trivial empirical studies; the failure of practitioners to benefit from the knowledge gains of researchers; and the increasingly skeptical scrutiny of the public funding of research.
+
+While requiring practical impact of academic research is both unlikely to be adopted and hazardous to the ongoing advancement of knowledge, the practical impact of research must be rewarded before researchers can be expected to look for and exploit opportunities for achieving practical impact in their research.
+
+Effective reward systems will require effective means of tracking the practical impact of research.  Current bibliometric and altmetric methodologies fail to capture practical impact in anything more than a glancing manner.
+
+An effective practical impact metric could draw data from a number of paths, including social media and readership information.  It would rank the practical impact of research with three non-quantitative levels: Unknown, Apparent and Important.  The distinction between the “A” and “I” levels would be based on comparisons within a field, to avoid disparities between fields that have inherently different potentials for practical impact, and established behaviors that might skew the tracking of practical impact.
+
+
+
+
+
+
 
 
