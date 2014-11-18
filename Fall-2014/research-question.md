@@ -21,3 +21,9 @@ Future deliverables:
 * “Proof of concept” code and preliminary results
 
 * so I can commit - LH
+
+----
+
+##Due
+
+Week of December 8th.
