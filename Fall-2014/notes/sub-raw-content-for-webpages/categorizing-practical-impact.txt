@@ -1,0 +1,32 @@
+Categorizing practical impact
+
+Comparisons should always be within the same, or similar, fields
+
+One of the more common criticisms of the Journal Impact Factor is that it doesn't distinguish between fields. [Example with ref?]
+
+It is because of differing “citation cultures” along with differing rates of development in fields, that a common proposal for improving citation-based bibliometric methods is to change the window of time within which citations are included in a metric. For example…
+
+
+
+
+Qualitative process
+
+Too many possible sources for practical impact data to equitably quantify
+
+Altmetrics demonstrates one possible way to track practical impact.  It looks for (loosely defined) citations in social media data streams as a way to supplement citation-based metrics.  If the actors involved in those social media can be separated into classes of “academics” and “practitioners”, then the references to research made by members of the  practitioner class can become evidence of practical impact.
+
+Another existing example is analysis of data about the readership of research. [REF] looked at the readership data of Mendeley, where users self-identify their profession, so that the Mendely API can distinguish between academic and non-academic readers.  Being read by non-academic users can be evidence of the practical impact of a research article.  Though, there are some problems with trying to use the Mendeley API this way, since as reported by [REF]…
+
+But, following the logic of Mendeley-readership analysis, any computer-mediated reading process becomes a potential path for identifying practical impact.
+
+However, not all of these possible paths are going to present the same strength of evidence of practical impact.  The nature of the evidence&mdash;e.g., the reading of an article as opposed to actively tweeting about it&mdash;will effect its strength, as will the particular path from which it comes&mdash;e.g., readership data from a source that only reports the top-three readership classes versus one that reports the top ten.
+
+So doing quantitative transformations and comparisons with the evidence of practical impact being proposed here is simply not reasonable, or defensible.
+
+
+Different fields have widely varying levels of practical impact
+
+Another impediment to the quantification of practical impact evidence is that different fields will have different levels of practical impact in general.  So, a research paper that has an important level of practical impact in one field would only qualify as having an apparent level of practical impact in another.  Researchers working in more esoteric fields should not be measured against bars set by researchers in fields like medical research which are very closely tied to practice.
+
+This mirrors the problem of cross-field comparisons that are present in a number of citation-based bibliometrics [maybe through some REFs in here?].
+
