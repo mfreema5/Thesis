@@ -1,0 +1,70 @@
+
+Explaining JIF through its historical foundations
+
+To explain what the Journal Impact Factor metric is, we can trace its origins.  This history-based explanation draws heavily on { Archambault, Éric, and Vincent Larivière. 2009. “History of the Journal Impact Factor: Contingencies and Consequences.” <i>Scientometrics</i> 79 (3): 635–49. <a href="http://doi.org/10.1007/s11192-007-2036-x" >10.1007/s11192-007-2036-x</a>. }
+
+Almost a hundred years ago, Gross and Gross (1927) { Gross, P. L. K., and E. M. Gross. 1923. “College Libraries and Chemical Education.” <i>Science</i> 66 (1713): 385–89. } posed the question:
+
+>What… scientific periodicals are needed in a college library successfully to prepare the student for advanced work, taking into consideration also those materials necessary for the stimulation and intellectual development of the faculty?
+
+To answer that question of to which journals a library should subscribe, they used quantitative methods to make comparisons between journals.  Their methods eventually led to the Journal Impact Factor, and other related bibliometrics.
+
+Gross and Gross used a quantitive method to evaluate journals, as opposed to merely asking an expert to compile a list of “indispensable” journals in order to avoid, as they described it, a list that was “seasoned too much by the needs, likes and dislikes of the compiler.”  In other words, their goal was to achieve objectivity in the evaluation by using quantitative methods.
+
+The basic method pioneered by Gross and Gross, and repeated later by other researchers, was to select a pre-eminent journal or a reference that was generally accepted as key to a field, and then to compile and quantify the sources of the citations in that keystone reference/journal.
+
+An extremely simplified example: if the journal that was selected as the central reference for a field, “Field”, contained five citations to a “Journal A”, ten citations to a “Journal B”, and four citations to a “Journal C”, then for that field the journals would be ranked and reported something like this:
+
+* Leading periodicals in Field
+  * Journal B &ndash; 10
+  * Journal A &ndash; 5
+  * Journal C &ndash; 4
+
+These early citation metrics were inherently field-specific, since they took data from a central reference to some particular field.
+
+Soon, though researchers began to cross-compile citation information from multiple journals, and then to include journals from multiple fields in their compilations.  For exxample, Gregory (1937) { Gregory, Jennie. 1937. “An Evaluation of Medical Periodicals.” <i>Bulletin of the Medical Library Association</i> 25 (3): 172–88. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC234080/"PMC234080"</a>. } compiled more than 27,000 citations from across 27 subfields in medicine.
+
+Gregory gives a concise explanation of the purpose of her metrics:
+
+>The foregoing Tables (I-27) answer primarily the needs of the specialist in his attempt to keep adequately abreast of the literature in his field. Two further Tables have been compiled, to indicate to the medical library and the librarian (A), the indispensable periodicals for al the fields consulted; (B), a short list of essential periodicals in general medicine which cover a large amount of material. This latter list is designed primarily for the individual and for the small library.
+
+There were 27 “foregoing Tables”, one for each of the subfields.  No comparisons were made between those fields.  This is a feature of similar metrics that would continue for decades: even when multiple fields were measured at the same time, the results for each field were reported separately.  The intended audience for these metrics, in general, had no need for cross-field comparisons.  Libraries are generally tasked to select the best journals for some particular field, and are not given carte blanche to choose which fields to support.  Similarly, researchers are interested in their field, not all fields.
+
+The compilation of citations from Martyn and Gilchrist (1968) { Martyn, John, and Alan Gilchrist. 1968. An Evaluation of British Scientific Journals. London: Aslib. } is cited by Archambault and Larivière (2009) as having a large influence on methods used in the Journal Impact Factor, and it continues the practice of separating the reporting of metrics for separate fields.
+
+Another feature of the Martyn and Gilchrist compilation, was was carried forward into the Journal Impact Factor and other bibliometrics, was first proposed by Hackh (1936): the reporting of a ratio of the number of citations to the number of pieces that might be cited.  { Hackh, Ingo. 1936. “The Periodicals Useful in the Dental Library.” <i>Bulletin of the Medical Library Association</i> 25 (1-2): 109–12. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC234105/">PMC234105</a>. }
+
+Another extremely simplified example: if there were five citations to articles published in “Journal A” in the same year that “Journal A” published a total of 20 articles, the citation ratio would be “5:20”, or “0.25”.
+
+We can extend our example to include comparing journals.
+
+|  Journal  | Citation count | Cite-able pieces |  Ratio  |
+|-----------|----------------|------------------|---------|
+| Journal A |  5             |  20              |  0.25   |
+| Journal B |  10            |  20              |  0.50   |
+| Journal C |  4             |  10              |  0.40   |
+
+* Leading periodicals in Field
+  * Journal B &ndash; 0.50
+  * Journal C &ndash; 0.40
+  * Journal A &ndash; 0.25
+
+This is the core of how the Journal Impact Factor and a number of similar metrics work.
+
+There is one more characteristic of compilations of citations to be described, which has been carried forward all the way from the earliest forms to the Journal Impact Factor and other contemporary metrics.  That is the time “window” within which citations must occur in order to be included in the compilation's count.
+
+The Gross and Gross (1927) compilation only considered citations from 1926, because they drew all of their citations from the 1926 volume of <i>The Journal of the American Chemical Society<i>, which was “the most recent complete volume” at the time.  Other early metrics used restricted windows of time for similarly practical reasons.
+
+Martyn and Gilchrist (1968) give practical reasons for their restricted window of time, “the two-year sample reduced the effort of counting and also reduced the cost of acquisition of the data”, but they preface that with an interesting justification:
+
+>We decided that our most practical course would be to confine our study to citations made during 1965 to journals published in the two preceding years. It was already known that 26.1% of all the 1965 citations were to literature of 1964 and 1963, so in terms of number of citations this would give us an adequate sample.
+
+Their method was not meant to be comprehensive.  In other words, it did not capture the entire population of citations, or pieces that could be cited.  Instead, the method operates on a sample of citations, and publications.
+
+This is an important feature because many of the criticisms of the Journal Impact Factor can be viewed as simply issues related to the <i>sampling method</i> of the metric.  (What time window?  Which journals?  Which published pieces?)  And many of the contemporary bibliometric metrics that are offered as improvements to the Journal Impact Factor primarily differ from it only in the sampling methods employed.  Other than that they return the same citation-based analysis as the Journal Impact Factor.
+
+So, the
+
+
+
+
