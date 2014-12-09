@@ -63,8 +63,10 @@ Their method was not meant to be comprehensive.  In other words, it did not capt
 
 This is an important feature because many of the criticisms of the Journal Impact Factor can be viewed as simply issues related to the <i>sampling method</i> of the metric.  (What time window?  Which journals?  Which published pieces?)  And many of the contemporary bibliometric metrics that are offered as improvements to the Journal Impact Factor primarily differ from it only in the sampling methods employed.  Other than that they return the same citation-based analysis as the Journal Impact Factor.
 
-So, the
+So, in summary: the Journal Impact Factor, and similar metrics:
 
+* Sample citations in various journals
+* Compare the number of actual citations to the number of potential citations
 
-
+The inherent (and unquestioned) assumption in all of this is that citation counts are strongly correlated with some attribute of research which is desirable.  It might be “importance”, or perhaps “quality”, or (inexactly) “significance”.  The nominal description of this attribute is “Impact”.
 
