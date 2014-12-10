@@ -1,0 +1,21 @@
+
+
+
+
+
+According to Zahedi <i>et al.</i> (2014) alternative metrics include, “usage data analysis (download and view counts); web citation, and link analyses.”  An even more general description is that altmetrics are intended to use data available on the web to supplement and improve upon citation-based metrics for measuring the impact of science and research.  Through the access to information made available to the web, altmetrics can go beyond the journal articles and books included in citation-based metrics to include “other outputs such as datasets, software, slides, blog posts, etc” (Zahedi <i>et al.</i> 2014)
+
+Instead of compiling citations to research in journals, altmetrics involves compiling “mentions” of research in “main-stream media sources, and social media shares and discussions”, along with statistics on downloads, and reference manager counts (Adie and Roe 2013).
+
+Altmetrics also typically retain the related meta-data of mentions and usage statistics, which allow for more complex analyses of the information.  For example, Mohammadi et al. (2014) studied the relationship between citation metrics and the usage statistics and user information available from a reference manager service, and found some insights into the the limitations of citation-based metrics.
+
+So, altmetrics not only track what research is being “mentioned”, but also where it is mentioned, and who is mentioning it.
+
+
+
+
+
+
+
+
+
