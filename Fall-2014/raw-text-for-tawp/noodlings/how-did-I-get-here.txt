@@ -6,8 +6,12 @@ How can we prevent/correct this abuse of NHST?
 
 Include the effect size along with the statistical significance in judging the importance of a correlation.
 
+However, the effect size of a correlation is not always easy to measure or even estimate.  Strong, statistically significant correlations can have negligible effects; weak, barely significant correlations can result in huge effects.  (Find Cohen quote.)
 
-How to prevent/correct NHST abuse? ⇒ consider effect size
+One way to estimate whether or not the effect size of a correlation is large enough to be worth pursuing is to ask, “Would a practitioner care about this size of an effect in this correlation?”
+
+And the easiest way to know if a practitioner would care, is to ask a practitioner.
+
 
 How to measure/estimate effect size? ⇒ consider “would a practitioner care”?
 
