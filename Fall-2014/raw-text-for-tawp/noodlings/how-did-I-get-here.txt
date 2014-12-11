@@ -46,7 +46,7 @@ With a practical impact metric, researchers would have both the means and the mo
 
 +++++
 
-In order to better understand how to possibly create and implement a practical impact metric, I looked at similar, already existing metrics.  Specifically, citation-based metrics such as the Journal Impact Factor and the h-Index.  I also looked at research in altmetrics, a relatively new approach to evaluating the impact of research, which uses data that includes both researchers and practitioners, along with students and other possible stakeholders in the value of research.
+In order to better understand how to possibly create and implement a practical impact metric, I looked at similar, already existing metrics.  Specifically, citation-based metrics such as the Journal Impact Factor and the h-Index.  I also looked at research in altmetrics, a relatively new approach to evaluating the impact of research, which uses data that is gathered from both researchers and practitioners, along with students and others who may be stakeholders in the question of the value of research.
 
 
 
