@@ -1,0 +1,47 @@
+
+
+Researchers abuse NHST by researching any correlation that's statistically “significant”, ignoring all other attributes of the correlation.
+
+How can we prevent/correct this abuse of NHST?
+
+Include the effect size along with the statistical significance in judging the importance of a correlation.
+
+
+How to prevent/correct NHST abuse? ⇒ consider effect size
+
+How to measure/estimate effect size? ⇒ consider “would a practitioner care”?
+
+How to know “would a practitioner care”? ⇒ ask a practitioner
+
+Ask a practitioner what, exactly? ⇒ ask what research they find useful
+
+But witnesses are unreliable; better way to know what research they find useful?
+  ⇒ find what research a practitioners are using and/or discussing among themselves
+
+When a practitioner uses or mentions research ⇒ call that “practical impact”
+
+Compile “practical impact” ⇒ practical impact metric
+
+How to use practical impact metric? ⇒ reward research that scores practical impact
+
+Rewarding research with “practical impact”
+  ⇒ researchers focus on research more likely to have “practical impact”
+
+How do you identify research likely to have “practical impact”?
+  ⇒ consider effect size, among other things
+
+If the effect size of correlations are important to researchers
+  ⇒ researchers ignore correlations that have small effects, irrespective of their statistical “significance”
+
+
+
+
+
+
+
+
+
+
+
+
+
