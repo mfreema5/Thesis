@@ -1,0 +1,16 @@
+VII
+  For what purpose could a “practical impact metric” be used?
+
+    [Mention the purposes for which citation-based metrics are being used]
+    [Mention the criticisms of citation-based metrics?]
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+(Criticisms of citation-based metrics should hopefully include how the metric is being used; otherwise, why bother criticizing it?)
+
+
+
+
+
+

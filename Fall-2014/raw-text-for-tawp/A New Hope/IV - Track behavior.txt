@@ -1,0 +1,32 @@
+IV
+  We can expand and yet simplify the question of “What effect size in which correlations would a practitioner care about?” into “What research would a practitioner care about?”
+
+  And the easiest way to know if a practitioner would care, is to ask a practitioner.
+
+  But witnesses are unreliable; practitioners may give skewed responses to questions about what research they care about for any number of reasons.  A better approach to discover what research practitioners care about is to find out what research is being used by practitioners, and what research are they discussing among themselves.
+
+    [use ref about why citations instead of opinions – draw parallel]
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Up to this point the type of research in question has been rather narrow: empirical studies that employ NHST.
+
+But that is not the only sort of research that might be relevant to practitioners.  More importantly, that is not the only type of research that has the potential to be relevant to practitioners, but is failing to fullfil that potential.
+
+
+
+
+
+
+
+
+>One way to answer this question would be merely to sit down and compile a list of those journals which one considers indispensible.  Such a procedure might prove eminently successful in certain cases, but it seems reasonably certain that often the result would be seasoned too much by the needs, likes and dislikes of the compiler.  { Gross, P. L. K., and E. M. Gross. 1927. “College Libraries and Chemical Education.” <i>Science</i> 66 (1713): 385–89. }
+
+
+
+
+ask a practitioner what research they find useful -->
+  track what research a practitioner finds useful/interesting
+
+ask an expert what journals are “indespensible” -->
+  track what journals experts read/cite
+

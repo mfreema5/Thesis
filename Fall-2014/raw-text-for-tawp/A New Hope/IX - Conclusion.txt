@@ -1,0 +1,12 @@
+IX
+  If research with practical impact gets rewarded, and research without practical impact does not, then researchers are going to prefer to work on research that may have practical impact.
+
+  Part of identifying which research may have practical impact is to consider the size of the effect that it may have, in addition to it's potential to achieve statistical significance.
+
+    [Re-reference earlier refs?]
+
+  So, while the potential for statistical significance would still be sought after in studies, it would not be the only, or the most important thing.  Research likely to reveal a correlation that is statistically significant correlation, yet has a trivial effect size, would be set aside.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+

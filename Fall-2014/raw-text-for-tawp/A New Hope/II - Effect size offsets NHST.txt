@@ -1,0 +1,8 @@
+II
+  How can we prevent researchers from spending time and resources on empirical studies that produce statistically valid but ultimately unimportant results?
+
+  One way is to include a consideration of the size of effect along with the statistical significance in judging the potential value of a study.
+
+    [Starbuck? Cohen?  Anything that recommends effect size.]
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

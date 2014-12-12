@@ -1,0 +1,21 @@
+{ Zahedi, Zohreh, Rodrigo Costas, and Paul Wouters. 2014. “How Well Developed Are Altmetrics? A Cross-Disciplinary Analysis of the Presence of ‘alternative Metrics’ in Scientific Publications.” <i>Scientometrics</i> 101 (2): 1491–1513. <a href="http://doi.org/10.1007/s11192-014-1264-0">10.1007/s11192-014-1264-0</a>. }
+
+
+
+>Citations are usually considered as a proxy for ‘scientific impact’.
+
+>However, citations are not free of limitations they only measure a limited aspect of quality, their actual meaning has been broadly debated  and they also pose technical and conceptual limitations.
+
+>On the other hand, peer review or peer assessment is also an important instrument and is often regarded as gold standard in assessing the quality of research, but it has its own limitations and biases as well.
+
+>Moreover, both citations and peer review are considered mostly as partial indicators of ‘‘scientific impact’’ and also no single metric can sufficiently reveal the full impact of research.
+
+>Given these limitations, the combination of peer review with ‘‘multi-metric approach’’ is proposed as necessary for research evaluation in the line of the ‘‘informed peer review’’ idea suggested by Nederhof and van Raan.
+
+
+
+
+
+
+
+

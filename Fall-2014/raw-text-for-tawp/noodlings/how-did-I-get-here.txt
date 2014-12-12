@@ -1,54 +1,60 @@
+I
+  Researchers in many fields can increase the number of publications they have, and therefore the number of citations they receive, by researching any correlation that's statistically “significant”, ignoring all other attributes of the correlation.
 
+    [Refs that prove problem exists.]
 
+II
+  How can we prevent researchers from spending time and resources on empirical studies that produce statistically valid but ultimately unimportant results?
 
+  One way is to include a consideration of the size of effect along with the statistical significance in judging the potential value of a study.
 
-Researchers in many fields can increase the number of publications they have, and therefore the number of citations they receive, by researching any correlation that's statistically “significant”, ignoring all other attributes of the correlation.
+    [Starbuck? Cohen?  Anything that recommends effect size.]
 
-How can we prevent researchers from spending time and resources on empirical studies that produce statistically valid but ultimately unimportant results?
+III
+  However, the effect size of an empirically determined correlation is not always easy to measure or even estimate.  Strong, statistically significant correlations can have negligible effects; weak, barely significant correlations can result in huge effects.
 
-One way is to include a consideration of the size of effect along with the statistical significance in judging the potential value of a study.
-  [Starbuck? Cohen?]
+        { “Effect size” the wrong term?  Switch to “impact” or “importance”? }
 
-However, the effect size of an empirically determined correlation is not always easy to measure or even estimate.  Strong, statistically significant correlations can have negligible effects; weak, barely significant correlations can result in huge effects.
-  [Starbuck? Cohen?]
+  One way to estimate whether or not the effect size of a correlation is large enough to be worth pursuing is to ask, “Would a practitioner care about this size of an effect in this correlation?”
 
-One way to estimate whether or not the effect size of a correlation is large enough to be worth pursuing is to ask, “Would a practitioner care about this size of an effect in this correlation?”
+    [Starbuck? Cohen? Something that discusses effect sizes and their relationship to importance.]
 
-We can expand and yet simplify the question “What effect size in which correlations would a practitioner care about?” into “What research would a practitioner care about?”
+IV
+  We can expand and yet simplify the question of “What effect size in which correlations would a practitioner care about?” into “What research would a practitioner care about?”
 
-And the easiest way to know if a practitioner would care, is to ask a practitioner.
+  And the easiest way to know if a practitioner would care, is to ask a practitioner.
 
-But witnesses are unreliable; practitioners may give skewed responses to questions about what research they care about for any number of reasons.  A better approach to discover what research practitioners care about is to find out what research is being used by practitioners, and what research are they discussing among themselves.
+  But witnesses are unreliable; practitioners may give skewed responses to questions about what research they care about for any number of reasons.  A better approach to discover what research practitioners care about is to find out what research is being used by practitioners, and what research are they discussing among themselves.
 
-When practitioners use research results in their practice, or discuss them with other practitioners, we'll say that the research had a “practical impact”, to distinguish from “scientific impact” or “citation impact”.
+    [use ref about why citations instead of opinions – draw parallel]
 
-We could follow the lead of citation metrics, and especially of altmetrics, and compile all the practical impacts into a “practical impact metric”.
+V
+  When practitioners use research results in their practice, or discuss them with other practitioners, we'll say that the research had a “practical impact”, to distinguish from “scientific impact” or “citation impact”.
 
-For what purpose could a “practical impact metric” be used?
+    [ Discuss altmetrics and the “mention” approach?  Need to at least mention (ha!) it.]
 
-Requiring practical impact is problematic; however, institutions could reward researchers based on the practical impact of their research.
+VI
+  We could follow the lead of citation metrics, and especially of altmetrics, and compile all the practical impacts into a “practical impact metric”.
 
-If research with practical impact gets rewarded, and research without practical impact does not, then researchers are going to prefer to work on research that may have practical impact.
+    [Describe / explaining citation-based metrics.]
 
-Part of identifying which research may have practical impact is to consider the size of the effect that it may have, in addition to it's potential to achieve statistical significance.
+VII
+  For what purpose could a “practical impact metric” be used?
 
-So, while the potential for statistical significance would still be sought after in studies, it would not be the only, or the most important thing.  Research likely to reveal a statistically significant correlation with a trivial effect size would be set aside.
+    [Mention the purposes for which citation-based metrics are being used]
+    [Mention the criticisms of citation-based metrics?]
 
+VIII
+  Requiring practical impact is problematic; however, institutions could reward researchers based on the practical impact of their research.
 
-+++++
+    [Ethics of requiring practical impact.]
 
-A practical impact metric would give researchers a tool to differentiate between research based on the potential for importance, instead of differentiating based only on the potential for statistical significance.
+IX
+  If research with practical impact gets rewarded, and research without practical impact does not, then researchers are going to prefer to work on research that may have practical impact.
 
-At the same time, a practical impact metric would give institutions a tool to encourage researchers to focus on research that has potential for importance, instead of focusing on a potential for statistical significance.
+  Part of identifying which research may have practical impact is to consider the size of the effect that it may have, in addition to it's potential to achieve statistical significance.
 
-With a practical impact metric, researchers would have both the means and the motivation to maximize the potential for importance of their research, in addition to its maximizing its potential for publication.
+    [Re-reference earlier refs?]
 
-
-+++++
-
-In order to better understand how to possibly create and implement a practical impact metric, I looked at similar, already existing metrics.  Specifically, citation-based metrics such as the Journal Impact Factor and the h-Index.  I also looked at research in altmetrics, a relatively new approach to evaluating the impact of research, which uses data that is gathered from both researchers and practitioners, along with students and others who may be stakeholders in the question of the value of research.
-
-
-
-
+  So, while the potential for statistical significance would still be sought after in studies, it would not be the only, or the most important thing.  Research likely to reveal a correlation that is statistically significant correlation, yet has a trivial effect size, would be set aside.
 

@@ -1,0 +1,10 @@
+III
+  However, the effect size of an empirically determined correlation is not always easy to measure or even estimate.  Strong, statistically significant correlations can have negligible effects; weak, barely significant correlations can result in huge effects.
+
+        { “Effect size” the wrong term?  Switch to “impact” or “importance”? }
+
+  One way to estimate whether or not the effect size of a correlation is large enough to be worth pursuing is to ask, “Would a practitioner care about this size of an effect in this correlation?”
+
+    [Starbuck? Cohen? Something that discusses effect sizes and their relationship to importance.]
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

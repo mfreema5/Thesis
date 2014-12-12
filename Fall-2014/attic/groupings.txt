@@ -1,0 +1,29 @@
+I - Abusing NHST
+  Abusing NHST
+
+II - Effect size offsets NHST
+  Effect size offsets NHST
+
+III - Judging effect size
+  Judging effect size
+
+IV - Track behavior
+  Witnesses are unreliable
+  Measure behavior
+
+V - Almetric hits
+  Altmetric's “mentions”
+  (¿ What is a practitioner?)
+
+VI - Existing metrics
+  Describing existant metrics
+
+VII - Metrics uses
+  What are existant metrics used for?
+
+VIII - Reward
+  Don't require – reward instead
+
+IX - Conclusion
+  re-ref earlier refs
+
