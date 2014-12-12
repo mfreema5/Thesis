@@ -12,21 +12,28 @@ Up to this point the type of research in question has been rather narrow: empiri
 
 But that is not the only sort of research that might be relevant to practitioners.  More importantly, that is not the only type of research that has the potential to be relevant to practitioners, but is failing to fullfil that potential.
 
+For example, <a href="references.html#rynes2001">Rynes et al. (2001)</a> were not speaking only of empirical studies that use NHST when they wrote that, “A substantial body of evidence suggests that executives typically do not turn to academics or academic research findings in developing management strategies and practices”.
+
+Also, as part of his incoming Presidential Address to the Academy of Management—which had the unsubtle title of “What If the Academy Actually Mattered?”—<a href="references.html#hambrick1994" >Hambrick (1993)</a> wrote about the general gap between researchers and practitioners in that field:
+
+>Rather, we simply seem to have a minimalist ethos: minimal programming, minimal dues, minimal staff, minimal innovation, minimal visibility, minimal impact. Each August, we come to talk with each other; during the rest of the year we read each others' papers in our journals and write our own papers so that we may, in turn, have an audience the following August: an incestuous, closed loop.
+
+There would seem to be no reason to we must restrict ourselves to asking “What effect sizes, in which correlations, would a practitioner care about?”  The failure to achieve relevance is more general than that, so we can ask a more general question: “What research would a practitioner care about?”
+
+The obvious way to get an answer to that question would be to pose it directly to a practitioner: “What research do you care about?"
+
+It turns out that there is a precedent this sort of question.  Almost a hundred years ago, <a href="references.html#gross1927" >Gross and Gross (1927)</a> posed the question:
+
+>What… scientific periodicals are needed in a college library successfully to prepare the student for advanced work, taking into consideration also those materials necessary for the stimulation and intellectual development of the faculty?
+
+What makes it similar to our question about what research would be of interest to practitioners is that “One way to answer this question would be merely to sit down and compile a list of those journals which one considers indispensable” <a href="references.html#gross1927">(Gross and Gross, 1927)</a>.  In other words, the first way that comes to mind to address the question is to go and ask the subject of the question.
+
+However, as <a href="references.html#gross1927">Gross and Gross (1927)</a> go on to explain, while you might get good results from a direct inquiry, “it seems reasonably certain that often the result would be seasoned too much by the needs, likes and dislikes of the compiler.”
+
+What they ended up doing instead of directly asking the subject, was to collect data on the subject's behavior, and extrapolate from that what journals the subject finds “indispensable”.  Specifically, they looked at citations in and about journals; and started the chain of research that led to the Journal Impact Factor and all the myriad other citation-based metrics of research.
+
+Following that example, in order to discover what research practitioners care about, we should find out what research is being used by practitioners, and what research are they discussing among themselves.
 
 
 
-
-
-
-
->One way to answer this question would be merely to sit down and compile a list of those journals which one considers indispensible.  Such a procedure might prove eminently successful in certain cases, but it seems reasonably certain that often the result would be seasoned too much by the needs, likes and dislikes of the compiler.  { Gross, P. L. K., and E. M. Gross. 1927. “College Libraries and Chemical Education.” <i>Science</i> 66 (1713): 385–89. }
-
-
-
-
-ask a practitioner what research they find useful -->
-  track what research a practitioner finds useful/interesting
-
-ask an expert what journals are “indespensible” -->
-  track what journals experts read/cite
 
