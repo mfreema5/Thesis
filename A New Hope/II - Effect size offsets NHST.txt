@@ -4,9 +4,16 @@ II
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-A corrective action to limit the erosion of the importance of research due to the misapplication of NHST was summarized nicely by Schwab <i>et al.</i> when they wrote that “researchers should show the substantive importance of findings by reporting effect sizes” <a href="references.html#schwab2011" >(Schwab <i>et al.</i> 2011)</a> .
-
-Using effects size to supplant the importance afforded to NHST comes up repeatedly in the review by <a href="references.html#fidler2004" >Fidler <i>et al.</i> (2004)</a> of various statistical reforms in medicine, psychology and other fields.  For example, they report that the guidelines from an APA Task Force on Statistical Inference for publishing statistical results “strongly emphasised the need for measures of effect size to be the primary outcome of a study, and the need to differentiate clinical or practical significance from statistical significance”.
+%article
+  %h2
+    Making importance once again important
+  %section
+    %h3
+      Demonstrate importance through effect sizes
+    %p
+      A corrective action to limit the erosion of the importance of research due to the misapplication of NHST was summarized nicely by Schwab <i>et al.</i> when they wrote that “researchers should show the substantive importance of findings by reporting effect sizes” <a href="references.html#schwab2011" >(Schwab <i>et al.</i> 2011)</a>.
+    %p
+      Using effects size to supplant the importance afforded to NHST comes up repeatedly in the review by <a href="references.html#fidler2004" >Fidler <i>et al.</i> (2004)</a> of various statistical reforms in medicine, psychology and other fields.  For example, they report that the guidelines from an APA Task Force on Statistical Inference for publishing statistical results “strongly emphasised the need for measures of effect size to be the primary outcome of a study, and the need to differentiate clinical or practical significance from statistical significance”.
 
 
 

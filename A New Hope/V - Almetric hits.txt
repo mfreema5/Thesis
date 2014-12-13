@@ -4,9 +4,13 @@ V
     [ Discuss altmetrics and the “mention” approach?  Need to at least mention (ha!) it.]
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-When practitioners use research results in their practice, or discuss them with other practitioners, we'll say that the research had a “practical impact”, to distinguish from “scientific impact” or “citation impact”.
-
-Studies in the area of altmetrics have demonstrated the viability of tracking at least some of the research-relevance-indicating behaviors of practitioners, along with tracking what <a href="references.html#adie2013">Adie and Roe (2013)</a> called “mentions”, that is, links to research documents in main-stream media sources, and social media discussions. For specific examples, see the section below on “Altmetrics.”
+%section
+  %h3
+    Specifics of what would be tracked
+  %p
+    When practitioners use research results in their practice, or discuss them with other practitioners, we'll say that the research had a “practical impact”, to distinguish from “scientific impact” or “citation impact”.
+  %p
+    Studies in the area of altmetrics have demonstrated the viability of tracking at least some of the research-relevance-indicating behaviors of practitioners, along with tracking what <a href="references.html#adie2013">Adie and Roe (2013)</a> called “mentions”, that is, links to research documents in main-stream media sources, and social media discussions. For specific examples, see the section below on “Altmetrics.”
 
 
 

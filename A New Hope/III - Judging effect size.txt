@@ -8,21 +8,27 @@ III
     [Starbuck? Cohen? Something that discusses effect sizes and their relationship to importance.]
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-
-
-However, while moving from relying on statistical significance alone to instead using statistical significance in combination with estimates of the effect size is conceptually easy, in practice it can be a major change.
-
-For example, consider the complications that Fidler <i>et al.</i> detail to explain why the move to effect sizes that was an effective method of statistical reform in medical research, failed to take hold in psychology:
-
-%blockquote
-  One often-suggested solution is to standardise the effect sizes, that is, report the effect in units of standard deviation. However, it is important to recognise that CIs for standardized measures are not straightforward. They typically require non-central distributions, something most psychologists have never encountered. Also, they involve highly intensive computing processes that have only recently been accessible to individual researchers. <br />These are not problems medicine encountered. The conceptual shift to estimation was relatively straightforward and so were CI calculations for what became the effect sizes of choice, odds ratios and relative risk values. <a href="references.html#fidler2004">(Fidler <i>et al.</i> 2004)</a>
-
-
-However, there may be something of a shortcut.  What Fidler <i>et al.</i> are describing is a mathematically rigorous determination of the effect size of a research result.
-
-But is that what is needed?  The goal is simply to ensure that the size of the effect being reported in a study isn't irrelevant.  Or, to come at it from the other direction, what is needed is some estimation that the effect size is sufficiently large enough to be relevant to practitioners.
-
-We can possibly employ the same approach that is used when designing a statistical study.  Determining of the statistical power requirements of a study requires that you know the effect size, yet the effect size is typically one of the things you'll be measuring with the study.  Therefore, what is commonly done is to estimate the effect size, based on previous research.
-
-So, we can estimate what sort of effect size will be of interest to practitioners by looking at what effect sizes they have previously found interesting.
+%article
+  %h2
+    From calculations to precedents
+  %section
+    %h3
+      Determining the size of effects
+    %p
+      However, while moving from relying on statistical significance alone to instead using statistical significance in combination with determinations of the effect size is conceptually easy, in practice it can be a major change.
+    %p
+      For example, consider the complications that Fidler <i>et al.</i> detail to explain why the move to effect sizes that was an effective method of statistical reform in medical research, failed to take hold in psychology:
+    %blockquote
+      One often-suggested solution is to standardise the effect sizes, that is, report the effect in units of standard deviation. However, it is important to recognise that CIs for standardized measures are not straightforward. They typically require non-central distributions, something most psychologists have never encountered. Also, they involve highly intensive computing processes that have only recently been accessible to individual researchers.<br /><br />These are not problems medicine encountered. The conceptual shift to estimation was relatively straightforward and so were CI calculations for what became the effect sizes of choice, odds ratios and relative risk values. <a href="references.html#fidler2004">(Fidler <i>et al.</i> 2004)</a>
+  %section
+    %h3
+      Using precedents as estimates
+    %p
+      However, there may be something of a shortcut.  What Fidler <i>et al.</i> are describing is a mathematically rigorous determination of the effect size of a research result.
+    %p
+      But is that what is needed?  The goal is simply to ensure that the size of the effect being reported in a study isn't irrelevant.  Or, to come at it from the other direction, what is needed is some estimation that the effect size is sufficiently large enough to be relevant to practitioners.
+    %p
+      We can possibly employ the same approach that is used when designing a statistical study.  Determining of the statistical power requirements of a study requires that you know the effect size, yet the effect size is typically one of the things you'll be measuring with the study.  Therefore, what is commonly done is to estimate the effect size, based on previous research.
+    %p
+      So, we can estimate what sort of effect size will be of interest to practitioners by looking at what effect sizes they have previously found interesting.
 
