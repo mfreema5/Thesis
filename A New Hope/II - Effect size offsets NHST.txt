@@ -1,0 +1,17 @@
+II
+
+  One way is to prevent researchers from spending time and resources on empirical studies that produce statistically valid but ultimately unimportant results is to include a consideration of the size of effect along with the statistical significance in judging the potential value of a study.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A corrective action to limit the erosion of the importance of research due to the misapplication of NHST was summarized nicely by Schwab <i>et al.</i> when they wrote that “researchers should show the substantive importance of findings by reporting effect sizes” <a href="references.html#schwab2011" >(Schwab <i>et al.</i> 2011)</a> .
+
+Using effects size to supplant the importance afforded to NHST comes up repeatedly in the review by <a href="references.html#fidler2004" >Fidler <i>et al.</i> (2004)</a> of various statistical reforms in medicine, psychology and other fields.  For example, they report that the guidelines from an APA Task Force on Statistical Inference for publishing statistical results “strongly emphasised the need for measures of effect size to be the primary outcome of a study, and the need to differentiate clinical or practical significance from statistical significance”.
+
+
+
+
+
+
+
+

@@ -22,7 +22,7 @@ There would seem to be no reason to we must restrict ourselves to asking “What
 
 The obvious way to get an answer to that question would be to pose it directly to a practitioner: “What research do you care about?"
 
-It turns out that there is a precedent this sort of question.  Almost a hundred years ago, <a href="references.html#gross1927" >Gross and Gross (1927)</a> posed the question:
+It turns out that there is a precedent this sort of question.  Almost a hundred years ago, <a href="references.html#gross1927">Gross and Gross (1927)</a> posed the question:
 
 >What… scientific periodicals are needed in a college library successfully to prepare the student for advanced work, taking into consideration also those materials necessary for the stimulation and intellectual development of the faculty?
 

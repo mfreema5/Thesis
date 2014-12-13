@@ -1,0 +1,10 @@
+Structure of these
+
+
+The structure of this thesis roughly maps to the chain of reasoning that I followed when considering the issues that led to and arise from the notion of tracking the “practical impact” of research.  I started with the problem of the common misapplication of statistical methods in research in management studies.  That problem, however, is really a just one part of the more general issue of research that lacks relevance outside of academia, not only in the management literature, but in other social science as well.
+
+Since there are already processes in place to identify the value of research to other researchers&mdash;citation metrics&mdash;I wondered if similar processes couldn't be developed to identify the value of research to practitioners.  Such a process would need to involve two parts: 1 - finding appropriate information, and 2 - applying that information in an appropriate manner.  I examined the existing metrics for measuring the “scientific” (as opposed to “practical”) value of research to see what lessons could be learned about gathering information for a future practical impact metric.  I also examined how current metrics are used, in addition to researching previous proposals (and subsequent discussions) about including practice in the evaluation of research, to gain insights into how to best apply the output of a practical impact metric.
+
+
+
+
