@@ -6,14 +6,23 @@ VIII
 
 
 
+If what has been lacking in research is practical impact, then isn't the easy solution to simply require all research to have some practical impact?  A form of this approach was proposed by Mitroff (1998), who posited that any research without practical impact was not <i>true</i> and therefore shouldn't be published.  To explain why practical impact might be a requirement for truth he wrote:
 
+%blockquote
+  Pragmatism is the philosophical school that posits that truth is that which makes a significant difference in the lives of humans. Something&mdash;an action, empirical finding, proposition, conjecture, theorem—that is true in theory (i.e., in the abstract only) but makes no difference in the lives of humans is not a truth for pragmatism. Thus, contrary to what many academics believe, truth is not solely a property of formal propositions, theorems, research findings, and so forth but of ethical actions (i.e., actions that eliminate, or make significant headway in eliminating, some important human problem). <a href="references.html#mitroff1998">(Mitroff 1998)</a>
 
+The problem with requiring practical impact for research is that it would block research into the fundamental laws and principles that underlie every field.  It would hamper research that attempts to synthesize general solutions to groups of related specific problems, since the general solution might “be broad and theoretical and… difficult to apply” <a href="references.html#hulin2001" >(Hunlin 2001)</a>.
 
+Instead of being required to produce research that has practical impact, researchers should be <em>rewarded</em> for the impact on practice that their research makes.  This makes practical impact important without making it so important that it hampers the free exploration that is vital to research.
 
+But, without at least some reward for practical impact, there is little incentive for researchers to spend time encouraging or nurturing the practical impact of their work.  Without the sorts of rewards that they get for presenting at academic conferences, or writing for academic journals, researchers won't spend their time and energy presenting at practitioner conferences, or writing for practitioner journals <a href="references.html#latham2007">(Latham 2007)</a>.
 
+Rewarding researchers for having a positive impact on practice is not a new idea. While president of the Acadamey, Hambrick proposed that:
 
+%blockquote
+  the Academy [of Management] should initiate a new major award: a prize for exceptional scholarly contribution to the practice of management. To be judged by a panel of distinguished academics and executives, this honor would be bestowed annually to an Academy member whose writings have had widespread beneficial impact on the arts and sciences of management, as practiced. <a href="references.html#hambrick1994" >(Hambrick 1994)</a>
 
->Third, the Academy should initiate a new major award: a prize for exceptional scholarly contribution to the practice of management. To be judged by a panel of distinguished academics and executives, this honor would be bestowed annually to an Academy member whose writings have had widespread beneficial impact on the arts and sciences of man- agement, as practiced.  {Hambrick, Donald C. 1994. “What If the Academy Actually Mattered?” <i>The Academy of Management Review</i> 19 (1): 11–16. http://www.jstor.org/stable/258833 .}
+Rewarding practical impact can create the same benefits that would come from requiring it, without incurring the costs to the freedom of research that would come from actually requiring it.
 
 
 

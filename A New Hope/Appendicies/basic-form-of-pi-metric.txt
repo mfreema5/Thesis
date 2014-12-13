@@ -1,0 +1,63 @@
+  %article#categorizing-practical-impact
+    %h2
+      Categorizing practical impact
+    %section
+      %h3
+        Comparisons should always be within the same, or similar, fields
+      %p
+        One of the more common criticisms of the Journal Impact Factor is that “it is improper to make comparisons between citation counts generated in different research fields, because the ‘citation potential’ can vary significantly from one field to another” <a href="references.html#moed2010">(Moed 2010)</a>.
+      %p
+        Similar to “citation potential”, the potential for practical impact varies between fields than does the “citation potential”. <a href="references.html#schwab2011" >Schwab <i>et al.</i> (2011)</a> imply this disparity when they discuss why the social sciences continue to embrace null-hypothesis significant testing, while medical research has moved to replace it with methodologies that are, among other things, more predictive of practical impact.  The shift was drive by the fact that “Medical research… makes more of a difference to more people, and draws much more attention. Thus, medical researchers have greater incentive to measure and document effects of their work…”.  In other words, medical research has a much greater potential for practical impact than the social sciences.
+      %p
+        So, it would not be appropriate, for example, to measure the practical impact of research in the social science against a bar set by medical research.
+    %section
+      %h3
+        Qualitative process
+      .subcontainer
+        %h4
+          Too many possible sources for practical impact data to equitably quantify
+        %p
+          Altmetrics demonstrates one possible way to track practical impact.  It looks for (loosely defined) citations in social media data streams as a way to supplement citation-based metrics.  If the actors involved in those social media can be separated into classes of “academics” and “practitioners”, then the references to research made by members of the  practitioner class can become evidence of practical impact.
+        %p
+          Another existing example is analysis of data about the readership of research.
+          %a{:href => "references.html#mohammadi2014"}
+            Mohammadi <i>et al.</i> (2014)
+          looked at the readership data of Mendeley, where users self-identify their profession, so that the Mendely API can distinguish between academic and non-academic readers.  Being read by non-academic users can be evidence of the practical impact of a research article.  Though, there are some problems with trying to use the Mendeley API this way, since “
+          %q{:cite => "references.html#mohammadi2014"}> the Mendeley API provides information related to the discipline, academic status and country of readers for each record, [but] it only reports percentages rather than raw data and only gives information about the top three categories
+          ” (
+          %a{:href => "references.html#mohammadi2014"}>
+            %i ibid
+          ).
+        %p
+          But, following the logic of Mendeley-readership analysis, any computer-mediated reading process becomes a potential path for identifying practical impact.
+        %p
+          However, not all of these possible paths are going to present the same strength of evidence of practical impact.  The nature of the evidence&mdash;e.g., the reading of an article as opposed to actively tweeting about it&mdash;will effect its strength, as will the particular path from which it comes&mdash;e.g., readership data from a source that only reports the top-three readership classes versus one that reports the top ten.
+        %p
+          So doing quantitative transformations and comparisons with the evidence of practical impact being proposed here is simply not reasonable, or defensible.
+      .subcontainer
+        %h4
+          Different fields have varying levels of practical impact
+        %p
+          Another impediment to the quantification of practical impact evidence is that different fields will have different levels of practical impact in general.  So, a research paper that has an important level of practical impact in one field would only qualify as having an apparent level of practical impact in another.  Researchers working in more esoteric fields should not be measured against bars set by researchers in fields like medical research which are very closely tied to practice.
+
+
+  %article#levels-of-practical-impact
+    %h2
+      Levels of practical impact
+    %section
+      %h4
+        U – Unknown/undefined
+      %p
+        No examples of practical impact
+    %section
+      %h4
+        A – Apparent
+      %p
+        At least one example of practical impact
+    %section
+      %h4
+        I – Important
+      %p
+        Multiple examples of practical impact; has more impact than other research in the same field (with at least an A-level)
+
+
