@@ -10,3 +10,16 @@ IX
 
 
 
+%article
+  %h2
+    Promote practical impact, and trivial results will fade
+  %p
+    This whole chain of reasoning started with the misapplication of NHST in research.  Would tracking practical impact, and rewarding researchers based on the practical impact of their research, correct that problem?
+  %p
+    It should, eventually.  Because the problematic sorts of research are never going to be lauded as having a positive effect on practice; they are too deeply buried in the minutiae of data for a practitioner to ever notice or care about them.
+  %p
+    But more importantly, this rather roundabout solution is a better solution than, say, creating a set of specific, statistical guidelines which are intended to prevent the trivial results from entering the literature.  Because that sort of solution is inherently flawed in way similar to one of the ways that the NHST is, “it provides the illusion of scientific rigour” <a href="references.html#lockett2014">(Lockett <i>et al.</i> 2014)</a>.  What is really required to solve the problems with the application of NHST is what <a href="references.html#schwab2011"Schwab <i>et al.</a> (2011)</a> called for: “Researchers should make thoughtful assessments”.
+  %p
+    If we create a context where researchers are rewarded for thinking about the practical impact of their research, they will come up with solutions to the problems of trivial results and oversized data sets that are flexible and innovative and which will flourish on their own, with needing to be propped up by rules enforced by authorities.
+
+
