@@ -1,0 +1,457 @@
+/*****  screen.css: Screen Styles  *****/
+html {
+  box-sizing: border-box;
+  background-color: #b19979;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+/* Typography, color, etc. */
+/* Layout is farther down. */
+/********************************/
+/*  Basic element hierarchy:    */
+/*  <header>                    */
+/*  <body>                      */
+/*    <main> <h1>               */
+/*      <article> <h2>          */
+/*        <div.lightbox>        */
+/*        <section> <h3>        */
+/*          <div.subcontainer>  */
+/*          <blockquote>        */
+/*    <nav>                     */
+/*    <footer>                  */
+/********************************/
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, "Liberation Sans", "DejaVu Sans Condensed", sans-serif;
+}
+main {
+  background-color: #d1c0a9;
+  border-radius: 0.250em;
+}
+article,
+nav {
+  background-color: #f5eadb;
+  border-radius: 0.250em;
+}
+section,
+.lightbox {
+  background-color: #fcf3e8;
+  border-radius: 0.125em;
+  /* Class "lightbox" is a way to give */
+  /* article text a light background,  */
+  /* to improve readability.           */
+}
+.subcontainer {
+  background-color: inherit;
+  border-radius: 0.125em;
+}
+blockquote {
+  font-family: Cambria, Georgia, "Liberation Serif", serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  background-color: inherit;
+}
+h1 {
+  font-family: Frutiger, "Arial Narrow", Trebuchet, Helvetica, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", sans-serif;
+  font-weight: bold;
+  font-size: 1.375em;
+  line-height: 1.500em;
+  /* font + 0.125em */
+  margin-bottom: 0.250em;
+  margin-left: 0.125em;
+}
+h2 {
+  font-family: Frutiger, "Arial Narrow", Trebuchet, Helvetica, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", sans-serif;
+  font-weight: bold;
+  font-size: 1.250em;
+  line-height: 1.375em;
+}
+h3 {
+  font-family: Frutiger, "Arial Narrow", Trebuchet, Helvetica, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", sans-serif;
+  font-weight: bold;
+  font-size: 1.125em;
+  line-height: 1.250em;
+}
+h4 {
+  font-family: Arial, "Helvetica Neue", Helvetica, "Liberation Sans", "DejaVu Sans Condensed", sans-serif;
+  font-weight: bold;
+  font-size: 1.000em;
+  line-height: 1.250em;
+}
+h5,
+h6,
+b,
+strong {
+  font-weight: bold;
+}
+i,
+em {
+  font-style: italic;
+}
+p,
+th,
+td {
+  font-family: Arial, "Helvetica Neue", Helvetica, "Liberation Sans", "DejaVu Sans Condensed", sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+}
+.lorem {
+  color: #d1c0a9;
+  /* Fades place-holder text. */
+}
+ul {
+  list-style-position: inside;
+  list-style-type: disc;
+  margin: 0.125em  0  0.125em 0.625em;
+}
+li {
+  list-style: inherit;
+  margin: 0.125em  0  0.125em 0.5em;
+}
+a {
+  color: #537969;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.nocolor {
+  color: inherit;
+}
+nav a {
+  font-family: Frutiger, Trebuchet, Helvetica, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", sans-serif;
+  font-weight: 500;
+}
+main nav {
+  border-radius: 0.125em;
+}
+/* Layout *************************************/
+/* “CSS doesn't define where to place things; */
+/* it defines HOW to place them.              */
+/* Like the Tao, it does nothing,             */
+/* but through it, all things get done.” - me */
+/**********************************************/
+/*[ Default; no media query ]*********************/
+/* Targets a [12.5 em < screen < 37.5 em] screen */
+p {
+  margin: 0.250em 0.125em 0.500em 0.250em;
+  padding: 0.250em 0 0.250em 0;
+  /* padding instead margin -> no collapse */
+}
+.ref p {
+  margin: 0.375em 0.125em 0.500em 1.375em;
+  /* increase left by 1 em */
+  text-indent: -1em;
+  /* for hacky hanging indents */
+}
+nav {
+  /* see css/notes-on-breakpoints.txt for sizing */
+  display: block;
+  text-align: center;
+  /* Centers an inline-block <div>, too! */
+  border-color: #d1c0a9;
+  border-width: 0.250em 0 0 0;
+  border-style: solid;
+  border-radius: 0 0 0.250em 0.250em;
+  /* syntax for border-radius:                       */
+  /* top left, top right, bottom right, bottom left; */
+  /* (a.k.a., start top-left, go around clockwise)   */
+  position: fixed;
+  bottom: 0em;
+  left: 0em;
+  right: 0em;
+  width: 92.16%;
+  /* 100% - ((2 * 2%) + (2 * (2% * 96%))) = 100% - (4% + 3.84%) */
+  max-width: 37.5em;
+  margin: 0 auto;
+  padding: 0.125em 0.375em;
+}
+nav div {
+  display: inline-block;
+  font-size: 81.25%;
+  background-color: #d1c0a9;
+  border-radius: 0.9375em;
+  text-align: center;
+  width: 31.5%;
+  margin: 0.250em 0.125em;
+  padding: 0.375em 0.125em;
+}
+nav a {
+  color: #537969;
+}
+nav a:hover {
+  text-decoration: none;
+  color: #7a7a92;
+  text-shadow: #9c9cab 0 0 28px;
+  /* glows a little */
+}
+/* table */
+table {
+  width: 96.25%;
+  border-collapse: collapse;
+  margin: 0.750em 0 1em 1.825%;
+}
+/* t-head section, columns header style */
+thead th {
+  padding: 0.4em;
+  font-size: 1em;
+  color: #f1f2f1;
+  background-color: #537969;
+  border: 1px solid #5b5b7c;
+}
+/* t-body section, td style */
+tbody td {
+  vertical-align: middle;
+  text-align: left;
+  font-size: 0.9325em;
+  background-color: #f1f2f1;
+  border: 1px solid #5b5b7c;
+  color: #537969;
+  padding: 0.6em;
+}
+/* tbody section, odd rows style */
+tbody tr:nth-child(odd) td {
+  background-color: #c3cac7;
+}
+/* first column left, the rest are centered */
+td + td,
+th + th {
+  text-align: center;
+}
+/*********************************************[ screen < 12.5 em ]*/
+/* This is a weirdly small size of viewport, thus not the default */
+/* This uses ‘em’ instead of ‘%’ to enforce minimums for spacings */
+@media all and (min-width: 0) {
+  body {
+    min-width: 12.5em;
+    /* matches breakpoint */
+    background-color: #d1c0a9;
+    padding: 0.250em;
+  }
+  article {
+    /* Force horizontal scroll when (em-px):(vw-px) ratio is high */
+    min-width: 11.5em;
+    /* 12em - 0.5em for margins (border-box sizing) */
+    margin: 0.250em;
+    padding: 0 0.250em 0.375em 0.250em;
+  }
+  div.lightbox {
+    margin: 0.125em 0.125em 0.250em 0.125em;
+    padding: 0.125em 0.375em 0.250em 0.125em;
+  }
+  section {
+    margin: 0.125em 0.125em 0.250em 0.125em;
+    padding: 0.375em 0.375em 0.125em 0.125em;
+  }
+  .subcontainer {
+    margin: 0.125em 0.125em 0.250em 0.125em;
+    padding: 0.375em 0.250em 0.125em 0.250em;
+  }
+  blockquote {
+    margin: 0.375em 0.875em 0.375em 0.875em;
+  }
+  nav {
+    display: none;
+  }
+  /* Display too small/weird for ‘position:fixed’ <nav> */
+  main nav {
+    display: block;
+    position: relative;
+    min-width: 12em;
+    /* matches <article> */
+    text-align: center;
+    /* Centers an inline-block <div>, too! */
+    border-color: #d1c0a9;
+    border-width: 0;
+    border-style: solid;
+    border-radius: 0.250em;
+    width: 100%;
+    margin: 0.250em;
+    padding: 0 0.250em 0.250em 0.250em;
+  }
+  main nav div {
+    display: inline-block;
+    font-size: 0.625em;
+    background-color: #d1c0a9;
+    border-radius: 0.875em;
+    text-align: center;
+    width: 33%;
+    margin: 0.250em 6%;
+    padding: 0.375em 1.125em;
+  }
+  main nav a {
+    color: #7a7a92;
+  }
+}
+/******************************************[ 12.5 em < screen < 37.5 em ]*/
+/* Switch from ‘em’ to ‘%’ to allow dynamic/responsive sizing of spaces. */
+@media all and (min-width: 12.5em) {
+  /*  see: css/notes-on-breakpoints.txt */
+  /*  1 % <- 0.125 em */
+  /*  2 % <- 0.250 em */
+  /*  3 % <- 0.375 em */
+  /*  4 % <- 0.500 em */
+  /*  5 % <- 0.625 em */
+  /*  6 % <- 0.750 em */
+  /*  7 % <- 0.875 em */
+  /*  8 % <- 1.000 em */
+  body {
+    padding: 2%;
+  }
+  article {
+    margin: 0.250em 2% 0.250em 2%;
+    padding: 0 2% 3% 2%;
+  }
+  div.lightbox {
+    margin: 1% 1% 2% 1%;
+    padding: 1% 3% 2% 1%;
+  }
+  section {
+    margin: 1% 1% 2% 1%;
+    padding: 3% 3% 1% 1%;
+  }
+  .subcontainer {
+    margin: 1% 1% 1% 1%;
+    padding: 3% 2% 1% 2%;
+  }
+  blockquote {
+    margin: 3% 5% 3% 5%;
+  }
+  nav {
+    display: block;
+  }
+  main nav {
+    width: 96%;
+    margin: 2%;
+    padding: 0.1875em 0.250em 0.1875em 0.250em;
+  }
+}
+/**********************************[ 37.5 em < screen < 45.25 em ]*/
+/* Limit width of <article>, to limit the length of lines of text */
+/* 37.5 display-em -> 56.25 print-em                              */
+/* Print-em better estimates the number of characters on a line   */
+@media all and (min-width: 37.5em) {
+  /*  see: css/notes-on-breakpoints.txt */
+  /*  1 % -> 0.375 em */
+  /*  2 % -> 0.750 em */
+  /*  3 % -> 1.125 em */
+  /*  4 % -> 1.500 em */
+  /*  5 % -> 1.875 em */
+  /*  6 % -> 2.250 em */
+  /*  7 % -> 2.625 em */
+  /*  8 % -> 3.000 em */
+  body {
+    background-color: #b19979;
+    border-width: 0 0.750em;
+    border-style: solid;
+    border-color: #b19979;
+    padding: 2% 0;
+  }
+  main {
+    background-color: #d1c0a9;
+    max-width: 37.5em;
+    margin: 0 auto;
+    border: 0;
+    padding: 0 0 1em 0;
+    /* Pad bottom to clear <nav>. */
+  }
+  article {
+    max-width: 37em;
+    margin: 0.250em 0.750em;
+    padding: 0 0.750em 0.250em 0.750em;
+  }
+  div.lightbox {
+    margin: 0.375em 0.375em 0.750em 0.375em;
+    padding: 0.375em 1.125em 0.750em 0.375em;
+  }
+  section {
+    margin: 0.375em;
+    padding: 1.125em 1.125em 0.125em 0.375em;
+  }
+  .subcontainer {
+    margin: 0.375em;
+    padding: 1.125em 0.750em 0.375em 0.750em;
+  }
+  blockquote {
+    margin: 1.125em 1.625em 1.125em 1.625em;
+  }
+  nav {
+    width: 96%;
+    border-width: 0.250em 0.750em 0 0.750em;
+    /* left & right borders match <article> margin */
+    border-style: solid;
+    border-radius: 0 0 0.250em 0.250em;
+  }
+}
+/**********************************[ 45.25 em < screen < 60 em ]*/
+@media all and (min-width: 45.25em) {
+  main {
+    width: 37.5em;
+    margin: 0 0 0 3.125em;
+  }
+  nav {
+    left: 3.875em;
+    width: 37.500em;
+    margin: 0;
+  }
+  main nav {
+    /* Collapses to become an empty divider between <articles>. */
+    background-color: #b19979;
+    top: 0;
+    left: 0;
+    border-width: 0;
+    border-style: solid;
+    border-radius: 0.1875em;
+    /* Matches vertical padding. */
+    width: 96%;
+    height: auto;
+    margin: 0 2% 0.125em 2%;
+    padding: 0.1875em 0.250em 0.1875em 0.250em;
+    /* Clear attributes set for <nav>    */
+    display: inline-block;
+    position: relative;
+  }
+  main nav a {
+    display: none;
+  }
+}
+/****************************************[ 60 em < screen ]*/
+@media all and (min-width: 60em) {
+  body {
+    padding: 2% 1px;
+  }
+  nav {
+    /* nail it down */
+    border-radius: 0.9375em;
+    border-width: 0.325em;
+    position: fixed;
+    top: 3em;
+    left: 44.5em;
+    width: 12.50em;
+    height: 8.125em;
+    padding: 0.1875em;
+  }
+  nav div {
+    font-size: 100%;
+    text-align: center;
+    width: 11.250em;
+    padding: 0.375em 0.125em;
+  }
+  main nav {
+    border-radius: 0.1875em;
+    /* Matches vertical padding. */
+    border-width: 0;
+    position: relative;
+    /* reset value from <nav> */
+    width: 96%;
+    height: auto;
+    padding: 0.1875em 0.250em 0.1875em 0.250em;
+  }
+  main nav a {
+    display: none;
+  }
+}
