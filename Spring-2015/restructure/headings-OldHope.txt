@@ -1,0 +1,41 @@
+15-        Practical impact
+19-          What is “practical impact”?  It's when research informs practice.
+36-          Why is the “practical impact” of research interesting?
+40-            On-going empirical research into trivial correlations in social sciences
+58-            Lack of relevance in management research
+66-            Increasing demand to demonstrate practical value of research by funding agencies
+74-            Value of practical impact may not be captured by citation metrics
+100-          What is a &ldquo;citation-based metrics such as the Journal Impact Factor&rdquo;?
+104-            Explaining the Journal Impact Factor through its historical foundations
+112-            Finding the &ldquo;indispensable&rdquo; journals
+129-            Counting citations to sort journals
+152-            Compiling citations for multiple fields
+172-            Reporting ratios instead of counts
+228-            Selecting what years to include
+248-            Samples, not populations, of citations
+259-            So, what's a JIF, anyway?
+279-          Tracking practical impact
+283-            Altmetrics breaks out of academic silo that isolates most bibliometric methods
+300-            The Centre for Science and Technology Studies (CWTS)
+308-            Higher Education Funding Council for England &ndash; REF
+321-          Uses of practical impact information
+325-            Determination of funding (e.g., HEFCE-REF)
+333-            Judging “quality of research”
+341-            Improving knowledge transfer between researchers and practitioners
+354-          Hazards of ignoring practical value
+358-            “Gaming” system through statistical power
+372-            Losing funding [see: HEFCE-REF]
+380-            Rewards that are based only citation-metrics begets research that maximizes citations, and only citations
+388-            Is it ethical to leave practitioners ignorant of knowledge that would improve their outcomes?
+401-          Hazards of making practical value requisite
+425-          Rewarding practical impact
+442-          Categorizing practical impact
+446-            Comparisons should always be within the same, or similar, fields
+466-            Qualitative process
+470-              Too many possible sources for practical impact data to equitably quantify
+498-              Different fields have varying levels of practical impact
+512-          Levels of practical impact
+516-            U – Unknown/undefined
+524-            A – Apparent
+532-            I – Important
+545-          Conclusion / Reiteration

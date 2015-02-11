@@ -1,0 +1,26 @@
+15-        Practical impact &ndash; a thesis
+19-          &nbsp;
+23-            Preface: document structure
+39-          Null-hypothesis significance testing
+43-            Losing importance in the search for significance
+86-          Making importance once again important
+90-            Demonstrate importance through effect sizes
+101-            From calculations to precedents
+115-            Using precedents as estimates
+137-          Simplify the problem…
+141-            …By expanding it
+164-            Find out from practitioners what they consider relevant
+190-            Specifics of what would be tracked
+206-          Existing metrics
+213-            Journal-level citation metrics
+224-            Finding the &ldquo;indispensable&rdquo; journals
+238-            Counting citations to sort journals
+261-            Compiling citations for multiple fields
+281-            Reporting ratios instead of counts
+337-            Selecting what years to include
+357-            Samples, not populations, of citations
+368-            So, what's a JIF, anyway?
+380-            Altmetrics - overview
+397-            Altmetrics - examples related to practical impact
+431-          Don't require practical impact; reward it
+466-          Promote practical impact, and trivial results will fade
