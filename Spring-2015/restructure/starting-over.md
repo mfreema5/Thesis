@@ -9,7 +9,7 @@
   * People employed by publishers of research articles
 * Purpose(s)
   * Demonstrate my ability to write an academic piece
-  * Explain how &ldquo;practical impact&rdquo; is growing in importance
+    * Explain how &ldquo;practical impact&rdquo; is growing in importance
   * Demonstrate my technology skills through &lsquo;tawp&rsquo;
     * …by showing ways to make academic writing/content more accessible?
 
@@ -36,8 +36,11 @@
   * Evaluation panels (which include practitioners)
 
 #### How to prepare (&ldquo;Future Research&rdquo;) (a.k.a., Mike rambles on)
-* Minimizing use of jargon and TLAs
-* Updating format of journal articles
+
+(How can I make this more research-question like?)
+
+* Minimize use of jargon and TLAs
+* Update format of journal articles
 * Update online presentation of research/articles
   * Bundle commentary and response with original artifact?
   * Embed links to references? To citations? To practical impact?
