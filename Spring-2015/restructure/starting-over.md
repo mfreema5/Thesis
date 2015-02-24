@@ -50,16 +50,41 @@
 
 
 
+----
 
+## “Recycling-text” outline
 
-
-
-
-
-
-
-
-
-
+* How we judge the relative value of research &ndash; current
+  * Journal-level metrics
+    * Journal Impact Factor
+    * Refinements on JIF
+      * SNIP
+      * SJR
+        * Advantages of SJR over JIF:
+  * Article-level metrics
+    * h-Index
+    * Altmetrics
+      * “Manifesto”
+  * Other approaches
+  * Summaries of existing metrics
+    * Journal-level metrics
+    * Article-level metrics
+      * CWTS (article-level) &ldquo;indicators&rdquo;
+    * Some features of both journal- and article-level metrics
+  * Problems with this/these
+    * Lack of relevance
+    * &ldquo;Seduced by the apparent objectivity of numbers&rdquo;
+* How we judge the relative value of research &ndash; expected future includes Practical Impact
+  * What is practical impact
+    * Do current metrics capture practical impact
+  * Examples of ways to evaluate pratical impact
+    * HEFCE-REF
+    * Austrialian prototype
+    * U.S. PART program (name?)
+  * How the examples worked (details)
+    * Case studies
+    * Evaluation panels (which include practitioners)
+* Future research
+* Conclusion
 
 
