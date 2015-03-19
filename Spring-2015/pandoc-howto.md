@@ -177,5 +177,5 @@ It works!!!
 ### Script it
 
 ```
-for FOO in *.md ; do pandoc -V geometry:margin=0.75in -s -o "${FOO%%.md}.pdf" "$FOO" ; done
+for FOO in *.md ; do pandoc --latex-engine=xelatex -V geometry:margin=0.75in -s -o "${FOO%%.md}.pdf" "$FOO" ; done
 ```
