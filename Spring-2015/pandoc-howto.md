@@ -7,6 +7,8 @@
   * `pandoc --latex-engine=xelatex -V geometry:margin=0.75in -s -o "filename.pdf" "filename.md"`
 * To generate LaTeX source from a markdown file:
   * `pandoc --latex-engine=xelatex -V geometry:margin=0.75in -s -o "filename.tex" "filename.md"`
+* Sometimes it works better to go through an intermediate stage of HTML
+  * `pandoc -s -f markdown_github -t html "filename.md" | pandoc --latex-engine=xelatex -V geometry:margin=0.75in -s -f html -o "filename.pdf"`
 * To generate PDFs from all the markdown files in a directory:
   * `for FOO in *.md ; do pandoc --latex-engine=xelatex -V geometry:margin=0.75in -s -o "${FOO%%.md}.pdf" "$FOO" ; done`
 
