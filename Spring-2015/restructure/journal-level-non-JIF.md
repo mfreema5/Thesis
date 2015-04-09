@@ -10,7 +10,7 @@ To normalize away the differences in citation practices, however, requires prope
 
 To ensure that a journal's citations are normalized against an appropriate field of research, within SNIP a particular journal's field is not determined by categorization but instead it is defined by what articles cite the journal.  In other words, the “field” is the collection of all articles *outside* the journal that contain citations to articles *inside* the journal.  (It should be noted that the term “article” is being used here loosely.  A more accurate description might be “citable document”, since within SNIP “*articles*, *conference proceedings papers* and *reviews* are considered as fully fledged, peer-reviewed research articles” (Moed 2010).)  In short, SNIP normalizes a journal's citations based on the field's average citations, where the field is defined by citations to the journal.
 
-A version of SNIP that runs against the Scopus&reg; database is available on the Journal Metrics website, `www.journalmetrics.com` (Elsevier 2015).
+A version of SNIP that runs against the Scopus&reg; database is available on the Journal Metrics website, *www.journalmetrics.com* (Elsevier 2015).
 
 #### SJR
 
@@ -20,38 +20,27 @@ The SJR calculates for each journal its eigenvector centrality, which is “a me
 
 The resulting SJR metric is “aimed at measuring the current ‘average prestige per paper’ of journals for use in research evaluation processes” (González-Pereira *et al.* 2010).
 
-#### PageRank
+#### PageRank / Eigenfactor.org
 
+Another way to rank journals based on prestige instead of simple popularity, is the approach used by Eigenfactor.org&reg;, which “ranks the influence of journals much as Google’s PageRank algorithm ranks the influence of web pages” (West 2015).
 
+Bollen *et al.* (2006) have also used the PageRank methodology to rank journals by prestige, using “the dataset of the 2003 ISI Journal Citation Reports to compare the ISI [Impact Factor] and Weighted PageRank rankings of journals.”  To achieve the ranking, citations are used as a basis to “iteratively” pass prestige from one journal to the other, until “a stable solution is reached which reflects the relative prestige of journals.”  This is an adaptation of the original PageRank method, the difference being that connections between journals are weighted, based on citation frequencies.
 
+Prestige and citation rankings were found to be largely similar, with two notable exceptions.  The first were “journals that are cited frequently by journals with little prestige” that rank much lower on a prestige index than they do on a citation index.  The second were the converse of the first, “journals that are not frequently cited, but their citations come from highly prestigious journals” so that they rank much higher on a prestige index than they do on a citation index.
 
+Based on specific examples of these two types of journals that have distinctly different rankings when sorted by citations versus prestige, in general it is theory-heavy journals that have low citation counts, yet high prestige.  The journals with high counts but low prestige are “methodological and applied journals” or ones “that frequently publish data tables” (Bollen *et al.* 2006). 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+It is, however, unclear if this result is an indication of the importance of including work on theory to produce high-quality research, or simply evidence that a weighted PageRank methodology is effective at maintaining previous perceptions of the relative values of theoretical and applied research.
 
 ----
 
 ## References
 
+* Bollen, Johan, Marko A. Rodriquez, and Herbert Van de Sompel. 2006. “Journal Status.” *Scientometrics* 69 (3): 669–87. doi:10.1007/s11192-006-0176-z.
+
 * Bonacich, Phillip. 1987. “Power and Centrality: A Family of Measures.” *American Journal of Sociology* 92 (5): 1170–82. doi:10.2307/2780000.
+
+* West, Jevin D. 2015. “Eigenfactor.” *Eigenfactor*. Accessed April 9. http://www.eigenfactor.org/methods.php.
 
 * Elsevier. 2015. “Journal Metrics: Research Analytics Redefined.” *Journal Metrics: Research Analytics Redefined*. Accessed April 7. http://www.journalmetrics.com/.
 
