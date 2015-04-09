@@ -14,13 +14,51 @@ A version of SNIP that runs against the Scopus&reg; database is available on the
 
 #### SJR
 
-…
+Another example of journal-impact metrics, the SCImago Journal Rank indicator (SJR), uses an implementation of social network analysis to rank journals.  The resulting rankings indicate the relative prestige of the journals.  This more gradated ranking is useful because more “poorly cited journals are entering the indices, [therefore] it is essential to have metrics that will allow one to distinguish with greater precision the level of prestige attained by each publication” (González-Pereira *et al.* 2010).
+
+The SJR calculates for each journal its eigenvector centrality, which is “a measure of centrality… in which a unit's centrality is its summed connections to others, weighted by their centralities”, where ‘centrality’ is “network-derived importance” (Bonacich 1987) . For the SJR, therefore, ‘centrality’ is an indicator of a journal's prestige.  The eigenvector centrality calculated for a journal is then normalized using the total number of citations to the journal, resulting in a size-independent rank (González-Pereira *et al.* 2010).
+
+The resulting SJR metric is “aimed at measuring the current ‘average prestige per paper’ of journals for use in research evaluation processes” (González-Pereira *et al.* 2010).
+
+#### PageRank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ----
 
 ## References
 
+* Bonacich, Phillip. 1987. “Power and Centrality: A Family of Measures.” *American Journal of Sociology* 92 (5): 1170–82. doi:10.2307/2780000.
+
 * Elsevier. 2015. “Journal Metrics: Research Analytics Redefined.” *Journal Metrics: Research Analytics Redefined*. Accessed April 7. http://www.journalmetrics.com/.
+
 * Garfield, Eugene. 1979. *Citation Indexing - Its Theory and Application in Science, Technology, and Humanities*. New York: Wiley.
+
+* González-Pereira, Borja, Vicente P. Guerrero-Bote, and Félix Moya-Anegón. 2010. “A New Approach to the Metric of Journals’ Scientific Prestige: The SJR Indicator.” *Journal of Informetrics* 4 (3): 379–91. doi:10.1016/j.joi.2010.03.002.
+
 * Moed, Henk F. 2010. “Measuring Contextual Citation Impact of Scientific Journals.” *Journal of Informetrics* 4 (3): 265–77. doi:10.1016/j.joi.2010.01.002.
+
 * Moed, Henk F. 2011. “The Source Normalized Impact per Paper Is a Valid and Sophisticated Indicator of Journal Citation Impact.” *Journal of the American Society for Information Science and Technology* 62 (1): 211–13. doi:10.1002/asi.21424.
