@@ -1,4 +1,6 @@
-### How was ‘practical impact’ defined in the examples
+### How was ‘practical impact’ applied in the examples
+
+#### REF
 
 The documentation published by HEFCE for the REF explained that practical impacts would include “a wide definition of impacts, including economic, social, public policy, cultural and quality of life” and that any reference to “‘impact’ or ‘social and economic impact’” implicitly included the entire wide range of impacts. (HEFCE 2009)
 
@@ -14,7 +16,19 @@ The authors are presumably are referring to the “narrative evidence” that wa
 
 Quantitive data were included in the process, however.  The HEFCE directed that the case studies that were submitted by research institutions should “include a range of **indicators of impact** as supporting evidence”.  Those indicators were expected to be quantified values, such as the research income generated from other funding sources, and accountings of collaborations with companies in the private sector (HEFCE 2009).
 
-In the Australian RFQ, Donovan (2008) reports there were competing definitions….
+#### RFQ
+
+In the RFQ, research would have impact if it created benefits in at least one of four domains: 
+social, economic, environmental, or cultural (Donovan 2008)
+
+* Social Benefit &ndash; new approach to social issues, improved policies, improved equity, improved health, safety and security, etc.
+* Economic Benefit &ndash; improved productivity, increased employment, increased innovation and global competitiveness, “unquantified economic returns resulting from social and public policy adjustments”, etc.
+* Environmental Benefit &ndash; reduced waste and pollution, reduced consumption of fossil fuels, improved management of natural resources, etc.
+* Cultural Benefit &ndash; greater understanding of “where we have come from, and who and what we are as a nation and society”, stimulating creativity within the community, contributing to cultural preservation and enrichment, etc.
+
+However, Donovan writes that the definition of impact in the final version of the Australian RFQ program was the result of tensions between defining impact in terms of “the interests of industry and commerce” and defining it in relation to “broader public benefits” (Donovan 2008).  These tensions are played out in the differences between three sources: two sets of preliminary recommendations for the program and the final version of the RFQ.
+
+For example, one of the preliminary recommendations defined impact in terms of “direct practical utility” and within the document the term ‘impact’ was at times used interchangeably with the word ‘usefulness’. It advocates measuring impact with quantitative metrics, such a business investments and returns, numbers of patents issued, etc.  In contrast, the other preliminary recommendation promotes combining quantitative indicators with qualitative evidence in order to include the intangible benefits of research in the evaluation process.  The final version of the RFQ included a “case study” methodology for evaluating impact, which would allow for the more holistic method of evaluation, but also included a scale for the scoring of impact that used magnitudes of impact as a criteria, which clearly favors quantitative evidence (Donovan 2008).
 
 
 ----
