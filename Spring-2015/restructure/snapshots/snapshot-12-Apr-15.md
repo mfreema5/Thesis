@@ -1,3 +1,5 @@
+# Finding Research Value &ndash; the metrics and methods for evaluating research
+
 ## Introduction &ndash; How can we evaluate the value of research?
 
 The value of the research done by individuals is used by institutions as part of the process of allocating resources to that individual; those resources being salary, job title, tenure, use of facilities, etc.  Similarly, the aggregate value of all the research coming from a research institution is sometimes used by funding institutions as part of the process of allocating resources.
@@ -7,20 +9,6 @@ Traditionally, the process of evaluating the value of research has largely depen
 In the following, first I detail some of the most popular bibliometric methods, how they work, and the criticisms of their use in evaluating the “research impact”&mdash;as opposed to the “socio-economic impact” or “practical impact”&mdash;of an individual researcher, research group or research institution.
 
 I then describe some examples of how organizations and institutions have tried to, or have at least recommended as a way to, combine the evaluation of research impact and practical impact in order to arrive at an understanding of the “complete impact of research”.  It should be noted that the primary intent for some of those evaluation frameworks (e.g., the Research Quality Framework in Australia) was to provide input on the allocation of funds to research institutions (Donovan 2008).  If the influence of practical impact on the allocation of resources to research institutions increases, presumably its influence on the allocation of resources to individual researchers will also increase.
-
-
-
-----
-
-### References
-
-* Adler, Robert, John Ewing, and Peter Taylor. 2009. “Citation Statistics.” *Statistical Science* 24 (1): 1–14. doi:10.1214/09-STS285.
-* Butler, L. 2008. “Using a Balanced Approach to Bibliometrics: Quantitative Performance Measures in the Australian Research Quality Framework.” *Ethics in Science and Environmental Politics* 8 (June): 83–92. doi:10.3354/esep00077.
-* Donovan, Claire. 2008. “The Australian Research Quality Framework: A Live Experiment in Capturing the Social, Economic, Environmental, and Cultural Returns of Publicly Funded Research.” *New Directions for Evaluation* 2008 (118): 47–60.
-* Grant, J., P. B. Brutscheer, S. Kirk, L. Butler, and S. Wooding. 2010. "Documented Briefing: Capturing Research Impacts–a Review of International Practice". *DB-578-HEFCE*. RAND Documented Briefings, RAND Corporation. http://www.rand.org/pubs/documented_briefings/DB578.html. Retrieved November 4, 2014.
-* MacRoberts, Michael H., and Barbara R. MacRoberts. 1989. “Problems of Citation Analysis: A Critical Review.” *Journal of the American Society for Information Science* 40 (5): 342–49. doi:10.1002/(SICI)1097-4571(198909)40:5<342::AID-ASI7>3.0.CO;2-U.
-* van Eck, Nees Jan, Ludo Waltman, Anthony F. J. van Raan, Robert J. M. Klautz, and Wilco C. Peul. 2013. “Citation Analysis May Severely Underestimate the Impact of Clinical Research as Compared to Basic Research.” *PloS One* 8 (4): e62395. doi:10.1371/journal.pone.0062395.
-* van Raan, A., H. Moed, and T. van Leeuwen. 2007. "Scoping Study on the Use of Bibliometric Analysis to Measure the Quality of Research in UK Higher Education Institutions". *HEFCE 2007/34*. http://webarchive.nationalarchives.gov.uk/20120118171947/http://www.hefce.ac.uk/pubs/rdreports/2007/rd18_07/. Retrieved February 8, 2015.
 
 ## Bibliometrics
 
@@ -135,16 +123,7 @@ This, then, is the core of how the Journal Impact Factor and a number of similar
 
 However, there are a number of potential problems with this method.  Those and some others problems with the Journal Impact Factor are most easily explained by looking at a some other journal-level metrics that use refined versions of this same basic methods.
 
-----
-
-## References
-
-* Archambault, Éric, and Vincent Larivière. 2009. “History of the Journal Impact Factor: Contingencies and Consequences.” *Scientometrics* 79 (3): 635–49. doi:10.1007/s11192-007-2036-x.
-* Gregory, Jennie. 1937. “An Evaluation of Medical Periodicals.” *Bulletin of the Medical Library Association* 25 (3): 172–88.
-* Gross, P. L. K., and E. M. Gross. 1927. “College Libraries and Chemical Education.” *Science* 66 (1713): 385–89.
-* Hackh, Ingo. 1936. “The Periodicals Useful in the Dental Library.” *Bulletin of the Medical Library Association* 25 (1-2): 109–12.
-* Martyn, John, and Alan Gilchrist. 1968. *An Evaluation of British Scientific Journals*. London: Aslib.
-#### Refinements on the Journal Impact Factor
+### Refinements on the Journal Impact Factor
 
 #### *SNIP* &ndash; Source Normalized Indicator of journal impact per Paper
 
@@ -178,26 +157,7 @@ Based on specific examples of these two types of journals that have distinctly d
 
 It is, however, unclear if this result is an indication of the importance of including work on theory to produce high-quality research, or simply evidence that a weighted PageRank methodology is effective at maintaining previous perceptions of the relative values of theoretical and applied research.
 
-----
-
-## References
-
-* Bollen, Johan, Marko A. Rodriquez, and Herbert Van de Sompel. 2006. “Journal Status.” *Scientometrics* 69 (3): 669–87. doi:10.1007/s11192-006-0176-z.
-
-* Bonacich, Phillip. 1987. “Power and Centrality: A Family of Measures.” *American Journal of Sociology* 92 (5): 1170–82. doi:10.2307/2780000.
-
-* West, Jevin D. 2015. “Eigenfactor.” *Eigenfactor*. Accessed April 9. http://www.eigenfactor.org/methods.php.
-
-* Elsevier. 2015. “Journal Metrics: Research Analytics Redefined.” *Journal Metrics: Research Analytics Redefined*. Accessed April 7. http://www.journalmetrics.com/.
-
-* Garfield, Eugene. 1979. *Citation Indexing - Its Theory and Application in Science, Technology, and Humanities*. New York: Wiley.
-
-* González-Pereira, Borja, Vicente P. Guerrero-Bote, and Félix Moya-Anegón. 2010. “A New Approach to the Metric of Journals’ Scientific Prestige: The SJR Indicator.” *Journal of Informetrics* 4 (3): 379–91. doi:10.1016/j.joi.2010.03.002.
-
-* Moed, Henk F. 2010. “Measuring Contextual Citation Impact of Scientific Journals.” *Journal of Informetrics* 4 (3): 265–77. doi:10.1016/j.joi.2010.01.002.
-
-* Moed, Henk F. 2011. “The Source Normalized Impact per Paper Is a Valid and Sophisticated Indicator of Journal Citation Impact.” *Journal of the American Society for Information Science and Technology* 62 (1): 211–13. doi:10.1002/asi.21424.
-#### Journal-level metrics are poor surrogates for research evaluation
+### Journal-level metrics are poor surrogates for research evaluation
 
 The variety of variants to the Journal Impact Factor might at first seem to be an indication that there is a lot of competition to win the favor of librarians.  Because, of course, journal-level impact metrics like the Journal Impact Factor were born of the desire to rank the importance of journals so that librarians will know which ones to have in their libraries.
 
@@ -214,19 +174,6 @@ As Adler *et al.* put it:
 Yet, it's hard to explain the variety of bibliometrics available to assess the impact of journals, and the nature of some of the refinements that differentiate them [[EXAMPLES?]], without assuming that the metrics are being used for something more generally desirable than the ranking of the journals themselves.
 
 At the same time, however, it is this “pervasive misuse” of journal-level metrics that has helped lead to the development of article-level metrics.  (See below.)
-
-
-----
-
-#### References
-
-* Adler, Robert, John Ewing, and Peter Taylor. 2009. “Citation Statistics.” *Statistical Science* 24 (1): 1–14. doi:10.1214/09-STS285.
-
-* Gross, P. L. K., and E. M. Gross. 1927. “College Libraries and Chemical Education.” *Science* 66 (1713): 385–89.
-
-* González-Pereira, Borja, Vicente P. Guerrero-Bote, and Félix Moya-Anegón. 2010. “A New Approach to the Metric of Journals’ Scientific Prestige: The SJR Indicator.” *Journal of Informetrics* 4 (3): 379–91. doi:10.1016/j.joi.2010.03.002.
-
-
 
 ### Article-level metrics
 
@@ -250,22 +197,9 @@ Though, there is a more important question to ask than which of the simple, arti
 
 >“These are often breathtakingly naïve attempts to capture a complex citation record with a single number. Indeed, the primary advantage of these new indices… is that the indices discard almost all the detail of citation records, and this makes it possible to rank any two scientists. Even simple examples, however, show that the discarded information is needed to understand a research record.” (Adler *et al.* 2009)
 
-
 Notes:
 
 <a name="footnote">&dagger;</a> &ndash; See, for example, [scholar.google.com/citations?user=ZhuI0gwAAAAJ](https://scholar.google.com/citations?user=ZhuI0gwAAAAJ).
-
-----
-
-## References
-
-* Adler, Robert, John Ewing, and Peter Taylor. 2009. “Citation Statistics.” *Statistical Science* 24 (1): 1–14. doi:10.1214/09-STS285.
-* Connor, James. 2011. “Google Scholar Citations Open To All.” *Google Scholar Blog*. Accessed April 12. http://googlescholar.blogspot.com/2011/11/google-scholar-citations-open-to-all.html.
-* Egghe, Leo. 2013. “Theory and Practise of the G-Index.” *Scientometrics* 69 (1): 131–52. doi:10.1007/s11192-006-0144-7.
-* Hirsch, J. E. 2005. “An Index to Quantify an Individual’s Scientific Research Output.” *Proceedings of the National Academy of Sciences of the United States of America* 102 (46): 16569–72. doi:10.1073/pnas.0507655102.
-* Lehmann, Sune, Andrew D. Jackson, and Benny E. Lautrup. 2006. “Measures for Measures.” *Nature* 444 (7122): 1003–4. doi:10.1038/4441003a.
-* Schreiber, Michael. 2008. “A Modification of the H-Index: The Hm-Index Accounts for Multi-Authored Manuscripts.” *Journal of Informetrics* 2 (3): 211–16. doi:10.1016/j.joi.2008.05.001.
-
 
 #### Altmetrics
 
@@ -283,31 +217,9 @@ If altmetrics aren't bibliometrics, what are they?  They are “informetrics” 
 
 For a more detailed discussion of the differences between the three areas, see “The Literature of Bibliometrics, Scientometrics, and Informetrics” by Hood and Wilson (2001).
 
+## Examples of the move to include practical impact in evaluating research
 
-----
-
-* Adie, Euan, and William Roe. 2013. “Altmetric: Enriching Scholarly Content with Article-Level Discussion and Metrics.” *Learned Publishing* 26 (1): 11–17. doi:10.1087/20130103.
-
-* Broadus, R. N. 1987. “Toward a Definition of ‘bibliometrics.’” *Scientometrics* 12 (5-6): 373–79. doi:10.1007/BF02016680.
-
-* Egghe, L., and R. Rousseau. 1990. *Introduction to Informetrics: Quantitative Methods in Library, Documentation and Information Science*. Amsterdam ; New York: Elsevier Science Publishers. http://catalog.hathitrust.org/Record/002225028.
-
-* Hood, William W., and Concepción S. Wilson. 2001. “The Literature of Bibliometrics, Scientometrics, and Informetrics.” *Scientometrics* 52 (2): 291–314. doi:10.1023/A:1017919924342.
-
-* Ingwersen, Peter, and Finn Hjortgaard Christensen. 1997. “Data Set Isolation for Bibliometric Online Analyses of Research Publications: Fundamental Methodological Issues.” *Journal of the American Society for Information Science* 48 (3): 205–17. doi:10.1002/(SICI)1097-4571(199703)48:3<205::AID-ASI3>3.0.CO;2-0.
-
-* Tague-Sutcliffe, Jean. 1992. “An Introduction to Informetrics.” *Information Processing & Management* 28 (1): 1–3. doi:10.1016/0306-4573(92)90087-G.
-
-* Zahedi, Zohreh, Rodrigo Costas, and Paul Wouters. 2014. “How Well Developed Are Altmetrics? A Cross-Disciplinary Analysis of the Presence of ‘alternative Metrics’ in Scientific Publications.” *Scientometrics* 101 (2): 1491–1513. doi:10.1007/s11192-014-1264-0.
-
-
-
-
-# The move to include practical impact in evaluating research
-
-## Examples from government initiatives and programs
-
-### Background on the examples  
+### Background on examples from government initiatives and programs 
 
 Both Australia and the United Kingdom have developed government programs that evaluate research institutions based on their “research quality” and “research impact”.  Those programs used “research quality” to refer to what is sometimes called the “academic impact” of research; it is a measure of the effect that research has on other research, and included some form of bibliometrics.
 
@@ -332,23 +244,6 @@ The HEFCE will be using the Research Excellence Framework (REF) “for the asses
 However, the three elements are not equally weighted: “The assessment of research impact will be one of three distinct elements of the REF, being judged alongside research excellence and research environment, contributing 25% towards the overall outcome (as compared with 60% and 15% for quality and environment).” (Technopolis 2010)
 
 A pilot exercise of the REF was conducted in 2009.
-
-
-----
-
-References
-
-* Butler, L. 2008. “Using a Balanced Approach to Bibliometrics: Quantitative Performance Measures in the Australian Research Quality Framework.” *Ethics in Science and Environmental Politics* 8 (June): 83–92. doi:10.3354/esep00077.
-
-* Donovan, Claire. 2008. “The Australian Research Quality Framework: A Live Experiment in Capturing the Social, Economic, Environmental, and Cultural Returns of Publicly Funded Research.” *New Directions for Evaluation* 2008 (118): 47–60. doi:10.1002/ev.260.
-
-* Grant, J., P. B. Brutscheer, S. Kirk, L. Butler, and S. Wooding. 2010. "Documented Briefing: Capturing Research Impacts–a Review of International Practice". *DB-578-HEFCE*. RAND Documented Briefings, RAND Corporation. http://www.rand.org/pubs/documented_briefings/DB578.html. Retrieved November 4, 2014.
-
-* HEFCE. 2009. *Research Excellence Framework - Second Consultation on the Assessment and Funding of Research*. HEFCE 2009/38. HEFCE. http://webarchive.nationalarchives.gov.uk/20100202100434/http://www.hefce.ac.uk/pubs/hefce/2009/09_38/09_38.pdf. Retrieved April 3, 2015.
-
-* HEFCE. 2015. “Our Role.” Higher Education Funding Council for England. Accessed April 3. https://www.hefce.ac.uk/about/role/.
-
-* Technopolis Ltd. 2010. *REF Research Impact Pilot Exercise Lessons-Learned Project: Feedback on Pilot Submissions*. Higher Education Funding Council for England. http://www.ref.ac.uk/pubs/refimpactpilotlessons-learnedfeedbackonpilotsubmissions/.
 
 ### Evaluation of ‘research quality’ in the examples
 
@@ -379,20 +274,6 @@ Ostensibly the working group recommended against aggregating quantitative measur
 So, while bibliometrics were to play a role in the RFQ, and do play a role in REF, they are used within a qualitative framework since the evaluation of research is a complex and muli-faceted problem.  As Adler *et al.* write in their criticism of the application of citation statistics:
 
 >“We do not dismiss citation statistics as a tool for assessing the quality of research—citation data and statistics can provide some valuable information. We recognize that assessment must be practical, and for this reason easily derived citation statistics almost surely will be part of the process. But citation data provide only a limited and incomplete view of research quality, and the statistics derived from citation data are sometimes poorly understood and misused. Research is too important to measure its value with only a single coarse tool.” (Adler *et al.* 2009)
-
-
-----
-
-## References
-
-* Adler, Robert, John Ewing, and Peter Taylor. 2009. “Citation Statistics.” *Statistical Science* 24 (1): 1–14. doi:10.1214/09-STS285.
-* Butler, L. 2008. “Using a Balanced Approach to Bibliometrics: Quantitative Performance Measures in the Australian Research Quality Framework.” *Ethics in Science and Environmental Politics* 8 (June): 83–92. doi:10.3354/esep00077.
-* Grant, J., P. B. Brutscheer, S. Kirk, L. Butler, and S. Wooding. 2010. “Documented Briefing: Capturing Research Impacts–a Review of International Practice.” *DB-578-HEFCE*. RAND Documented Briefings. RAND Corporation. http://www.rand.org/pubs/documented_briefings/DB578.html.
-* HEFCE. 2009. “Report on the Pilot Exercise to Develop Bibliometric Indicators for the Research Excellence Framework.” *HEFCE-REF 2009/39*. Higher Education Funding Council for England (HEFCE). http://webarchive.nationalarchives.gov.uk/20100202100434/http://www.hefce.ac.uk/pubs/year/2009/200939/.
-* van Raan, A., H. Moed, and T. van Leeuwen. 2007. “Scoping Study on the Use of Bibliometric Analysis to Measure the Quality of Research in UK Higher Education Institutions.” *HEFCE 2007/34*. http://webarchive.nationalarchives.gov.uk/20120118171947/http://www.hefce.ac.uk/pubs/rdreports/2007/rd18_07/.
-
-
-
 
 ### Evaluation of ‘practical impact’ in the examples
 
@@ -426,19 +307,7 @@ However, Donovan writes that the definition of impact in the final version of th
 
 For example, one of the preliminary recommendations defined impact in terms of “direct practical utility” and within the document the term ‘impact’ was at times used interchangeably with the word ‘usefulness’. It advocates measuring impact with quantitative metrics, such a business investments and returns, numbers of patents issued, etc.  In contrast, the other preliminary recommendation promotes combining quantitative indicators with qualitative evidence in order to include the intangible benefits of research in the evaluation process.  The final version of the RFQ included a “case study” methodology for evaluating impact, which would allow for the more holistic method of evaluation, but also included a scale for the scoring of impact that used magnitudes of impact as a criteria, which clearly favors quantitative evidence (Donovan 2008).
 
-
-----
-
-References
-
-* Donovan, Claire. 2008. “The Australian Research Quality Framework: A Live Experiment in Capturing the Social, Economic, Environmental, and Cultural Returns of Publicly Funded Research.” *New Directions for Evaluation* 2008 (118): 47–60. doi:10.1002/ev.260.
-
-* HEFCE. 2009. *Research Excellence Framework - Second Consultation on the Assessment and Funding of Research*. HEFCE 2009/38. HEFCE. http://webarchive.nationalarchives.gov.uk/20100202100434/http://www.hefce.ac.uk/pubs/hefce/2009/09_38/09_38.pdf. Retrieved April 3, 2015.
-
-* Khazragui, Hanan, and John Hudson. 2015. “Measuring the Benefits of University Research: Impact and the REF in the UK.” *Research Evaluation* 24 (1): 51–62. doi:10.1093/reseval/rvu028.
-
-* Technopolis Ltd. 2010. *REF Research Impact Pilot Exercise Lessons-Learned Project: Feedback on Pilot Submissions*. Higher Education Funding Council for England. http://www.ref.ac.uk/pubs/refimpactpilotlessons-learnedfeedbackonpilotsubmissions/.
-
+### Future research
 
 #### Can altmetrics provide practical impact data?
 
@@ -460,14 +329,6 @@ But, then again, this lack of meta-data suitable for classifying users is only a
 
 If institutions step away from using metrics and move toward using indicators in the evaluation of research quality and impact, the field of altmetrics would seem to be ripe with potential indicators to fit the bill.
 
-
-----
-
-* Adie, Euan, and William Roe. 2013. “Altmetric: Enriching Scholarly Content with Article-Level Discussion and Metrics.” *Learned Publishing* 26 (1): 11–17. doi:10.1087/20130103.
-
-* Mohammadi, Ehsan, Mike Thelwall, Stefanie Haustein, and Vincent Larivière. 2014. “Who Reads Research Articles? An Altmetrics Analysis of Mendeley User Categories.” *Journal of the Association for Information Science and Technology*, 1–27.
-
-* Zahedi, Zohreh, Rodrigo Costas, and Paul Wouters. 2014. “How Well Developed Are Altmetrics? A Cross-Disciplinary Analysis of the Presence of ‘alternative Metrics’ in Scientific Publications.” *Scientometrics* 101 (2): 1491–1513. doi:10.1007/s11192-014-1264-0.
 #### How can researchers be “ahead of the curve” in evaluations of research impact?
 
 Even when not officially required, demonstrations of the practical impact of research can be a useful addition in any context when there is an evaluation of the value of research.  Documenting or demonstrating impact can also be internally helpful, as “in doing so a great majority will derive insight and local benefits” (Technopolis 2010)
@@ -478,13 +339,8 @@ If the report is correct in that there is a “growing interest in the notion of
 
 Perhaps the ongoing-experiences of the HEFCE and the institutions that it covers, along with the experiences of programs such as ‘Evaluating Research in Context’ (ERiC) in the Netherlands (Spaapen *et al.* 2007), should be used as a basis to create a set of “best practices” for use by researchers not yet covered by any practical-impact requirements to do self-assessments, and potentially by funding institutions as a starting point for including practical impact in their evaluation of research.
 
-
 ----
 
-### References
-
-* Technopolis Ltd. 2010. *REF Research Impact Pilot Exercise Lessons-Learned Project: Feedback on Pilot Submissions.* Higher Education Funding Council for England. http://www.ref.ac.uk/pubs/refimpactpilotlessons-learnedfeedbackonpilotsubmissions/.
-* Spaapen, J.B, H Dijstelbloem, and F.J.M Wamelink. 2007. *Evaluating Research in Context: A Method for Comprehensive Assessment.* The Hague: Consultative Committee of Sector Councils for Research and Development (COS).
 ## References
 
 * Adie, Euan, and William Roe. 2013. “Altmetric: Enriching Scholarly Content with Article-Level Discussion and Metrics.” *Learned Publishing* 26 (1): 11–17. doi:10.1087/20130103.
