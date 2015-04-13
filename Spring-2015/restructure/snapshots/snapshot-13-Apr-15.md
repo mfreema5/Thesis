@@ -4,7 +4,7 @@
 
 The value of the research done by individuals is used by institutions as part of the process of allocating resources to that individual; those resources being salary, job title, tenure, use of facilities, etc.  Similarly, the aggregate value of all the research coming from a research institution is sometimes used by funding institutions as part of the process of allocating resources.
 
-Traditionally, the process of evaluating the value of research has largely depended on bibliometric methods, such as citation counts or journal impact factors.  However, there are many criticisms of the accuracy, or even the appropriateness, of these various bibliometrics, when used for valuing research (cf. MacRoberts and MacRoberts 1989, van Raan *et al.* 2007, Butler 2008, Adler *et al.* 2009, van Eck *et al.* 2013).  Perhaps more importantly, bibliometric methods do not capture the wider value of research&mdash;the “full range of economic, social, public policy, welfare, cultural and quality-of-life benefits” (Grant *et al.* 2009) that can result from research (van Raan *et al.* 2007).
+Traditionally, the process of evaluating the value of research has largely depended on bibliometric methods, such as citation counts or journal impact factors.  However, there are many criticisms of the accuracy, or even the appropriateness, of these various bibliometrics, when used for valuing research (cf. MacRoberts and MacRoberts 1989; Kostoff 1998; van Raan *et al.* 2007; Butler 2008; Adler *et al.* 2009; van Eck *et al.* 2013).  Perhaps more importantly, bibliometric methods do not capture the wider value of research&mdash;the “full range of economic, social, public policy, welfare, cultural and quality-of-life benefits” (Grant *et al.* 2009) that can result from research (van Raan *et al.* 2007).  A common theme in the literature is that “the future of research assessment endeavors lies in the intelligent combination of metrics (including bibliometric indicators) and peer review” (Moed 2009).
 
 In the following, first I detail some of the most popular bibliometric methods, how they work, and the criticisms of their use in evaluating the “research impact”&mdash;as opposed to the “socio-economic impact” or “practical impact”&mdash;of an individual researcher, research group or research institution.
 
@@ -217,7 +217,11 @@ If altmetrics aren't bibliometrics, what are they?  They are “informetrics” 
 
 For a more detailed discussion of the differences between the three areas, see “The Literature of Bibliometrics, Scientometrics, and Informetrics” by Hood and Wilson (2001).
 
-## Examples of the move to include practical impact in evaluating research
+## Indicators of practical impact &ndash; examples from government initiatives and programs
+
+There is a parallel shift in the nature of source materials when shifting topics from considering research quality&mdash;the impact of research on research&mdash;to considering practical impact&mdash;the impact of research on society at large.  The outcomes of interest are no longer restricted within the world of research, and so neither are the source materials.
+
+Similarly, the examples used to discuss the evaluation of the practical impact of research are practical examples.  They come from programs initiated and/or implemented by governments or government agencies in order to make funding for research institutions responsive, to some extent, to the practical impact of the research being produced by those institutions.
 
 ### Background on examples from government initiatives and programs 
 
@@ -235,7 +239,7 @@ However, the Research Quality Framework has influenced the development of simila
 
 The Higher Education Council for England “funds and regulates universities and colleges in England” (HEFCE 2015).
 
-The HEFCE will be using the Research Excellence Framework (REF) “for the assessment and funding of research in UK higher education institutions”. The REF focuses on three elements (HEFCE 2009):
+The HEFCE will be using the Research Excellence Framework (REF) “for the assessment and funding of research in UK higher education institutions”. The REF focuses on three elements (HEFCE 2009a):
 
 1. **Research quality** &ndash; research “will be assessed against criteria of ‘rigour, originality and significance’. By ‘significance’, we mean the extent to which research outputs display the capacity to make a difference either through intellectual influence within the academic sphere, or through actual or potential use beyond the academic sphere, or both.”
 1. **Research impact** &ndash; “…demonstrable economic and social impacts that have been achieved through activity within the [research institution] that builds on excellent research.”
@@ -249,7 +253,7 @@ A pilot exercise of the REF was conducted in 2009.
 
 #### REF
 
-Much like with ‘practical impact’ (discussed below), the HEFCE ran a pilot exercise of the evaluation of research quality at high-education institutions.  Specifically aiming to validate the use of bibliometric methods, the key finding of the exercise was: “Bibliometrics are not sufficiently robust at this stage to be used formulaically or to replace expert review in the REF” (HEFCE 2009). But this was not a complete rejection of bibliometrics, as “there is considerable scope for citation information to be used to inform expert review” (HEFCE 2009). 
+Much like with ‘practical impact’ (discussed below), the HEFCE ran a pilot exercise of the evaluation of research quality at high-education institutions.  Specifically aiming to validate the use of bibliometric methods, the key finding of the exercise was: “Bibliometrics are not sufficiently robust at this stage to be used formulaically or to replace expert review in the REF” (HEFCE 2009b). But this was not a complete rejection of bibliometrics, as “there is considerable scope for citation information to be used to inform expert review” (HEFCE 2009b). 
 
 Thus, the REF uses expert panels, comprising both experts in the discipline as well as end-users of research, to evaluate the research quality of an institution, with bibliometric methods being include in the evaluation process. (Grant *et al.* 2010)  
 
@@ -279,7 +283,7 @@ So, while bibliometrics were to play a role in the RFQ, and do play a role in RE
 
 #### REF
 
-The documentation published by HEFCE for the REF explained that practical impacts would include “a wide definition of impacts, including economic, social, public policy, cultural and quality of life” and that any reference to “‘impact’ or ‘social and economic impact’” implicitly included the entire wide range of impacts. (HEFCE 2009)
+The documentation published by HEFCE for the REF explained that practical impacts would include “a wide definition of impacts, including economic, social, public policy, cultural and quality of life” and that any reference to “‘impact’ or ‘social and economic impact’” implicitly included the entire wide range of impacts. (HEFCE 2009a)
 
 This did not prevent confusion about what was meant, unfortunately.  In a “lessons learned” report about the HEFCE-REF pilot exercise, one of the items given as a challenge was explaining to academic groups “that socio-economic impact was a much broader concept than economic impact” (Technopolis 2010). 
 
@@ -289,9 +293,9 @@ The objection of Khazragui and Hudson (2015) to a lack of quantitative methods, 
 
 The authors are presumably are referring to the “narrative evidence” that was used for the REF, since “there are limitations in the extent to which the impacts of research can be ‘measured’ through quantifiable indicators.” The REF used a qualitative process.  
 
-  “Rather than seek to **measure** the impacts in a quantifiable way, impact will be **assessed** in the REF. Expert panels will review narrative evidence supported by appropriate indicators, and produce graded impact sub-profiles for each submission; they will not seek to quantify the impacts.” (HEFCE 2009)
+  “Rather than seek to **measure** the impacts in a quantifiable way, impact will be **assessed** in the REF. Expert panels will review narrative evidence supported by appropriate indicators, and produce graded impact sub-profiles for each submission; they will not seek to quantify the impacts.” (HEFCE 2009a)
 
-Quantitive data were included in the process, however.  The HEFCE directed that the case studies that were submitted by research institutions should “include a range of **indicators of impact** as supporting evidence”.  Those indicators were expected to be quantified values, such as the research income generated from other funding sources, and accountings of collaborations with companies in the private sector (HEFCE 2009).
+Quantitive data were included in the process, however.  The HEFCE directed that the case studies that were submitted by research institutions should “include a range of **indicators of impact** as supporting evidence”.  Those indicators were expected to be quantified values, such as the research income generated from other funding sources, and accountings of collaborations with companies in the private sector (HEFCE 2009a).
 
 #### RFQ
 
@@ -383,9 +387,11 @@ Thus, citation-based bibliometrics have little utility for evaluating practical 
 * Hood, William W., and Concepción S. Wilson. 2001. “The Literature of Bibliometrics, Scientometrics, and Informetrics.” *Scientometrics* 52 (2): 291–314. doi:10.1023/A:1017919924342.
 * Ingwersen, Peter, and Finn Hjortgaard Christensen. 1997. “Data Set Isolation for Bibliometric Online Analyses of Research Publications: Fundamental Methodological Issues.” *Journal of the American Society for Information Science* 48 (3): 205–17. doi:10.1002/(SICI)1097-4571(199703)48:3<205::AID-ASI3>3.0.CO;2-0.
 * Khazragui, Hanan, and John Hudson. 2015. “Measuring the Benefits of University Research: Impact and the REF in the UK.” *Research Evaluation* 24 (1): 51–62. doi:10.1093/reseval/rvu028.
+* Kostoff, R. N. 1998. “The Use and Misuse of Citation Analysis in Research Evaluation.” *Scientometrics* 43 (1): 27–43. doi:10.1007/BF02458392.
 * Lehmann, Sune, Andrew D. Jackson, and Benny E. Lautrup. 2006. “Measures for Measures.” *Nature* 444 (7122): 1003–4. doi:10.1038/4441003a.
 * MacRoberts, Michael H., and Barbara R. MacRoberts. 1989. “Problems of Citation Analysis: A Critical Review.” *Journal of the American Society for Information Science* 40 (5): 342–49. doi:10.1002/(SICI)1097-4571(198909)40:5<342::AID-ASI7>3.0.CO;2-U.
 * Martyn, John, and Alan Gilchrist. 1968. *An Evaluation of British Scientific Journals*. London: Aslib.
+* Moed, Henk F. 2009. “New Developments in the Use of Citation Analysis in Research Evaluation.” *Archivum Immunologiae et Therapiae Experimentalis* 57 (1): 13–18. doi:10.1007/s00005-009-0001-5.
 * Moed, Henk F. 2010. “Measuring Contextual Citation Impact of Scientific Journals.” *Journal of Informetrics* 4 (3): 265–77. doi:10.1016/j.joi.2010.01.002.
 * Moed, Henk F. 2011. “The Source Normalized Impact per Paper Is a Valid and Sophisticated Indicator of Journal Citation Impact.” *Journal of the American Society for Information Science and Technology* 62 (1): 211–13. doi:10.1002/asi.21424.
 * Mohammadi, Ehsan, Mike Thelwall, Stefanie Haustein, and Vincent Larivière. 2014. “Who Reads Research Articles? An Altmetrics Analysis of Mendeley User Categories.” *Journal of the Association for Information Science and Technology*, 1–27.
