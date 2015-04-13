@@ -1,6 +1,8 @@
-# The move to include practical impact in evaluating research
+## Indicators of practical impact &ndash; examples from government initiatives and programs
 
-## Examples from government initiatives and programs
+There is a parallel shift in the nature of source materials when shifting topics from considering research quality&mdash;the impact of research on research&mdash;to considering practical impact&mdash;the impact of research on society at large.  The outcomes of interest are no longer restricted within the world of research, and so neither are the source materials.
+
+Similarly, the examples used to discuss the evaluation of the practical impact of research are practical examples.  They come from programs initiated and/or implemented by governments or government agencies in order to make funding for research institutions responsive, to some extent, to the practical impact of the research being produced by those institutions.
 
 ### Background on the examples  
 
@@ -18,7 +20,7 @@ However, the Research Quality Framework has influenced the development of simila
 
 The Higher Education Council for England “funds and regulates universities and colleges in England” (HEFCE 2015).
 
-The HEFCE will be using the Research Excellence Framework (REF) “for the assessment and funding of research in UK higher education institutions”. The REF focuses on three elements (HEFCE 2009):
+The HEFCE will be using the Research Excellence Framework (REF) “for the assessment and funding of research in UK higher education institutions”. The REF focuses on three elements (HEFCE 2009a):
 
 1. **Research quality** &ndash; research “will be assessed against criteria of ‘rigour, originality and significance’. By ‘significance’, we mean the extent to which research outputs display the capacity to make a difference either through intellectual influence within the academic sphere, or through actual or potential use beyond the academic sphere, or both.”
 1. **Research impact** &ndash; “…demonstrable economic and social impacts that have been achieved through activity within the [research institution] that builds on excellent research.”

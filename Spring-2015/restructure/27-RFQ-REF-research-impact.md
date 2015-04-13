@@ -12,9 +12,9 @@ The objection of Khazragui and Hudson (2015) to a lack of quantitative methods, 
 
 The authors are presumably are referring to the “narrative evidence” that was used for the REF, since “there are limitations in the extent to which the impacts of research can be ‘measured’ through quantifiable indicators.” The REF used a qualitative process.  
 
-  “Rather than seek to **measure** the impacts in a quantifiable way, impact will be **assessed** in the REF. Expert panels will review narrative evidence supported by appropriate indicators, and produce graded impact sub-profiles for each submission; they will not seek to quantify the impacts.” (HEFCE 2009)
+  “Rather than seek to **measure** the impacts in a quantifiable way, impact will be **assessed** in the REF. Expert panels will review narrative evidence supported by appropriate indicators, and produce graded impact sub-profiles for each submission; they will not seek to quantify the impacts.” (HEFCE 2009a)
 
-Quantitive data were included in the process, however.  The HEFCE directed that the case studies that were submitted by research institutions should “include a range of **indicators of impact** as supporting evidence”.  Those indicators were expected to be quantified values, such as the research income generated from other funding sources, and accountings of collaborations with companies in the private sector (HEFCE 2009).
+Quantitive data were included in the process, however.  The HEFCE directed that the case studies that were submitted by research institutions should “include a range of **indicators of impact** as supporting evidence”.  Those indicators were expected to be quantified values, such as the research income generated from other funding sources, and accountings of collaborations with companies in the private sector (HEFCE 2009a).
 
 #### RFQ
 
@@ -37,7 +37,7 @@ References
 
 * Donovan, Claire. 2008. “The Australian Research Quality Framework: A Live Experiment in Capturing the Social, Economic, Environmental, and Cultural Returns of Publicly Funded Research.” *New Directions for Evaluation* 2008 (118): 47–60. doi:10.1002/ev.260.
 
-* HEFCE. 2009. *Research Excellence Framework - Second Consultation on the Assessment and Funding of Research*. HEFCE 2009/38. HEFCE. http://webarchive.nationalarchives.gov.uk/20100202100434/http://www.hefce.ac.uk/pubs/hefce/2009/09_38/09_38.pdf. Retrieved April 3, 2015.
+* HEFCE. 2009a. *Research Excellence Framework - Second Consultation on the Assessment and Funding of Research*. HEFCE 2009/38. HEFCE. http://webarchive.nationalarchives.gov.uk/20100202100434/http://www.hefce.ac.uk/pubs/hefce/2009/09_38/09_38.pdf. Retrieved April 3, 2015.
 
 * Khazragui, Hanan, and John Hudson. 2015. “Measuring the Benefits of University Research: Impact and the REF in the UK.” *Research Evaluation* 24 (1): 51–62. doi:10.1093/reseval/rvu028.
 

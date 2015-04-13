@@ -2,7 +2,7 @@
 
 #### REF
 
-Much like with ‘practical impact’ (discussed below), the HEFCE ran a pilot exercise of the evaluation of research quality at high-education institutions.  Specifically aiming to validate the use of bibliometric methods, the key finding of the exercise was: “Bibliometrics are not sufficiently robust at this stage to be used formulaically or to replace expert review in the REF” (HEFCE 2009). But this was not a complete rejection of bibliometrics, as “there is considerable scope for citation information to be used to inform expert review” (HEFCE 2009). 
+Much like with ‘practical impact’ (discussed below), the HEFCE ran a pilot exercise of the evaluation of research quality at high-education institutions.  Specifically aiming to validate the use of bibliometric methods, the key finding of the exercise was: “Bibliometrics are not sufficiently robust at this stage to be used formulaically or to replace expert review in the REF” (HEFCE 2009b). But this was not a complete rejection of bibliometrics, as “there is considerable scope for citation information to be used to inform expert review” (HEFCE 2009b). 
 
 Thus, the REF uses expert panels, comprising both experts in the discipline as well as end-users of research, to evaluate the research quality of an institution, with bibliometric methods being include in the evaluation process. (Grant *et al.* 2010)  
 
@@ -35,8 +35,8 @@ So, while bibliometrics were to play a role in the RFQ, and do play a role in RE
 
 * Adler, Robert, John Ewing, and Peter Taylor. 2009. “Citation Statistics.” *Statistical Science* 24 (1): 1–14. doi:10.1214/09-STS285.
 * Butler, L. 2008. “Using a Balanced Approach to Bibliometrics: Quantitative Performance Measures in the Australian Research Quality Framework.” *Ethics in Science and Environmental Politics* 8 (June): 83–92. doi:10.3354/esep00077.
-* Grant, J., P. B. Brutscheer, S. Kirk, L. Butler, and S. Wooding. 2010. “Documented Briefing: Capturing Research Impacts–a Review of International Practice.” *DB-578-HEFCE*. RAND Documented Briefings. RAND Corporation. http://www.rand.org/pubs/documented_briefings/DB578.html.
-* HEFCE. 2009. “Report on the Pilot Exercise to Develop Bibliometric Indicators for the Research Excellence Framework.” *HEFCE-REF 2009/39*. Higher Education Funding Council for England (HEFCE). http://webarchive.nationalarchives.gov.uk/20100202100434/http://www.hefce.ac.uk/pubs/year/2009/200939/.
+* Grant, J., P. B. Brutscheer, S. Kirk, L. Butler, and S. Wooding. 2010. “Documented Briefing: Capturing Research Impacts–a Review of International Practice.” *DB-578-HEFCE*. RAND Documented Briefings. RAND Corporation. http://www.rand.org/pubs/documented_briefings/DB578.html._.
+* HEFCE. 2009b. “Report on the Pilot Exercise to Develop Bibliometric Indicators for the Research Excellence Framework.” *HEFCE-REF 2009/39*. Higher Education Funding Council for England (HEFCE). http://webarchive.nationalarchives.gov.uk/20100202100434/http://www.hefce.ac.uk/pubs/year/2009/200939/.
 * van Raan, A., H. Moed, and T. van Leeuwen. 2007. “Scoping Study on the Use of Bibliometric Analysis to Measure the Quality of Research in UK Higher Education Institutions.” *HEFCE 2007/34*. http://webarchive.nationalarchives.gov.uk/20120118171947/http://www.hefce.ac.uk/pubs/rdreports/2007/rd18_07/.
 
 
