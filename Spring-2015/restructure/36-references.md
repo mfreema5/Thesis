@@ -37,7 +37,7 @@
 * Spaapen, J.B, H Dijstelbloem, and F.J.M Wamelink. 2007. *Evaluating Research in Context: A Method for Comprehensive Assessment.* The Hague: Consultative Committee of Sector Councils for Research and Development (COS).
 * Tague-Sutcliffe, Jean. 1992. “An Introduction to Informetrics.” *Information Processing & Management* 28 (1): 1–3. doi:10.1016/0306-4573(92)90087-G.
 * Technopolis Ltd. 2010. *REF Research Impact Pilot Exercise Lessons-Learned Project: Feedback on Pilot Submissions.* Higher Education Funding Council for England. http://www.ref.ac.uk/pubs/refimpactpilotlessons-learnedfeedbackonpilotsubmissions/.
-* West, Jevin D. 2015. “Eigenfactor.” *Eigenfactor*. Accessed April 9. http://www.eigenfactor.org/methods.php.
-* Zahedi, Zohreh, Rodrigo Costas, and Paul Wouters. 2014. “How Well Developed Are Altmetrics? A Cross-Disciplinary Analysis of the Presence of ‘alternative Metrics’ in Scientific Publications.” *Scientometrics* 101 (2): 1491–1513. doi:10.1007/s11192-014-1264-0.
 * van Eck, Nees Jan, Ludo Waltman, Anthony F. J. van Raan, Robert J. M. Klautz, and Wilco C. Peul. 2013. “Citation Analysis May Severely Underestimate the Impact of Clinical Research as Compared to Basic Research.” *PloS One* 8 (4): e62395. doi:10.1371/journal.pone.0062395.
 * van Raan, A., H. Moed, and T. van Leeuwen. 2007. *Scoping Study on the Use of Bibliometric Analysis to Measure the Quality of Research in UK Higher Education Institutions.* HEFCE 2007/34. http://webarchive.nationalarchives.gov.uk/20120118171947/http://www.hefce.ac.uk/pubs/rdreports/2007/rd18_07/. Retrieved February 8, 2015.
+* West, Jevin D. 2015. “Eigenfactor.” *Eigenfactor*. Accessed April 9. http://www.eigenfactor.org/methods.php.
+* Zahedi, Zohreh, Rodrigo Costas, and Paul Wouters. 2014. “How Well Developed Are Altmetrics? A Cross-Disciplinary Analysis of the Presence of ‘alternative Metrics’ in Scientific Publications.” *Scientometrics* 101 (2): 1491–1513. doi:10.1007/s11192-014-1264-0.
