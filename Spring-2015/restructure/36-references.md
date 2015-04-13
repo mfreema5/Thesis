@@ -25,9 +25,11 @@
 * Hood, William W., and Concepción S. Wilson. 2001. “The Literature of Bibliometrics, Scientometrics, and Informetrics.” *Scientometrics* 52 (2): 291–314. doi:10.1023/A:1017919924342.
 * Ingwersen, Peter, and Finn Hjortgaard Christensen. 1997. “Data Set Isolation for Bibliometric Online Analyses of Research Publications: Fundamental Methodological Issues.” *Journal of the American Society for Information Science* 48 (3): 205–17. doi:10.1002/(SICI)1097-4571(199703)48:3<205::AID-ASI3>3.0.CO;2-0.
 * Khazragui, Hanan, and John Hudson. 2015. “Measuring the Benefits of University Research: Impact and the REF in the UK.” *Research Evaluation* 24 (1): 51–62. doi:10.1093/reseval/rvu028.
+* Kostoff, R. N. 1998. “The Use and Misuse of Citation Analysis in Research Evaluation.” *Scientometrics* 43 (1): 27–43. doi:10.1007/BF02458392.
 * Lehmann, Sune, Andrew D. Jackson, and Benny E. Lautrup. 2006. “Measures for Measures.” *Nature* 444 (7122): 1003–4. doi:10.1038/4441003a.
 * MacRoberts, Michael H., and Barbara R. MacRoberts. 1989. “Problems of Citation Analysis: A Critical Review.” *Journal of the American Society for Information Science* 40 (5): 342–49. doi:10.1002/(SICI)1097-4571(198909)40:5<342::AID-ASI7>3.0.CO;2-U.
 * Martyn, John, and Alan Gilchrist. 1968. *An Evaluation of British Scientific Journals*. London: Aslib.
+* Moed, Henk F. 2009. “New Developments in the Use of Citation Analysis in Research Evaluation.” *Archivum Immunologiae et Therapiae Experimentalis* 57 (1): 13–18. doi:10.1007/s00005-009-0001-5.
 * Moed, Henk F. 2010. “Measuring Contextual Citation Impact of Scientific Journals.” *Journal of Informetrics* 4 (3): 265–77. doi:10.1016/j.joi.2010.01.002.
 * Moed, Henk F. 2011. “The Source Normalized Impact per Paper Is a Valid and Sophisticated Indicator of Journal Citation Impact.” *Journal of the American Society for Information Science and Technology* 62 (1): 211–13. doi:10.1002/asi.21424.
 * Mohammadi, Ehsan, Mike Thelwall, Stefanie Haustein, and Vincent Larivière. 2014. “Who Reads Research Articles? An Altmetrics Analysis of Mendeley User Categories.” *Journal of the Association for Information Science and Technology*, 1–27.
