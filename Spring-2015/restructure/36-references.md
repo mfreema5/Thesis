@@ -14,10 +14,10 @@
 * Elsevier. 2015. “Journal Metrics: Research Analytics Redefined.” *Journal Metrics: Research Analytics Redefined*. Accessed April 7. http://www.journalmetrics.com/.
 * Garfield, Eugene. 1979. *Citation Indexing - Its Theory and Application in Science, Technology, and Humanities*. New York: Wiley.
 * González-Pereira, Borja, Vicente P. Guerrero-Bote, and Félix Moya-Anegón. 2010. “A New Approach to the Metric of Journals’ Scientific Prestige: The SJR Indicator.” *Journal of Informetrics* 4 (3): 379–91. doi:10.1016/j.joi.2010.03.002.
-* Grant, J., P. B. Brutscheer, S. Kirk, L. Butler, and S. Wooding. 2010. "Documented Briefing: Capturing Research Impacts–a Review of International Practice". *DB-578-HEFCE*. RAND Documented Briefings, RAND Corporation. http://www.rand.org/pubs/documented_briefings/DB578.html. Retrieved November 4, 2014. ._.
+* Grant, J., P. B. Brutscheer, S. Kirk, L. Butler, and S. Wooding. 2010. "Documented Briefing: Capturing Research Impacts–a Review of International Practice". *DB-578-HEFCE*. RAND Documented Briefings, RAND Corporation. http://www.rand.org/pubs/documented_briefings/DB578.html.
 * Gregory, Jennie. 1937. “An Evaluation of Medical Periodicals.” *Bulletin of the Medical Library Association* 25 (3): 172–88.
 * Gross, P. L. K., and E. M. Gross. 1927. “College Libraries and Chemical Education.” *Science* 66 (1713): 385–89.
-* HEFCE. 2009a. *Research Excellence Framework - Second Consultation on the Assessment and Funding of Research.* HEFCE 2009/38. HEFCE. http://webarchive.nationalarchives.gov.uk/20100202100434/http://www.hefce.ac.uk/pubs/hefce/2009/09_38/09_38.pdf. Retrieved April 3, 2015.
+* HEFCE. 2009a. *Research Excellence Framework - Second Consultation on the Assessment and Funding of Research.* HEFCE 2009/38. HEFCE. http://webarchive.nationalarchives.gov.uk/20100202100434/http://www.hefce.ac.uk/pubs/hefce/2009/09_38/09_38.pdf.
 * HEFCE. 2009b. *Report on the Pilot Exercise to Develop Bibliometric Indicators for the Research Excellence Framework.* HEFCE-REF 2009/39. Higher Education Funding Council for England (HEFCE). http://webarchive.nationalarchives.gov.uk/20100202100434/http://www.hefce.ac.uk/pubs/year/2009/200939/.
 * HEFCE. 2015. “Our Role.” Higher Education Funding Council for England. Accessed April 3. https://www.hefce.ac.uk/about/role/.
 * Hackh, Ingo. 1936. “The Periodicals Useful in the Dental Library.” *Bulletin of the Medical Library Association* 25 (1-2): 109–12.
@@ -38,6 +38,6 @@
 * Tague-Sutcliffe, Jean. 1992. “An Introduction to Informetrics.” *Information Processing & Management* 28 (1): 1–3. doi:10.1016/0306-4573(92)90087-G.
 * Technopolis Ltd. 2010. *REF Research Impact Pilot Exercise Lessons-Learned Project: Feedback on Pilot Submissions.* Higher Education Funding Council for England. http://www.ref.ac.uk/pubs/refimpactpilotlessons-learnedfeedbackonpilotsubmissions/.
 * van Eck, Nees Jan, Ludo Waltman, Anthony F. J. van Raan, Robert J. M. Klautz, and Wilco C. Peul. 2013. “Citation Analysis May Severely Underestimate the Impact of Clinical Research as Compared to Basic Research.” *PloS One* 8 (4): e62395. doi:10.1371/journal.pone.0062395.
-* van Raan, A., H. Moed, and T. van Leeuwen. 2007. *Scoping Study on the Use of Bibliometric Analysis to Measure the Quality of Research in UK Higher Education Institutions.* HEFCE 2007/34. http://webarchive.nationalarchives.gov.uk/20120118171947/http://www.hefce.ac.uk/pubs/rdreports/2007/rd18_07/. Retrieved February 8, 2015.
+* van Raan, A., H. Moed, and T. van Leeuwen. 2007. *Scoping Study on the Use of Bibliometric Analysis to Measure the Quality of Research in UK Higher Education Institutions.* HEFCE 2007/34. http://webarchive.nationalarchives.gov.uk/20120118171947/http://www.hefce.ac.uk/pubs/rdreports/2007/rd18_07/.
 * West, Jevin D. 2015. “Eigenfactor.” *Eigenfactor*. Accessed April 9. http://www.eigenfactor.org/methods.php.
 * Zahedi, Zohreh, Rodrigo Costas, and Paul Wouters. 2014. “How Well Developed Are Altmetrics? A Cross-Disciplinary Analysis of the Presence of ‘alternative Metrics’ in Scientific Publications.” *Scientometrics* 101 (2): 1491–1513. doi:10.1007/s11192-014-1264-0.
