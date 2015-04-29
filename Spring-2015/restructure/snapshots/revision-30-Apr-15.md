@@ -1,6 +1,6 @@
 # Finding Research Value &ndash; the metrics and methods for evaluating research
 
-## Introduction &ndash; How can we evaluate the value of research?
+# Introduction &ndash; How can we evaluate the value of research?
 
 The value of the research done by individuals is used by institutions as part of the process of allocating resources to that individual; those resources being salary, job title, tenure, use of facilities, etc.  Similarly, the aggregate value of all the research coming from a research institution is sometimes used by funding institutions as part of the process of allocating resources.
 
@@ -10,38 +10,39 @@ In the following, first I detail some of the most popular bibliometric methods, 
 
 I then describe some examples of how organizations and institutions have tried to, or have at least recommended as a way to, combine the evaluation of research impact and practical impact in order to arrive at an understanding of the “complete impact of research”.  It should be noted that the primary intent for some of those evaluation frameworks (e.g., the Research Quality Framework in Australia) was to provide input on the allocation of funds to research institutions (Donovan 2008).  If the influence of practical impact on the allocation of resources to research institutions increases, presumably its influence on the allocation of resources to individual researchers will also increase.
 
-## Bibliometrics
+# Bibliometrics
 
-The bibliometric methods used by other fields as a measure of&mdash;or at least as a surrogate for the measure of&mdash;the impact of research can be divided into two general classes: journal-level metrics, and article-level metrics.
+The bibliometric methods used as a measure of&mdash;or at least as a surrogate for the measure of&mdash;the impact of research can be divided into two general classes: journal-level metrics, and article-level metrics.
 
-Journal-level metrics rank the journals in field of research.  It is generally assumed that any article published in a journal with a high “impact-factor” is of high quality, and therefore researchers with publications in high impact-factor journals are doing high quality research. 
+Journal-level metrics rank the journals in a field of research.  It is generally assumed that any article published in a journal with a high “impact-factor” is of high quality, and therefore researchers with publications in high impact-factor journals are doing high quality research. 
 
-Article-level metrics are more directly, and aggregate the data about all of an individual's published articles into a single measure, in order to give an indication of the quality of that researcher's work.
+Article-level metrics are more direct, and aggregate the data about all of an individual's published articles into a single measure, in order to give an indication of the quality of that researcher's work.
 
-### Journal-level metrics
+## Journal-level metrics
 
-Journal-level metrics are the earliest metrics to become widely used, and continue to be influential.  They measure the impact of journals in a research field using citation counts between journals; the citation cans can be used either directly or indirectly.  Journal-level metrics were originally developed to aid librarians in selecting what journals to which to subscribe and maintain in their collections.  
+Journal-level metrics are the earliest metrics to become widely used, and continue to be influential.  They measure the impact of journals in a research field using citation counts between journals.  Journal-level metrics were originally developed to aid librarians in selecting which journals to which to subscribe and to maintain in their collections.  
 
-But journal-level metrics have become a way to indicate the quality of a researchers publications.  Presumably, the logic goes, a journal must publish the best articles in a field in order to have a high impact factor, so therefore any article published in a journal with a high impact factor must be of the best articles.
+But journal-level metrics have become used as a way to indicate the quality of a researchers publications.  Presumably, the logic goes, a journal must publish the best articles in a field in order to have a high impact factor, so therefore any article published in a journal with a high impact factor must be among the best articles.
 
-#### Journal Impact Factor
+### Journal Impact Factor
 
-All citation-based metrics can probably be traced back to a paper by Gross and Gross (1927); Archambault and Larivière (2009) tap that article as the starting point for the Journal Impact Factor. Since the Journal Impact Factor the best known and possibly most widely used citation-based metric for research, its origins can act as an example for all journal-level metrics in general.
+All citation-based metrics can probably be traced back to a paper by Gross and Gross (1927); Archambault and Larivière (2009) tap that article as the starting point for the Journal Impact Factor. Since the Journal Impact Factor is the best known and possibly most widely used citation-based metric for research, its origins can serve as an example for all journal-level metrics.
 
-##### Finding the &ldquo;indispensable&rdquo; journals
+#### Finding the &ldquo;indispensable&rdquo; journals
 
-The question posed by Gross and Gross (1927) was, “What… scientific periodicals are needed in a college library?” They wanted to identify to which journals a library should subscribe, and to do so they used quantitative methods to make comparisons between journals, and those methods eventually led to the Journal Impact Factor, along with other related bibliometrics.
+The question posed by Gross and Gross (1927) was, “What… scientific periodicals are needed in a college library?” They wanted to identify the journals to which a library should subscribe, and they used quantitative methods to make comparisons between journals, and those methods eventually led to the Journal Impact Factor.
 
 Gross and Gross decided to use a quantitive method to evaluate journals, as opposed to merely asking an expert to compile a list of &ldquo;indispensable&rdquo; journals in order to avoid a list that was &ldquo;seasoned too much by the needs, likes and dislikes of the compiler.&rdquo;  In other words, they used quantitative methods to minimize any single individual's biases from the evaluation of journals.
 
-##### Counting citations to sort journals
+#### Counting citations to sort journals
 
-The basic method pioneered by Gross and Gross, and repeated later by other researchers, was to select a pre-eminent journal or a reference that was generally accepted as key to the field at hand, and then compile and quantify the sources cited in that keystone reference/journal.
+The basic method pioneered by Gross and Gross, and repeated later by other researchers, was to select a pre-eminent journal or a reference that was generally accepted as key to the field at hand, and then compile and quantify the sources cited in that keystone journal/reference.
 
 This is an extremely simplified example: if the journal that was selected as the central reference for a field, &ldquo;Field&rdquo;, contained five citations to a &ldquo;Journal A&rdquo;, ten citations to a &ldquo;Journal B&rdquo;, and four citations to a &ldquo;Journal C&rdquo;, then for that field the journals would be ranked and reported something like this:
 
 <ul>
-  <li>Leading periodicals in Field
+  <li>
+    Leading periodicals in Field
     <ul>
       <li>Journal B &ndash; 10</li>
       <li>Journal A &ndash; 5</li>
@@ -50,9 +51,9 @@ This is an extremely simplified example: if the journal that was selected as the
   </li>
 </ul>
 
-These early citation metrics were inherently field-specific, since they took data from a central reference to some particular field.
+These early citation metrics were inherently field-specific, since they took data from a central reference to a particular field.
 
-##### Compiling citations for multiple fields
+#### Compiling citations for multiple fields
 
 Soon, though researchers began to cross-compile citation information from multiple journals, and then to include journals from multiple fields in those compilations.  For example, Gregory (1937) compiled more than 27,000 citations from across 27 subfields in medicine.
 
@@ -60,21 +61,22 @@ Gregory gives a concise explanation of the purpose of her metrics:
 
 >The foregoing Tables (I-27) answer primarily the needs of the specialist in his attempt to keep adequately abreast of the literature in his field. Two further Tables have been compiled, to indicate to the medical library and the librarian (A), the indispensable periodicals for al the fields consulted; (B), a short list of essential periodicals in general medicine which cover a large amount of material. This latter list is designed primarily for the individual and for the small library.
 
-There were 27 &ldquo;foregoing Tables&rdquo;, one for each of the subfields, yet in Gregory's Herculean compilation, there were no comparisons made between those fields.  This is a feature that would continue in similar metrics for decades: when multiple fields were compiled and evaluated at the same time, the results for each field were reported separately.  Presumably this was because the intended audience for these metrics had no need for cross-field comparisons, since libraries are generally tasked to select the best journals for some particular field, and are not given carte blanche to choose which fields to support, and researchers are interested in their field, not all fields.
+There were 27 &ldquo;foregoing Tables&rdquo;, one for each of the subfields, yet in Gregory's Herculean compilation, there were no comparisons made between fields.  This is a feature that would continue in similar metrics for decades: when multiple fields were compiled and evaluated at the same time, the results for each field were reported separately.  Presumably this was because the intended audience for these metrics had no need for cross-field comparisons, since libraries are generally tasked to select the best journals for some particular field, and are not given carte blanche to choose which fields to support, and researchers are interested in their field, not all fields.
 
-The compilation of citations from Martyn and Gilchrist (1968) is cited by Archambault and Larivière (2009) as having a large influence on methods used in the Journal Impact Factor, and it too continues the practice of reporting of metrics for separate fields separately.
+The compilation of citations from Martyn and Gilchrist (1968) is cited by Archambault and Larivière (2009) as having a large influence on methods used in the Journal Impact Factor, and it too continues the practice of reporting the metrics for separate fields separately.
 
-But eventually, when journal impact factors become used as a way to judge the quality of research, this lack of cross-field comparisons will become an issue as institutions try to equitably evaluate the quality of research done by their faculty and staff in an array of fields.  Ways to address this problem are offered by some journal-level as refinements to the methodology of the Journal Impact Factor.  (More details below.)
+However, when journal impact factors eventually become used as a way to judge the quality of research, this lack of cross-field comparisons becomes an issue as institutions try to equitably evaluate the quality of research done in an array of fields.  Ways to address this problem are offered by some journal-level metrics as refinements to the methodology of the Journal Impact Factor.  Some of these are described in later sections.
 
-##### Reporting ratios instead of counts
+#### Reporting ratios instead of counts
 
-Another feature of the Martyn and Gilchrist (1968) compilation that was carried forward into the Journal Impact Factor, and other bibliometrics, was first proposed by Hackh (1936): reporting a ratio instead of a count.  Specifically, the ratio of the number of citations to the number of pieces that might be cited.
+Another feature of the Martyn and Gilchrist (1968) compilation that was carried forward into the Journal Impact Factor and other bibliometrics was first proposed by Hackh (1936): reporting a ratio instead of a count.  Specifically, the ratio of the number of citations to the number of pieces that might be cited.
 
 Consider another extremely simplified example: if there were five citations to articles published in &ldquo;Journal A&rdquo; in the same year that &ldquo;Journal A&rdquo; published a total of 20 articles, the citation ratio would be &ldquo;5:20&rdquo;, or &ldquo;0.25&rdquo;.
 
-We can extend our earlier simplified example to include reporting ratios instead counts, and hopefully see why this is the preferred method:
+We can extend our earlier simplified example to include reporting ratios instead counts, and see why this is the preferred method:
 
 <table>
+  <caption>Citation ratios &ndash; simplified example</caption>
   <thead>
     <tr>
       <th>Journal</th>
@@ -115,41 +117,41 @@ We can extend our earlier simplified example to include reporting ratios instead
   </li>
 </ul>
 
-Despite having fewer citations than Journal A, Journal C has I higher ratio citations to citable pieces, and so is ranked higher.  Using that ratio to rank journals is a way to prevent quantity from overwhelming quality.
+Despite having fewer citations than Journal A, Journal C has a higher ratio of citations to citable pieces, and so is ranked higher.  Using a ratio to rank journals is a way to prevent quantity from overwhelming quality.
 
-##### And thus the Journal Impact Factor
+#### And thus the Journal Impact Factor
 
 This, then, is the core of how the Journal Impact Factor and a number of similar metrics work.  Gather citation counts and citable pieces for each journal, calculate the ratios, and rank the journals.
 
-However, there are a number of potential problems with this method.  Those and some others problems with the Journal Impact Factor are most easily explained by looking at a some other journal-level metrics that use refined versions of this same basic methods.
+However, there are a number of potential problems with this method.  Those problems have been addressed by various refinements of the basic method, some of which are used by the journal-level metrics described in the following sections.
 
-### Refinements on the Journal Impact Factor
+## Refinements on the Journal Impact Factor
 
-#### *SNIP* &ndash; Source Normalized Indicator of journal impact per Paper
+### SNIP &ndash; Source Normalized Indicator of journal impact per Paper
 
 As mentioned earlier, the lack of cross-field comparisons in the Journal Impact Factor means that its use is problematic for institutions that want to equitably evaluate the quality of research done by faculty and staff in an array of fields.  The Journal Impact Factor of journals cannot be compared between fields “because citation practices can vary significantly from one field to another” (Moed 2011).
 
-The source normalized indicator of journal impact per paper, ‘*SNIP*’, includes refinements to address this problem; specifically it addresses that problem through the normalization of citations.  SNIP normalizes the citation rates of articles against the average number of cited references per paper in that subject field (Moed 2010).  In a simplistic example, if the articles in a field typically cite 10 articles, then a set of articles with a non-normalized citations rate of 12 would have a normalized citation rate of 1.2, which can be characterized as above average *for that field*.
+The source normalized indicator of journal impact per paper, ‘SNIP’, includes refinements to address this problem through the normalization of citations.  SNIP normalizes the citation rates of articles against the average number of cited references per paper in that subject field (Moed 2010).  In a simplistic example, if the articles in a field typically cite 10 articles, then a set of articles with a non-normalized citations rate of 12 would have a normalized citation rate of 1.2, which can be characterized as above average for that field.
 
 To normalize away the differences in citation practices, however, requires properly delineating where those differences exist; in an article responding to criticisms of SNIP, Moed (2010) cites Garfield (1979) who reported that citation practices differ not only between fields, but between specialties and sub-specialties.
 
-To ensure that a journal's citations are normalized against an appropriate field of research, within SNIP a particular journal's field is not determined by categorization but instead it is defined by what articles cite the journal.  In other words, the “field” is the collection of all articles *outside* the journal that contain citations to articles *inside* the journal.  (It should be noted that the term “article” is being used here loosely.  A more accurate description might be “citable document”, since within SNIP “*articles*, *conference proceedings papers* and *reviews* are considered as fully fledged, peer-reviewed research articles” (Moed 2010).)  In short, SNIP normalizes a journal's citations based on the field's average citations, where the field is defined by citations to the journal.
+To ensure that a journal's citations are normalized against an appropriate field of research, within SNIP a particular journal's field is not determined by categorization but instead it is defined by what articles cite the journal.  In other words, the “field” is the collection of all articles *outside* the journal that contain citations to articles *inside* the journal.  (It should be noted that the term “article” is being used loosely here.  A more accurate description might be “citable document”, since within SNIP “*articles*, *conference proceedings papers* and *reviews* are considered as fully fledged, peer-reviewed research articles” (Moed 2010).)  In short, SNIP normalizes a journal's citations based on the field's average citations, where what constitutes the field is defined by the citations to the journal.
 
 A version of SNIP that runs against the Scopus&reg; database is available on the Journal Metrics website, *www.journalmetrics.com* (Elsevier 2015).
 
-#### SJR
+### SJR
 
-Another example of journal-impact metrics, the SCImago Journal Rank indicator (SJR), uses an implementation of social network analysis to rank journals.  The resulting rankings indicate the relative prestige of the journals.  This more gradated ranking is useful because more “poorly cited journals are entering the indices, [therefore] it is essential to have metrics that will allow one to distinguish with greater precision the level of prestige attained by each publication” (González-Pereira *et al.* 2010).
+Another problem with the Journal Impact Factor is that all citations count the same, regardless of their source.  However, some would argue that citations from certain sources should be weighted more than others, much like the opinion of an expert carrying more weight than that of a novice. The SCImago Journal Rank indicator (SJR), does just that by using an implementation of social network analysis to rank the relative prestige of the journals.  This more gradated ranking is useful because more “poorly cited journals are entering the indices, [therefore] it is essential to have metrics that will allow one to distinguish with greater precision the level of prestige attained by each publication” (González-Pereira *et al.* 2010).
 
-The SJR calculates for each journal its eigenvector centrality, which is “a measure of centrality… in which a unit's centrality is its summed connections to others, weighted by their centralities”, where ‘centrality’ is “network-derived importance” (Bonacich 1987) . For the SJR, therefore, ‘centrality’ is an indicator of a journal's prestige.  The eigenvector centrality calculated for a journal is then normalized using the total number of citations to the journal, resulting in a size-independent rank (González-Pereira *et al.* 2010).
+The SJR calculates for each journal its eigenvector centrality, which is “a measure of centrality… in which a unit's centrality is its summed connections to others, weighted by their centralities”, where ‘centrality’ is “network-derived importance” (Bonacich 1987) . For the SJR, therefore, ‘centrality’ is an indicator of a journal's prestige.  The eigenvector centrality calculated for a journal is then normalized using the total number of citations to the journal, resulting in a size-independent rank.
 
 The resulting SJR metric is “aimed at measuring the current ‘average prestige per paper’ of journals for use in research evaluation processes” (González-Pereira *et al.* 2010).
 
-#### PageRank / Eigenfactor.org
+### PageRank / Eigenfactor.org
 
 Another way to rank journals based on prestige instead of simple popularity, is the approach used by Eigenfactor.org&reg;, which “ranks the influence of journals much as Google’s PageRank algorithm ranks the influence of web pages” (West 2015).
 
-Bollen *et al.* (2006) have also used the PageRank methodology to rank journals by prestige, using “the dataset of the 2003 ISI Journal Citation Reports to compare the ISI [Impact Factor] and Weighted PageRank rankings of journals.”  To achieve the ranking, citations are used as a basis to “iteratively” pass prestige from one journal to the other, until “a stable solution is reached which reflects the relative prestige of journals.”  This is an adaptation of the original PageRank method, the difference being that connections between journals are weighted, based on citation frequencies.
+Bollen *et al.* (2006) examined using the PageRank methodology to rank journals by prestige, using “the dataset of the 2003 ISI Journal Citation Reports to compare the ISI [Impact Factor] and Weighted PageRank rankings of journals.”  To achieve the ranking, citations are used as a basis to “iteratively” pass prestige from one journal to the other, until “a stable solution is reached which reflects the relative prestige of journals.”  This is an adaptation of the original PageRank method, the difference being that connections between journals are weighted, based on citation frequencies.
 
 Prestige and citation rankings were found to be largely similar, with two notable exceptions.  The first were “journals that are cited frequently by journals with little prestige” that rank much lower on a prestige index than they do on a citation index.  The second were the converse of the first, “journals that are not frequently cited, but their citations come from highly prestigious journals” so that they rank much higher on a prestige index than they do on a citation index.
 
@@ -157,35 +159,35 @@ Based on specific examples of these two types of journals that have distinctly d
 
 It is, however, unclear if this result is an indication of the importance of including work on theory to produce high-quality research, or simply evidence that a weighted PageRank methodology is effective at maintaining previous perceptions of the relative values of theoretical and applied research.
 
-### Journal-level metrics are poor surrogates for research evaluation
+## Journal-level metrics are poor surrogates for research evaluation
 
 The variety of variants to the Journal Impact Factor might at first seem to be an indication that there is a lot of competition to win the favor of librarians.  Because, of course, journal-level impact metrics like the Journal Impact Factor were born of the desire to rank the importance of journals so that librarians will know which ones to have in their libraries.
 
-And while modern journal-impact bibliometrics may be only distantly related to the original work by Gross and Gross (1927), they have the same focus: ranking the journals themselves.  The leap seems to be huge, from journal rankings to judgements of the quality of a individual articles in the journals, but in practice, it's often unnoticed.  For example, in the introduction to an article describing yet another variant on the Journal Impact Factor, the authors write:
+And while modern journal-impact bibliometrics may be distantly related to the original work by Gross and Gross (1927), they have the same focus: ranking the journals themselves.  The leap seems to be huge, from journal rankings to judgements of the quality of a individual articles in the journals, but in practice, it's often unnoticed.  For example, in the introduction to an article describing yet another variant on the Journal Impact Factor, the authors write:
 
 >“The citedness of a scientific agent has for decades been regarded as an indicator of its scientific impact, and used to position it relative to other agents in the web of scholarly communications. In particular, various metrics based on citation counts have been developed to evaluate the impact of scholarly journals….” (González-Pereira *et al.* 2010)
 
-In other words, since the number of citations received by a researcher, or research group, can be a useful indicator of the quality of their research, it is useful to count the number of citations received by the ~~researchers~~ journals in which the researchers publish.  The logic of which seems to be reversed: instead of extrapolating that good articles make the journals they are in better, we extrapolate that good journals somehow make the articles that are in them better.
+In other words, since the number of citations received by a researcher, or research group, can be a useful indicator of the quality of their research, it is useful to count the number of citations received by the ~~researchers~~ journals in which the researchers publish.  The logic seems to be reversed: instead of extrapolating that good articles make the journals they are in better, we extrapolate that good journals somehow make the articles that are in them better.
 
 As Adler *et al.* put it:
 
->“…Instead of relying on the actual count of citations to compare individual papers, people frequently substitute the impact factor of the journals in which the papers appear. They believe that higher impact factors must mean higher citation counts. But this is often *not* the case! This is a pervasive misuse of statistics that needs to be challenged whenever and wherever it occurs.” (Adler *et al.* 2009)
+>“…Instead of relying on the actual count of citations to compare individual papers, people frequently substitute the impact factor of the journals in which the papers appear. They believe that higher impact factors must mean higher citation counts. But this is often not the case! This is a pervasive misuse of statistics that needs to be challenged whenever and wherever it occurs.” (Adler *et al.* 2009)
 
-Yet, it's hard to explain the variety of bibliometrics available to assess the impact of journals, and the nature of some of the refinements that differentiate them [[EXAMPLES?]], without assuming that the metrics are being used for something more generally desirable than the ranking of the journals themselves.
+Yet, it's hard to explain the variety of bibliometrics available to assess the impact of journals, and the nature of some of the refinements that differentiate them, without assuming that the metrics are being used for something more generally desirable than the ranking of the journals themselves.
 
-At the same time, however, it is this “pervasive misuse” of journal-level metrics that has helped lead to the development of article-level metrics.  (See below.)
+The problems inherent in using journal-level metrics as an indicator of article quality can be avoided by counting the citations of the article themselves.  This leads us to the other class of bibliometrics used to evaluate the quality of research, article-level metrics, which are discussed in the next section. 
 
-### Article-level metrics
+## Article-level metrics
 
 An obvious way to overcome the logical and practical problems of using journal-level metrics to evaluate the quality of the articles, is to base evaluations on the articles themselves.  Various article-level metrics are available to do this.
 
-#### *h*-Index
+### *h*-Index
 
 >“Here, I would like to propose a single number, the ‘*h* index,’ as a particularly simple and useful way to characterize the scientific output of a researcher.” (Hirsch 2005)
 
-The “*h*-index” is indeed a simple metric.  To find the *h*-index of a researcher, take all the articles that the researcher has published, and sort them in ascending order of how many citations each has received.  Then start counting the articles, starting with the one with the least number of citations; when you come to an article which has a number of citations equal to the count of articles so far, that article/citation count is the *h*-index for the researcher.  For example, a researcher who has an *h*-index of 6 has six published articles with at least six citations each.
+The “*h*-index” is indeed a simple metric.  To find the *h*-index of a researcher, take all the articles that the researcher has published, and sort them in ascending order of how many citations each has received.  Then start counting the articles, starting with the one with the least number of citations; when you come to an article which has a number of citations equal to the count of articles so far, that article/citation count is the *h*-index for the researcher.  For example, a researcher who has an *h*-index of 6 has published six articles with at least six citations each.
 
-The *h*-index is popular enough to have prompt the creation of various refinements to the basic method, e.g., the g-index (Egghe 2013) and the <i>h</i><sup>m</sup>-index (Schreiber 2008).  And of the three citation metrics displayed on a Google Scholar user's citations page<sup>[&dagger;](#footnote)</sup>, one is the *h*-index, and another is a variant of the *h*-index, the i10-index (Connor 2011).  (The third is simply a count of total citations.)
+The *h*-index is popular enough to have prompted the creation of various refinements to the basic method, e.g., the g-index (Egghe 2013) and the <i>h</i><sup>m</sup>-index (Schreiber 2008), and to define two of the three citation metrics displayed on Google Scholar's user-citations page. Those three metrics are: the user's  *h*-index, the i10-index, a variant of the *h*-index (Connor 2011), and finally a count of total citations.
 
 Yet, the usefulness of the *h*-index is unclear.  In the original proposal, the index was offered as a quantitative metric to be used “for evaluation and comparison purposes” (Hirsch 2005).  To demonstrate this use the author reported the *h*-index value for a collection of example researchers, including Nobel-prie winners.  But, as Adler *et al.* explain:
 
@@ -197,13 +199,13 @@ Though, there is a more important question to ask than which of the simple, arti
 
 >“These are often breathtakingly naïve attempts to capture a complex citation record with a single number. Indeed, the primary advantage of these new indices… is that the indices discard almost all the detail of citation records, and this makes it possible to rank any two scientists. Even simple examples, however, show that the discarded information is needed to understand a research record.” (Adler *et al.* 2009)
 
-Notes:
+Despite the complexity of citation records, simple, single-number metrics comprise the majority of commonly referenced article-level metrics.  Thought, this mirrors the wide array of single-number journal-level metrics available. Perhaps this focus on lone-value quantification is a consequence of having electronic indices of research publications that make such quantification simple.
 
-<a name="footnote">&dagger;</a> &ndash; See, for example, [scholar.google.com/citations?user=ZhuI0gwAAAAJ](https://scholar.google.com/citations?user=ZhuI0gwAAAAJ).
+Presumably, using data sources not so readily reduced to a single number would produce a more complex measure of a researcher's work. Such measures are classed as “alternative metrics,” a.k.a. “altmetrics”, and are described next.
 
-#### Altmetrics
+### Altmetrics
 
-Though not a bibliometric method, altmetrics have been used to perform similar analyses as have the bibliometric methods already discussed, so they should be included here.
+Though technically not a bibliometric method, altmetrics have been used to perform analyses similar to the bibliometric methods already discussed, so they are included here.
 
 Altmetrics use data available on the web such as “usage data analysis (download and view counts); web citation, and link analyses” (Zahedi *et al.* 2014) are used to supplement and improve upon citation-based metrics for measuring the impact of science and research.  Using information made available via the web, altmetrics can go beyond the journal articles and books included in citation-based metrics and include “other outputs such as datasets, software, slides, blog posts, etc.” (Zahedi *et al.* 2014).
 
@@ -211,31 +213,35 @@ So, instead of compiling citations to research in journals, altmetrics involves 
 
 Altmetrics also typically retain the related meta-data of mentions and usage statistics, which allow for more complex analyses of the information.  In other words, altmetrics not only track what research is being “mentioned”, but also where it is mentioned, and who is mentioning it, which can potentially provide a richer understanding of the citations. 
 
-##### Bibliometrics, scientometrics, and informetrics
+Perhaps most importantly, by drawing on sources outside of academia and research journals, altmetrics might provide some indications of the “pratical impact” of research.  This is discussed in the “Future research” section.
+
+#### Bibliometrics, scientometrics, and informetrics
 
 If altmetrics aren't bibliometrics, what are they?  They are “informetrics” which is a broader field than either bibliometrics, or “scientometrics”.  Bibliometrics has been defined as “the quantitative study of physical published units, or of bibliographic units, or of surrogates of either” (Broadus 1987).  Scientometrics has been defined as “the study of the quantitative aspects of science as a discipline or economic activity”, which includes the practice of publication and citation, so it “overlaps bibliometrics to some extent” (Tague-Sutcliffe 1992).  Informetrics, in contrast, includes quantitative studies of not only quantitative methods applied to publications, but also documentation and information (Egghe and Rousseau 1990); it has also been described as a “recent extension of the traditional bibliometric analyses also to cover non-scholarly communities in which information is produced, communicated, and used” (Ingwersen and Christensen 1997).
 
 For a more detailed discussion of the differences between the three areas, see “The Literature of Bibliometrics, Scientometrics, and Informetrics” by Hood and Wilson (2001).
 
-## Indicators of practical impact &ndash; examples from government initiatives and programs
+# Indicators of practical impact &ndash; examples from government initiatives and programs
 
-There is a parallel shift in the nature of source materials when shifting topics from considering research quality&mdash;the impact of research on research&mdash;to considering practical impact&mdash;the impact of research on society at large.  The outcomes of interest are no longer restricted within the world of research, and so neither are the source materials.
+As mentioned in the description of altmetrics above, the biggest limitation of bibliometrics, when used to judge the value of research, is that they are limited to the impact that research has on other research.  To get to the total impact of research, information from outside the realm of research must be included.
 
-Similarly, the examples used to discuss the evaluation of the practical impact of research are practical examples.  They come from programs initiated and/or implemented by governments or government agencies in order to make funding for research institutions responsive, to some extent, to the practical impact of the research being produced by those institutions.
+Which is why there is a parallel shift in the nature of source materials when shifting topics from considering research quality to considering the practical impact of research.  The outcomes of interest are no longer restricted to within the world of research, and so neither are the source materials.
 
-### Background on examples from government initiatives and programs 
+Similarly, the examples used to discuss the evaluation of the practical impact of research are practical examples.  They come from programs initiated and/or implemented by government agencies in order to have funding for research institutions be responsive, to some extent, to the practical impact of the research being produced by those institutions.
+
+## Background on examples from government initiatives and programs 
 
 Both Australia and the United Kingdom have developed government programs that evaluate research institutions based on their “research quality” and “research impact”.  Those programs used “research quality” to refer to what is sometimes called the “academic impact” of research; it is a measure of the effect that research has on other research, and included some form of bibliometrics.
 
 “Research impact” is the effect that research has *outside* of research and research institutions; it is an evaluation of the “full range of economic, social, public policy, welfare, cultural and quality-of-life benefits” (Grant *et al.* 2009) that can result from research.  In this thesis, it is referred to as “practical impact”.
 
-#### Research Quality Framework (RQF)  
+### Research Quality Framework (RQF)  
 
 The history of the Research Quality Framework (RQF) is complicated.  It started in 2003 when the government established “an Expert Advisory Group, whose remit was to consult widely and develop a model for assessing the quality and impact of research in Australia” (Butler 2008).  The framework proposed by that group was published in 2006, and prompted the establishment of the Development Advisory Group, to “refine the RQF model” (Donovan 2008).  The first RFQ was scheduled to be run in 2008, but a change in government in 2007 instead meant that the program was scrapped (Donovan 2008).
 
-However, the Research Quality Framework has influenced the development of similar programs, such as the Research Excellence Framework in the UK (Grant *et al.* 2009).
+However, the Research Quality Framework has influenced the development of similar programs, such as the Research Excellence Framework in the UK (Grant *et al.* 2009), and discussion of its development are available in the literature (cf. Butler 2008, Donovan 2008).
 
-#### Research Excellence Framework (REF)  
+### Research Excellence Framework (REF)  
 
 The Higher Education Council for England “funds and regulates universities and colleges in England” (HEFCE 2015).
 
@@ -247,13 +253,13 @@ The HEFCE will be using the Research Excellence Framework (REF) “for the asses
 
 However, the three elements are not equally weighted: “The assessment of research impact will be one of three distinct elements of the REF, being judged alongside research excellence and research environment, contributing 25% towards the overall outcome (as compared with 60% and 15% for quality and environment).” (Technopolis 2010)
 
-A pilot exercise of the REF was conducted in 2009.
+A pilot exercise of the REF was conducted in 2009, reports on the outcomes and evaluations from that pilot are referenced in the following sections.
 
-### Evaluation of ‘research quality’ in the examples
+## Evaluation of ‘research quality’ in the examples
 
-#### REF
+### REF
 
-Much like with ‘practical impact’ (discussed below), the HEFCE ran a pilot exercise of the evaluation of research quality at high-education institutions.  Specifically aiming to validate the use of bibliometric methods, the key finding of the exercise was: “Bibliometrics are not sufficiently robust at this stage to be used formulaically or to replace expert review in the REF” (HEFCE 2009b). But this was not a complete rejection of bibliometrics, as “there is considerable scope for citation information to be used to inform expert review” (HEFCE 2009b). 
+Much like with ‘practical impact’ (discussed below), the HEFCE ran a pilot exercise of the evaluation of research quality at higher-education institutions.  Specifically aiming to validate the use of bibliometric methods, the key finding of the exercise was: “Bibliometrics are not sufficiently robust at this stage to be used formulaically or to replace expert review in the REF” (HEFCE 2009b). But it was not a complete rejection of bibliometrics, as “there is considerable scope for citation information to be used to inform expert review” (HEFCE 2009b). 
 
 Thus, the REF uses expert panels, comprising both experts in the discipline as well as end-users of research, to evaluate the research quality of an institution, with bibliometric methods being include in the evaluation process. (Grant *et al.* 2010)  
 
@@ -263,25 +269,27 @@ This approach also aligns with the view given in a report commissioned by HECFE 
 
 Using bibliometrics within a qualitative framework&mdash;such as review by expert panels&mdash;was also the approach in the final version of the RFQ.
 
-#### RFQ
+### RFQ
 
-Under the Australian RFQ, research quality would have been assessed by a panel of experts, with one quarter of the members of a panel being end-users of research.  The panel would have used a spectrum of bibliometric measures to compliment the review process.
+Under the Australian RFQ, research quality would have been assessed by a panel of experts, with one quarter of the panel members being end-users of research.  The panel would have used a spectrum of bibliometric measures to compliment the review process.
 
 The government ministry created a ‘Quality Metrics Working Group’, which developed recommendations for what bibliometrics would&mdash;and would not&mdash;be appropriate.  The working group specifically rejected the Journal Impact Factor (né ISI Impact Factor):
 
 >“It was believed that actual citation counts are a far better citation measure for judging the performance of groups than surrogates based on the average citation rates of the journals which carry that work. There were also concerns about the way in which the indicator is calculated and anecdotal evidence of increasing manipulation of the indicator by a few journal editors. Even when ranking journals, some disciplines had already made it clear that they wished to look beyond the Impact Factor and undertake a more detailed assessment of the quality of journals.” (Butler 2008)
 
-The working group on metrics recommended that panels choose from a “suite” of metrics that included citations collated as simple counts, averages, or centile distributions.  Also, it was recommended that some fields might want to include citations from “non-standard venues”, meaning from outside the journals included in the standard indicies from which bibliometrics typically draw data&mdash;though this practice was discouraged, since drawing citations from venues outside those indices would be a labor-intensive process.  And the working group specifically recommended “that no attempt be made to aggregate the indicators to produce a single score” (Butler 2008).
+The working group on metrics recommended that panels choose from a “suite” of metrics that included citations reported as simple counts, averages, or centile distributions.  Also, it was recommended that some fields might want to include citations from “non-standard venues”, meaning from outside the standard indicies of research publications from which bibliometrics typically draw data&mdash;though this practice was discouraged, since drawing citations from venues outside those indices would be a labor-intensive process.  And the working group specifically recommended “that no attempt be made to aggregate the indicators to produce a single score” (Butler 2008).
 
 Ostensibly the working group recommended against aggregating quantitative measures to alleviate concerns that a single quantitative measure might have undue influence, but the advice also falls in line with concerns that “analysis of research performance on the basis of journals unavoidably introduces a ‘bibliometrically limited view of a complex reality’” (van Raan *et al.* 2007). 
 
-So, while bibliometrics were to play a role in the RFQ, and do play a role in REF, they are used within a qualitative framework since the evaluation of research is a complex and muli-faceted problem.  As Adler *et al.* write in their criticism of the application of citation statistics:
+So, while bibliometrics were to play a role in the RFQ, and do play a role in REF, they are used within a qualitative framework since the evaluation of research is a complex and muli-faceted problem.  As Adler *et al.* write:
 
 >“We do not dismiss citation statistics as a tool for assessing the quality of research—citation data and statistics can provide some valuable information. We recognize that assessment must be practical, and for this reason easily derived citation statistics almost surely will be part of the process. But citation data provide only a limited and incomplete view of research quality, and the statistics derived from citation data are sometimes poorly understood and misused. Research is too important to measure its value with only a single coarse tool.” (Adler *et al.* 2009)
 
-### Evaluation of ‘practical impact’ in the examples
+So, a mix of qualitative and quantitative methods is used to evaluate research quality.  And it turns out that a mixture of methods is also used for the evaluation the practical impact of research, a discussion of which is in the next section.
 
-#### REF
+## Evaluation of ‘practical impact’ in the examples
+
+### REF
 
 The documentation published by HEFCE for the REF explained that practical impacts would include “a wide definition of impacts, including economic, social, public policy, cultural and quality of life” and that any reference to “‘impact’ or ‘social and economic impact’” implicitly included the entire wide range of impacts. (HEFCE 2009a)
 
@@ -289,17 +297,17 @@ This did not prevent confusion about what was meant, unfortunately.  In a “les
 
 Some outside the process seem similarly unclear on the wider impact being sought by the REF.  Commenting on the high ratings received by all groups taking part in the pilot exercise, Khazragui and Hudson (2015) write, “But in part too it is a consequence of having economic impact evaluated by non-economists." The implication being that since economic impact is the dominant feature of overall impact, an over-estimation of economic impact would inevitably cause a large-magnitude effect on the results.  Therefore the high ratings can be explained by a failure to properly quantify the economic impact.
 
-The objection of Khazragui and Hudson (2015) to a lack of quantitative methods, presumably is what led them to denigrate the nature of the evaluation process, writing, “research funders also illustrate their impact with ‘stories’.”
+The objection of Khazragui and Hudson to a lack of quantitative methods, presumably is what led them to denigrate the nature of the evaluation process, writing, “research funders also illustrate their impact with ‘stories’” (Khazragui and Hudson 2015).
 
 The authors are presumably are referring to the “narrative evidence” that was used for the REF, since “there are limitations in the extent to which the impacts of research can be ‘measured’ through quantifiable indicators.” The REF used a qualitative process.  
 
-  “Rather than seek to **measure** the impacts in a quantifiable way, impact will be **assessed** in the REF. Expert panels will review narrative evidence supported by appropriate indicators, and produce graded impact sub-profiles for each submission; they will not seek to quantify the impacts.” (HEFCE 2009a)
+>“Rather than seek to **measure** the impacts in a quantifiable way, impact will be **assessed** in the REF. Expert panels will review narrative evidence supported by appropriate indicators, and produce graded impact sub-profiles for each submission; they will not seek to quantify the impacts.” (HEFCE 2009a)
 
 Quantitive data were included in the process, however.  The HEFCE directed that the case studies that were submitted by research institutions should “include a range of **indicators of impact** as supporting evidence”.  Those indicators were expected to be quantified values, such as the research income generated from other funding sources, and accountings of collaborations with companies in the private sector (HEFCE 2009a).
 
-#### RFQ
+### RFQ
 
-In the RFQ, research would have impact if it created benefits in at least one of four domains: 
+In the RFQ, research would have practical impact if it created benefits in at least one of four domains: 
 social, economic, environmental, or cultural (Donovan 2008)
 
 * Social Benefit &ndash; new approach to social issues, improved policies, improved equity, improved health, safety and security, etc.
@@ -307,13 +315,19 @@ social, economic, environmental, or cultural (Donovan 2008)
 * Environmental Benefit &ndash; reduced waste and pollution, reduced consumption of fossil fuels, improved management of natural resources, etc.
 * Cultural Benefit &ndash; greater understanding of “where we have come from, and who and what we are as a nation and society”, stimulating creativity within the community, contributing to cultural preservation and enrichment, etc.
 
-However, Donovan writes that the definition of impact in the final version of the Australian RFQ program was the result of tensions between defining impact in terms of “the interests of industry and commerce” and defining it in relation to “broader public benefits” (Donovan 2008).  These tensions are played out in the differences between three sources: two sets of preliminary recommendations for the program and the final version of the RFQ.
+However, the definition of impact in the final version of the Australian RFQ program was the result of tensions between defining impact in terms of “the interests of industry and commerce” and defining it in relation to “broader public benefits” (Donovan 2008).  These tensions are played out in the differences between three sources: two sets of preliminary recommendations for the program and the final version of the RFQ.
 
 For example, one of the preliminary recommendations defined impact in terms of “direct practical utility” and within the document the term ‘impact’ was at times used interchangeably with the word ‘usefulness’. It advocates measuring impact with quantitative metrics, such a business investments and returns, numbers of patents issued, etc.  In contrast, the other preliminary recommendation promotes combining quantitative indicators with qualitative evidence in order to include the intangible benefits of research in the evaluation process.  The final version of the RFQ included a “case study” methodology for evaluating impact, which would allow for the more holistic method of evaluation, but also included a scale for the scoring of impact that used magnitudes of impact as a criteria, which clearly favors quantitative evidence (Donovan 2008).
 
-## Future research
+Despite the shift of focus between quantitative, economic benefits, and qualitative, social benefits, the RFQ never rejected the idea that practical impact was an important part of judging the overall value of research.
 
-### Can altmetrics provide practical impact data?
+The REF and RFQ each combined qualitative and quantitative methods in order to evaluate both the quality of research and its practical impact, in order to assess the overall value of research.
+
+# Future research
+
+While there is an established history of evaluating the quality of research, often by using bibliometric methods, there is not nearly as lengthy or well-established of a precedent for evaluating its practical impact.  The next two sections discuss possibilities in regards to that evaluation.
+
+## Can altmetrics provide practical impact data?
 
 Most bibliometric methods for measuring research quality only use data from indicies of academic journals, and use time windows of five years or less.  They are therefore unlikely to capture the practical impact of research, because monitoring only academic publications means they can't detect practical impact directly, and the relatively short time windows means they can't detect the indirect influence that an important practical impact will eventually have on research.
 
@@ -333,7 +347,7 @@ But, then again, this lack of meta-data suitable for classifying users is only a
 
 If institutions step away from using metrics and move toward using indicators in the evaluation of research quality and impact, the field of altmetrics would seem to be ripe with potential indicators to fit the bill.
 
-### How can researchers be “ahead of the curve” in evaluations of research impact?
+## How can researchers be “ahead of the curve” in evaluations of research impact?
 
 Even when not officially required, demonstrations of the practical impact of research can be a useful addition in any context when there is an evaluation of the value of research.  Documenting or demonstrating impact can also be internally helpful, as “in doing so a great majority will derive insight and local benefits” (Technopolis 2010)
 
@@ -343,24 +357,17 @@ If the report is correct in that there is a “growing interest in the notion of
 
 Perhaps the ongoing-experiences of the HEFCE and the institutions that it covers, along with the experiences of programs such as ‘Evaluating Research in Context’ (ERiC) in the Netherlands (Spaapen *et al.* 2007), should be used as a basis to create a set of “best practices” for use by researchers not yet covered by any practical-impact requirements to do self-assessments, and potentially by funding institutions as a starting point for including practical impact in their evaluation of research.
 
-## Conclusion
+# Conclusion
 
-Since institutions have limited resources they must regularly assess if those resources are  allocated efficiently, in regard to meeting the institution's goals.  For non-profit, public institutions the goal is to maximize the social benefits that result from the institution's activities, including research in a wide variety of fields.
+Since institutions have limited resources they must regularly assess if those resources are  allocated efficiently, in regard to meeting the institution's goals.  Traditionally, the focus of that evaluation has been on research quality using bibliometric methods that analyze article citations in academic journals.
 
-Therefore, as part of the process of assessing the allocation of resources, those institutions must evaluate the beneficial outcomes of the work being done by researchers.
+More recently, there has been interest in the practical impact of research, that is, the benefit outside of research institutions.  To evaluate the practical impact of research, a qualitative, case-study based approach is typically recommend and/or used, ideally having the evaluation done by a panel of experts that includes the end-users of researchers. 
 
-Traditionally, the focus of that evaluation has been on the positive that research has in its field, specifically by considering its influence, or potential influence, on subsequent research.  That type of beneficial outcome has been evaluated under the classification of “research quality”.  Bibliometric methods that analyze article citations in academic journals are one indicator of research quality; while they are sometimes over-emphasized, they are not without value for this purpose.
-
-More recently, there has been interest in the outcomes of research that are beneficial outside of research institutions, and fields of research.  This type of beneficial outcome can be evaluated under the classification of “practical impact”.  To evaluate the practical impact of research, a qualitative, case-study based approach is typically recommend and/or used, since the effect of research may be felt in a wide range of areas, including economic, environmental, social and cultural benefits. Having the evaluation done by a panel of experts that includes the end-users of researchers helps ensure that the views of stakeholders outside of the research institutions are taken into consideration. 
-
-Quantitative indicators of practical impact are de-emphasized, since the effects in some areas are either conceptually difficult, or simply cost-prohibitive to quantify.  Even when effects are quantifiable, they may not be quantifiable in an way that allows for equitable comparisons. Also, concise quantitative metrics can obscure complex realities, and have undue dominance over indicators with less of an appearance of objectivity.
-
-Thus, citation-based bibliometrics have little utility for evaluating practical impact, though altmetrics, and other methodologies from the field of informetrics, may be able to contribute indicators of various kinds for the evaluation of the practical impact of research.
-
+The value of research comes from both its research quality and its practical impact.  The best way to judge the value of research is to have the evaluation done by a panel of experts, using both quantitative and qualitative methods.
 
 ----
 
-## References
+# References
 
 * Adie, Euan, and William Roe. 2013. “Altmetric: Enriching Scholarly Content with Article-Level Discussion and Metrics.” *Learned Publishing* 26 (1): 11–17. doi:10.1087/20130103.
 * Adler, Robert, John Ewing, and Peter Taylor. 2009. “Citation Statistics.” *Statistical Science* 24 (1): 1–14. doi:10.1214/09-STS285.
