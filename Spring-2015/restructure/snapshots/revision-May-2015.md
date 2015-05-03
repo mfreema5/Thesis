@@ -123,9 +123,19 @@ Despite having fewer citations than Journal A, Journal C has a higher ratio of c
 
 This, then, is the core of how the Journal Impact Factor and a number of similar metrics work.  Gather citation counts and citable pieces for each journal, calculate the ratios, and rank the journals.
 
-However, there are a number of potential problems with this method.  Those problems have been addressed by various refinements of the basic method, some of which are used by the journal-level metrics described in the following sections.
+However, there are a number of possible problems with this method.  For example, the Journal Impact Factor has been criticized for the following reasons (among others):
 
-## Refinements on the Journal Impact Factor
+*The Journal Impact Factor…*
+
+  *…is not sensitive to differences in composition of the journals.*  Review pieces in journals that aggregate recent research into an overview nearly always have higher citation rates than research articles.  Letters and notes tend to have higher citation rates in the short-term.  Differing journal impact factors may therefore represent nothing more than a difference in number of each type of citable documents in the journals (van Leeuwen *et al.* 1999).
+
+  *…uses too short of a citation window.* For subfields of mathematics, social sciences and humanities “the use of an indicator which depends on a citation window of one to two years seems to be clearly insufficient to measure the impact of research in those areas” (van Leeuwen *et al.* 1999).
+
+  *…is is not sensitive to differences in fields.* The Journal Impact Factor does not account for differences in “the size of professional communities, the numbers of their indexed journals and type of articles in different fields, and the researchers’ differing citing behaviours” and therefore, impact factors cannot be appropriately compared between fields. (Bornmann *et al.* 2012)
+
+So while the Journal Impact Factor remains popular, other journal-level metrics have been developed that either address specific problems or implement newer methodologies, e.g., prestige rankings.  Three examples of those are described in the following section.
+
+## Alternatives to the Journal Impact Factor
 
 ### SNIP &ndash; Source Normalized Indicator of journal impact per Paper
 
@@ -165,13 +175,13 @@ The variety of variants to the Journal Impact Factor might at first seem to be a
 
 And while modern journal-impact bibliometrics may be distantly related to the original work by Gross and Gross (1927), they have the same focus: ranking the journals themselves.  The leap seems to be huge, from journal rankings to judgements of the quality of a individual articles in the journals, but in practice, it's often unnoticed.  For example, in the introduction to an article describing yet another variant on the Journal Impact Factor, the authors write:
 
->“The citedness of a scientific agent has for decades been regarded as an indicator of its scientific impact, and used to position it relative to other agents in the web of scholarly communications. In particular, various metrics based on citation counts have been developed to evaluate the impact of scholarly journals….” (González-Pereira *et al.* 2010)
+> “The citedness of a scientific agent has for decades been regarded as an indicator of its scientific impact, and used to position it relative to other agents in the web of scholarly communications. In particular, various metrics based on citation counts have been developed to evaluate the impact of scholarly journals….” (González-Pereira *et al.* 2010)
 
 In other words, since the number of citations received by a researcher, or research group, can be a useful indicator of the quality of their research, it is useful to count the number of citations received by the ~~researchers~~ journals in which the researchers publish.  The logic seems to be reversed: instead of extrapolating that good articles make the journals they are in better, we extrapolate that good journals somehow make the articles that are in them better.
 
 As Adler *et al.* put it:
 
->“…Instead of relying on the actual count of citations to compare individual papers, people frequently substitute the impact factor of the journals in which the papers appear. They believe that higher impact factors must mean higher citation counts. But this is often not the case! This is a pervasive misuse of statistics that needs to be challenged whenever and wherever it occurs.” (Adler *et al.* 2009)
+> “…Instead of relying on the actual count of citations to compare individual papers, people frequently substitute the impact factor of the journals in which the papers appear. They believe that higher impact factors must mean higher citation counts. But this is often not the case! This is a pervasive misuse of statistics that needs to be challenged whenever and wherever it occurs.” (Adler *et al.* 2009)
 
 Yet, it's hard to explain the variety of bibliometrics available to assess the impact of journals, and the nature of some of the refinements that differentiate them, without assuming that the metrics are being used for something more generally desirable than the ranking of the journals themselves.
 
@@ -183,7 +193,7 @@ An obvious way to overcome the logical and practical problems of using journal-l
 
 ### *h*-Index
 
->“Here, I would like to propose a single number, the ‘*h* index,’ as a particularly simple and useful way to characterize the scientific output of a researcher.” (Hirsch 2005)
+> “Here, I would like to propose a single number, the ‘*h* index,’ as a particularly simple and useful way to characterize the scientific output of a researcher.” (Hirsch 2005)
 
 The “*h*-index” is indeed a simple metric.  To find the *h*-index of a researcher, take all the articles that the researcher has published, and sort them in ascending order of how many citations each has received.  Then start counting the articles, starting with the one with the least number of citations; when you come to an article which has a number of citations equal to the count of articles so far, that article/citation count is the *h*-index for the researcher.  For example, a researcher who has an *h*-index of 6 has published six articles with at least six citations each.
 
@@ -191,13 +201,13 @@ The *h*-index is popular enough to have prompted the creation of various refinem
 
 Yet, the usefulness of the *h*-index is unclear.  In the original proposal, the index was offered as a quantitative metric to be used “for evaluation and comparison purposes” (Hirsch 2005).  To demonstrate this use the author reported the *h*-index value for a collection of example researchers, including Nobel-prie winners.  But, as Adler *et al.* explain:
 
->“One can conclude that it is likely a scientist has a high h-index given the scientist is a Nobel Laureate. But without further information, we know very little about the likelihood someone will become a Nobel Laureate or a member of the National Academy, given that they have a high h-index.” (Adler *et al.* 2009)
+> “One can conclude that it is likely a scientist has a high h-index given the scientist is a Nobel Laureate. But without further information, we know very little about the likelihood someone will become a Nobel Laureate or a member of the National Academy, given that they have a high h-index.” (Adler *et al.* 2009)
 
 Indeed, the *h*-index has be shown to be inferior to equally simple metrics: “Compared with the h-index, the mean number of citations per paper is a superior indicator of scientific quality, in terms of both accuracy and precision.” (Lehmann 2006).
 
 Though, there is a more important question to ask than which of the simple, article-level metrics is a better indicator of research quality&mdash;are any of them actually useful?  Evaluating the quality of the work being done by a researcher is not a simple task, so any simple tool will inevitably prove to be inadequate. In reference to the h-*index* and a number variants of it, Adler *et al.* write:
 
->“These are often breathtakingly naïve attempts to capture a complex citation record with a single number. Indeed, the primary advantage of these new indices… is that the indices discard almost all the detail of citation records, and this makes it possible to rank any two scientists. Even simple examples, however, show that the discarded information is needed to understand a research record.” (Adler *et al.* 2009)
+> “These are often breathtakingly naïve attempts to capture a complex citation record with a single number. Indeed, the primary advantage of these new indices… is that the indices discard almost all the detail of citation records, and this makes it possible to rank any two scientists. Even simple examples, however, show that the discarded information is needed to understand a research record.” (Adler *et al.* 2009)
 
 Despite the complexity of citation records, simple, single-number metrics comprise the majority of commonly referenced article-level metrics.  Thought, this mirrors the wide array of single-number journal-level metrics available. Perhaps this focus on lone-value quantification is a consequence of having electronic indices of research publications that make such quantification simple.
 
@@ -277,7 +287,7 @@ Thus, the REF uses expert panels, comprising both experts in the discipline as w
 
 This approach also aligns with the view given in a report commissioned by HECFE before the running of the pilot exercise from the Centre for Science and Technology Studies, Leiden University:
 
->“Citation counts can be seen as manifestations of intellectual influence, but the concepts of citation impact and intellectual influence do not necessarily coincide. Citation impact is a quantitative concept that can be operationalised in an elementary fashion or in more sophisticated ways, such as crude citation counts versus field-normalised measures. Concepts such as ‘intellectual influence’ are essentially theoretical concepts of a qualitative nature, and have to be assessed by taking into account the cognitive contents of the work under evaluation. Thus, the outcomes of bibliometric analysis must be valued in a qualitative, evaluative framework that takes into account the contents of the work.” (van Raan *et al.* 2007)
+> “Citation counts can be seen as manifestations of intellectual influence, but the concepts of citation impact and intellectual influence do not necessarily coincide. Citation impact is a quantitative concept that can be operationalised in an elementary fashion or in more sophisticated ways, such as crude citation counts versus field-normalised measures. Concepts such as ‘intellectual influence’ are essentially theoretical concepts of a qualitative nature, and have to be assessed by taking into account the cognitive contents of the work under evaluation. Thus, the outcomes of bibliometric analysis must be valued in a qualitative, evaluative framework that takes into account the contents of the work.” (van Raan *et al.* 2007)
 
 Using bibliometrics within a qualitative framework&mdash;such as review by expert panels&mdash;was also the approach in the final version of the RFQ.
 
@@ -287,7 +297,7 @@ Under the Australian RFQ, research quality would have been assessed by a panel o
 
 The government ministry created a ‘Quality Metrics Working Group’, which developed recommendations for what bibliometrics would&mdash;and would not&mdash;be appropriate.  The working group specifically rejected the Journal Impact Factor (né ISI Impact Factor):
 
->“It was believed that actual citation counts are a far better citation measure for judging the performance of groups than surrogates based on the average citation rates of the journals which carry that work. There were also concerns about the way in which the indicator is calculated and anecdotal evidence of increasing manipulation of the indicator by a few journal editors. Even when ranking journals, some disciplines had already made it clear that they wished to look beyond the Impact Factor and undertake a more detailed assessment of the quality of journals.” (Butler 2008)
+> “It was believed that actual citation counts are a far better citation measure for judging the performance of groups than surrogates based on the average citation rates of the journals which carry that work. There were also concerns about the way in which the indicator is calculated and anecdotal evidence of increasing manipulation of the indicator by a few journal editors. Even when ranking journals, some disciplines had already made it clear that they wished to look beyond the Impact Factor and undertake a more detailed assessment of the quality of journals.” (Butler 2008)
 
 The working group on metrics recommended that panels choose from a “suite” of metrics that included citations reported as simple counts, averages, or centile distributions.  Also, it was recommended that some fields might want to include citations from “non-standard venues”, meaning from outside the standard indicies of research publications from which bibliometrics typically draw data&mdash;though this practice was discouraged, since drawing citations from venues outside those indices would be a labor-intensive process.  And the working group specifically recommended “that no attempt be made to aggregate the indicators to produce a single score” (Butler 2008).
 
@@ -295,7 +305,7 @@ Ostensibly the working group recommended against aggregating quantitative measur
 
 So, while bibliometrics were to play a role in the RFQ, and do play a role in REF, they are used within a qualitative framework since the evaluation of research is a complex and muli-faceted problem.  As Adler *et al.* write:
 
->“We do not dismiss citation statistics as a tool for assessing the quality of research—citation data and statistics can provide some valuable information. We recognize that assessment must be practical, and for this reason easily derived citation statistics almost surely will be part of the process. But citation data provide only a limited and incomplete view of research quality, and the statistics derived from citation data are sometimes poorly understood and misused. Research is too important to measure its value with only a single coarse tool.” (Adler *et al.* 2009)
+> “We do not dismiss citation statistics as a tool for assessing the quality of research—citation data and statistics can provide some valuable information. We recognize that assessment must be practical, and for this reason easily derived citation statistics almost surely will be part of the process. But citation data provide only a limited and incomplete view of research quality, and the statistics derived from citation data are sometimes poorly understood and misused. Research is too important to measure its value with only a single coarse tool.” (Adler *et al.* 2009)
 
 So, a mix of qualitative and quantitative methods is used to evaluate research quality.  And it turns out that a mixture of methods is also used for the evaluation the practical impact of research, a discussion of which is in the next section.
 
@@ -313,7 +323,7 @@ The objection of Khazragui and Hudson to a lack of quantitative methods, presuma
 
 The authors are presumably are referring to the “narrative evidence” that was used for the REF, since “there are limitations in the extent to which the impacts of research can be ‘measured’ through quantifiable indicators.” The REF used a qualitative process.  
 
->“Rather than seek to **measure** the impacts in a quantifiable way, impact will be **assessed** in the REF. Expert panels will review narrative evidence supported by appropriate indicators, and produce graded impact sub-profiles for each submission; they will not seek to quantify the impacts.” (HEFCE 2009a)
+> “Rather than seek to **measure** the impacts in a quantifiable way, impact will be **assessed** in the REF. Expert panels will review narrative evidence supported by appropriate indicators, and produce graded impact sub-profiles for each submission; they will not seek to quantify the impacts.” (HEFCE 2009a)
 
 Quantitive data were included in the process, however.  The HEFCE directed that the case studies that were submitted by research institutions should “include a range of **indicators of impact** as supporting evidence”.  Those indicators were expected to be quantified values, such as the research income generated from other funding sources, and accountings of collaborations with companies in the private sector (HEFCE 2009a).
 
@@ -386,6 +396,7 @@ The value of research comes from both its research quality and its practical imp
 * Archambault, Éric, and Vincent Larivière. 2009. “History of the Journal Impact Factor: Contingencies and Consequences.” *Scientometrics* 79 (3): 635–49. doi:10.1007/s11192-007-2036-x.
 * Bollen, Johan, Marko A. Rodriquez, and Herbert Van de Sompel. 2006. “Journal Status.” *Scientometrics* 69 (3): 669–87. doi:10.1007/s11192-006-0176-z.
 * Bonacich, Phillip. 1987. “Power and Centrality: A Family of Measures.” *American Journal of Sociology* 92 (5): 1170–82. doi:10.2307/2780000.
+* Bornmann, Lutz, Werner Marx, Armen Yuri Gasparyan, and George D. Kitas. 2012. “Diversity, Value and Limitations of the Journal Impact Factor and Alternative Metrics.” *Rheumatology International* 32 (7): 1861–67. doi:10.1007/s00296-011-2276-1.
 * Broadus, R. N. 1987. “Toward a Definition of ‘bibliometrics.’” *Scientometrics* 12 (5-6): 373–79. doi:10.1007/BF02016680.
 * Butler, L. 2008. “Using a Balanced Approach to Bibliometrics: Quantitative Performance Measures in the Australian Research Quality Framework.” *Ethics in Science and Environmental Politics* 8 (June): 83–92. doi:10.3354/esep00077.
 * Connor, James. 2011. “Google Scholar Citations Open To All.” *Google Scholar Blog*. Accessed April 12. http://googlescholar.blogspot.com/2011/11/google-scholar-citations-open-to-all.html.
@@ -423,4 +434,5 @@ The value of research comes from both its research quality and its practical imp
 * West, Jevin D. 2015. “Eigenfactor.” *Eigenfactor*. Accessed April 9. http://www.eigenfactor.org/methods.php.
 * Zahedi, Zohreh, Rodrigo Costas, and Paul Wouters. 2014. “How Well Developed Are Altmetrics? A Cross-Disciplinary Analysis of the Presence of ‘alternative Metrics’ in Scientific Publications.” *Scientometrics* 101 (2): 1491–1513. doi:10.1007/s11192-014-1264-0.
 * van Eck, Nees Jan, Ludo Waltman, Anthony F. J. van Raan, Robert J. M. Klautz, and Wilco C. Peul. 2013. “Citation Analysis May Severely Underestimate the Impact of Clinical Research as Compared to Basic Research.” *PloS One* 8 (4): e62395. doi:10.1371/journal.pone.0062395.
+* van Leeuwen, Thed N., H. F. Moed, and J. Reedijk. 1999. “Critical Comments on Institute for Scientific Information Impact Factors: A Sample of Inorganic Molecular Chemistry Journals.” *Journal of Information Science* 25 (6): 489–98. doi:10.1177/016555159902500605.
 * van Raan, A., H. Moed, and T. van Leeuwen. 2007. *Scoping Study on the Use of Bibliometric Analysis to Measure the Quality of Research in UK Higher Education Institutions.* HEFCE 2007/34. http://webarchive.nationalarchives.gov.uk/20120118171947/http://www.hefce.ac.uk/pubs/rdreports/2007/rd18_07/. Retrieved February 8, 2015.

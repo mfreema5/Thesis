@@ -105,12 +105,6 @@ We can extend our earlier simplified example to include reporting ratios instead
 
 Despite having fewer citations than Journal A, Journal C has I higher ratio citations to citable pieces, and so is ranked higher.  Using that ratio to rank journals is a way to prevent quantity from overwhelming quality.
 
-##### And thus the Journal Impact Factor
-
-This, then, is the core of how the Journal Impact Factor and a number of similar metrics work.  Gather citation counts and citable pieces for each journal, calculate the ratios, and rank the journals.
-
-However, there are a number of potential problems with this method.  Those and some others problems with the Journal Impact Factor are most easily explained by looking at a some other journal-level metrics that use refined versions of this same basic methods.
-
 ----
 
 ## References
