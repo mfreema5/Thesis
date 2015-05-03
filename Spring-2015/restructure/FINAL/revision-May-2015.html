@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="generator" content="pandoc">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="author" content="Michael J. Freeman">
     <title>Finding Research Value – the metrics and methods for evaluating research</title>
-    <address>Michael J. Freeman</address>
   </head>
   <body>
     <main>
@@ -65,16 +65,29 @@
               <p>
                 This is an extremely simplified example: if the journal that was selected as the central reference for a field, “Field”, contained five citations to a “Journal A”, ten citations to a “Journal B”, and four citations to a “Journal C”, then for that field the journals would be ranked and reported something like this:
               </p>
-              <ul>
-                <li>
-                  Leading periodicals in Field
-                  <ul>
-                    <li>Journal B &ndash; 10</li>
-                    <li>Journal A &ndash; 5</li>
-                    <li>Journal C &ndash; 4</li>
-                  </ul>
-                </li>
-              </ul>
+              <table>
+                <caption>Leading periodicals in Field</caption>
+                <thead>
+                  <tr>
+                    <th>Journal</th>
+                    <th>Citation count</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Journal B</td>
+                    <td>10</td>
+                  </tr>
+                  <tr>
+                    <td>Journal A</td>
+                    <td>5</td>
+                  </tr>
+                  <tr>
+                    <td>Journal C</td>
+                    <td>4</td>
+                  </tr>
+                </tbody>
+              </table>
               <p>
                 These early citation metrics were inherently field-specific, since they took data from a central reference to a particular field.
               </p>
@@ -89,7 +102,7 @@
               </p>
               <blockquote>
                 <p>
-                  The foregoing Tables (I-27) answer primarily the needs of the specialist in his attempt to keep adequately abreast of the literature in his field. Two further Tables have been compiled, to indicate to the medical library and the librarian (A), the indispensable periodicals for al the fields consulted; (B), a short list of essential periodicals in general medicine which cover a large amount of material. This latter list is designed primarily for the individual and for the small library.
+                  The foregoing Tables (1-27) answer primarily the needs of the specialist in his attempt to keep adequately abreast of the literature in his field. Two further Tables have been compiled, to indicate to the medical library and the librarian (A), the indispensable periodicals for all the fields consulted; (B), a short list of essential periodicals in general medicine which cover a large amount of material. This latter list is designed primarily for the individual and for the small library.
                 </p>
               </blockquote>
               <p>
@@ -125,16 +138,16 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td>Journal A</td>
-                    <td>5</td>
-                    <td>20</td>
-                    <td>0.25</td>
-                  </tr>
-                  <tr>
                     <td>Journal B</td>
                     <td>10</td>
                     <td>20</td>
                     <td>0.50</td>
+                  </tr>
+                  <tr>
+                    <td>Journal A</td>
+                    <td>5</td>
+                    <td>20</td>
+                    <td>0.25</td>
                   </tr>
                   <tr>
                     <td>Journal C</td>
@@ -144,15 +157,29 @@
                   </tr>
                 </tbody>
               </table>
-              <ul>
-                <li>Leading periodicals in Field
-                  <ul>
-                    <li>Journal B &ndash; 0.50</li>
-                    <li>Journal C &ndash; 0.40</li>
-                    <li>Journal A &ndash; 0.25</li>
-                  </ul>
-                </li>
-              </ul>
+              <table>
+                <caption>Leading periodicals in Field</caption>
+                <thead>
+                  <tr>
+                    <th>Journal</th>
+                    <th>Ratio</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Journal B</td>
+                    <td>0.50</td>
+                  </tr>
+                  <tr>
+                    <td>Journal C</td>
+                    <td>0.40</td>
+                  </tr>
+                  <tr>
+                    <td>Journal A</td>
+                    <td>0.25</td>
+                  </tr>
+                </tbody>
+              </table>
               <p>
                 Despite having fewer citations than Journal A, Journal C has a higher ratio of citations to citable pieces, and so is ranked higher. Using a ratio to rank journals is a way to prevent quantity from overwhelming quality.
               </p>
@@ -278,13 +305,13 @@
               </p>
             </blockquote>
             <p>
-              The “<em>h</em>-index” is indeed a simple metric. To find the <em>h</em>-index of a researcher, take all the articles that the researcher has published, and sort them in ascending order of how many citations each has received. Then start counting the articles, starting with the one with the least number of citations; when you come to an article which has a number of citations equal to the count of articles so far, that article/citation count is the <em>h</em>-index for the researcher. For example, a researcher who has an <em>h</em>-index of 6 has published six articles with at least six citations each.
+              The “<em>h</em>-index” is indeed a simple metric. To find the <em>h</em>-index of a researcher, take all the articles that the researcher has published, and sort them in ascending order of how many citations each has received. Then start counting the articles, starting with the one with the greatest number of citations; when you come to an article which has a number of citations equal to the count of articles so far, that article/citation count is the <em>h</em>-index for the researcher. For example, a researcher who has an <em>h</em>-index of 6 has published six articles with at least six citations each.
             </p>
             <p>
               The <em>h</em>-index is popular enough to have prompted the creation of various refinements to the basic method, e.g., the g-index (Egghe 2013) and the <i>h</i><sup>m</sup>-index (Schreiber 2008), and to define two of the three citation metrics displayed on Google Scholar's user-citations page. Those three metrics are: the user's <em>h</em>-index, the i10-index, a variant of the <em>h</em>-index (Connor 2011), and finally a count of total citations.
             </p>
             <p>
-              Yet, the usefulness of the <em>h</em>-index is unclear. In the original proposal, the index was offered as a quantitative metric to be used “for evaluation and comparison purposes” (Hirsch 2005). To demonstrate this use the author reported the <em>h</em>-index value for a collection of example researchers, including Nobel-prie winners. But, as Adler <em>et al.</em> explain:
+              Yet, the usefulness of the <em>h</em>-index is unclear. In the original proposal, the index was offered as a quantitative metric to be used “for evaluation and comparison purposes” (Hirsch 2005). To demonstrate this use the author reported the <em>h</em>-index value for a collection of example researchers, including Nobel-prize winners. But, as Adler <em>et al.</em> explain:
             </p>
             <blockquote>
               <p>
@@ -303,7 +330,7 @@
               </p>
             </blockquote>
             <p>
-              Despite the complexity of citation records, simple, single-number metrics comprise the majority of commonly referenced article-level metrics. Thought, this mirrors the wide array of single-number journal-level metrics available. Perhaps this focus on lone-value quantification is a consequence of having electronic indices of research publications that make such quantification simple.
+              Despite the complexity of citation records, simple, single-number metrics comprise the majority of commonly referenced article-level metrics. This mirrors the wide array of single-number journal-level metrics available. Perhaps this focus on lone-value quantification is a consequence of having electronic indices of research publications that make such quantification simple.
             </p>
             <p>
               Presumably, using data sources not so readily reduced to a single number would produce a more complex measure of a researcher's work. Such measures are classed as “alternative metrics,” a.k.a. “altmetrics”, and are described next.
@@ -364,10 +391,10 @@
           As mentioned in the description of altmetrics above, the biggest limitation of bibliometrics, when used to judge the value of research, is that they are limited to the impact that research has on other research. To get to the total impact of research, information from outside the realm of research must be included.
         </p>
         <p>
-          Which is why there is a parallel shift in the nature of source materials when shifting topics from considering research quality to considering the practical impact of research. The outcomes of interest are no longer restricted to within the world of research, and so neither are the source materials.
+          This is why there is a parallel shift in the nature of source materials when shifting topics from considering research quality to considering the practical impact of research. The outcomes of interest are no longer restricted to within the world of research, and so neither are the source materials.
         </p>
         <p>
-          Similarly, the examples used to discuss the evaluation of the practical impact of research are practical examples. They come from programs initiated and/or implemented by government agencies in order to have funding for research institutions be responsive, to some extent, to the practical impact of the research being produced by those institutions.
+          Similarly, the examples used to discuss the evaluation of the practical impact of research are practical examples. They come from programs initiated and/or implemented by government agencies in order to make funding for research institutions be responsive, to some extent, to the practical impact of the research being produced by those institutions.
         </p>
         <section>
           <h2>Background on examples from government initiatives and programs</h2>
@@ -380,7 +407,7 @@
           <section>
             <h3>Research Quality Framework (RQF)</h3>
             <p>
-              The history of the Research Quality Framework (RQF) is complicated. It started in 2003 when the government established “an Expert Advisory Group, whose remit was to consult widely and develop a model for assessing the quality and impact of research in Australia” (Butler 2008). The framework proposed by that group was published in 2006, and prompted the establishment of the Development Advisory Group, to “refine the RQF model” (Donovan 2008). The first RFQ was scheduled to be run in 2008, but a change in government in 2007 instead meant that the program was scrapped (Donovan 2008).
+              The history of the Research Quality Framework (RQF) is complicated. It started in 2003 when the Australian government established “an Expert Advisory Group, whose remit was to consult widely and develop a model for assessing the quality and impact of research in Australia” (Butler 2008). The framework proposed by that group was published in 2006, and prompted the establishment of the Development Advisory Group, to “refine the RQF model” (Donovan 2008). The first RFQ was scheduled to be run in 2008, but a change in government in 2007 instead meant that the program was scrapped (Donovan 2008).
             </p>
             <p>
               However, the Research Quality Framework has influenced the development of similar programs, such as the Research Excellence Framework in the UK (Grant <em>et al.</em> 2009), and discussion of its development are available in the literature (cf. Butler 2008, Donovan 2008).
@@ -415,7 +442,7 @@
               Much like with ‘practical impact’ (discussed below), the HEFCE ran a pilot exercise of the evaluation of research quality at higher-education institutions. Specifically aiming to validate the use of bibliometric methods, the key finding of the exercise was: “Bibliometrics are not sufficiently robust at this stage to be used formulaically or to replace expert review in the REF” (HEFCE 2009b). But it was not a complete rejection of bibliometrics, as “there is considerable scope for citation information to be used to inform expert review” (HEFCE 2009b).
             </p>
             <p>
-              Thus, the REF uses expert panels, comprising both experts in the discipline as well as end-users of research, to evaluate the research quality of an institution, with bibliometric methods being include in the evaluation process. (Grant <em>et al.</em> 2010)
+              Thus, the REF uses expert panels, comprising both experts in the discipline as well as end-users of research, to evaluate the research quality of an institution, with bibliometric methods being included in the evaluation process. (Grant <em>et al.</em> 2010)
             </p>
             <p>
               This approach also aligns with the view given in a report commissioned by HECFE before the running of the pilot exercise from the Centre for Science and Technology Studies, Leiden University:
@@ -495,16 +522,24 @@
               In the RFQ, research would have practical impact if it created benefits in at least one of four domains:<br />social, economic, environmental, or cultural (Donovan 2008)
             </p>
             <ul>
-            <li>Social Benefit – new approach to social issues, improved policies, improved equity, improved health, safety and security, etc.</li>
-            <li>Economic Benefit – improved productivity, increased employment, increased innovation and global competitiveness, “unquantified economic returns resulting from social and public policy adjustments”, etc.</li>
-            <li>Environmental Benefit – reduced waste and pollution, reduced consumption of fossil fuels, improved management of natural resources, etc.</li>
-            <li>Cultural Benefit – greater understanding of “where we have come from, and who and what we are as a nation and society”, stimulating creativity within the community, contributing to cultural preservation and enrichment, etc.</li>
+              <li>
+                Social Benefit – new approach to social issues, improved policies, improved equity, improved health, safety and security, etc.
+              </li>
+              <li>
+                Economic Benefit – improved productivity, increased employment, increased innovation and global competitiveness, “unquantified economic returns resulting from social and public policy adjustments”, etc.
+              </li>
+              <li>
+                Environmental Benefit – reduced waste and pollution, reduced consumption of fossil fuels, improved management of natural resources, etc.
+              </li>
+              <li>
+                Cultural Benefit – greater understanding of “where we have come from, and who and what we are as a nation and society”, stimulating creativity within the community, contributing to cultural preservation and enrichment, etc.
+              </li>
             </ul>
             <p>
               However, the definition of impact in the final version of the Australian RFQ program was the result of tensions between defining impact in terms of “the interests of industry and commerce” and defining it in relation to “broader public benefits” (Donovan 2008). These tensions are played out in the differences between three sources: two sets of preliminary recommendations for the program and the final version of the RFQ.
             </p>
             <p>
-              For example, one of the preliminary recommendations defined impact in terms of “direct practical utility” and within the document the term ‘impact’ was at times used interchangeably with the word ‘usefulness’. It advocates measuring impact with quantitative metrics, such a business investments and returns, numbers of patents issued, etc. In contrast, the other preliminary recommendation promotes combining quantitative indicators with qualitative evidence in order to include the intangible benefits of research in the evaluation process. The final version of the RFQ included a “case study” methodology for evaluating impact, which would allow for the more holistic method of evaluation, but also included a scale for the scoring of impact that used magnitudes of impact as a criteria, which clearly favors quantitative evidence (Donovan 2008).
+              For example, one of the preliminary recommendations defined impact in terms of “direct practical utility” and within the document the term ‘impact’ was at times used interchangeably with the word ‘usefulness’. It advocates measuring impact with quantitative metrics, such as business investments and returns, numbers of patents issued, etc. In contrast, the other preliminary recommendation promotes combining quantitative indicators with qualitative evidence in order to include the intangible benefits of research in the evaluation process. The final version of the RFQ included a “case study” methodology for evaluating impact, which would allow for the more holistic method of evaluation, but also included a scale for the scoring of impact that used magnitudes of impact as a criteria, which clearly favors quantitative evidence (Donovan 2008).
             </p>
             <p>
               Despite the shift of focus between quantitative, economic benefits, and qualitative, social benefits, the RFQ never rejected the idea that practical impact was an important part of judging the overall value of research.
@@ -518,7 +553,7 @@
       <article>
         <h1>Future research</h1>
         <p>
-          While there is an established history of evaluating the quality of research, often by using bibliometric methods, there is not nearly as lengthy or well-established of a precedent for evaluating its practical impact. The next two sections discuss possibilities in regards to that evaluation.
+          While there is an established history of evaluating the quality of research, often by using bibliometric methods, there is little precedent for evaluating its practical impact. The next two sections discuss possibilities in regards to that evaluation.
         </p>
         <section>
           <h2>Can altmetrics provide practical impact data?</h2>
@@ -529,19 +564,16 @@
             Altmetrics can use data from a wider range of contexts, and so it should have the potential to capture some of the practical impact of research. Unfortunately, altmetrics don't exclude data from academia, either, which may obscure evidence of practical impact by diluting it with a large volume of data due to meticulous citation in altmetric “mentions” by researchers.
           </p>
           <p>
-            An example of both this potential and possible dilution is the study by Mohammadi <em>et al.</em> (2014) of Mendeley readership data.
+            An example of both this potential and possible dilution is the study by Mohammadi <em>et al.</em> (2014) of Mendeley readership data.  Mendeley is a reference manager that tracks what research is being read by its users, and what makes that data potentially useful for identifying practical impact is the inclusion of the users' “profession” in the meta-data. Users self-select their profession from a pre-populated list of options, so it's not infallible, but it does allow for classing users as being research academics (those who author citable research), non-research academics (those who don't author papers&mdash;e.g., students), or someone outside of academia. The research preferred by the class of users who are not members of academia would presumably be the research that is most relevant to practitioners, and the research that is having a practical impact.
           </p>
           <p>
-            What makes the Mendeley reference manager data potentially useful for identifying practical impact is that the meta-data includes the users' “profession”. Users self-select that from a pre-populated list of options, so it's not infallible, but it does allow for classing users as being research academics (those who author citable research), non-research academics (those who don't author papers—i.e., students), or someone outside of academia. The research preferred by the class of users who are not members of academia would presumably be the research that is most relevant to practitioners, and the research that is having a practical impact.
+            As Mohammadi <em>et al.</em> put it: “It seems that Mendeley readership is able to provide evidence of using research articles in contexts other than for their science contribution, at least for Social Science and some applied sub-disciplines. …It also could be used as a supplementary indicator to measure the impact of some technological or medical papers in applied contexts…” (Mohammadi <em>et al.</em> 2014). As both of the ‘contexts’ mentioned are forms of practical impact, what the author is describing is evidence of research having a practical impact.
           </p>
           <p>
-            As Mohammadi <em>et al.</em> put it: “It seems that Mendeley readership is able to provide evidence of using research articles in contexts other than for their science contribution, at least for Social Science and some applied sub-disciplines. …It also could be used as a supplementary indicator to measure the impact of some technological or medical papers in applied contexts…” (Mohammadi <em>et al.</em> 2014). Where ‘contexts other than for their science contribution’ and ‘the impact… in applied contexts’ are forms of practical impact.
+            It is important to note some of the caveats given by the authors. “Mendeley is perhaps most useful for those who will eventually cite an article and so its readership counts seem likely to under-represent users who will never need to cite an article, perhaps including disproportionately many practitioners” (Mohammadi <em>et al.</em> 2014). So, while the data from Mendeley suggests the potential of tracking practical impact, it may not be able to fulfill it. Also, “although the Mendeley API provides information related to the discipline, academic status and country of readers for each record, it only reports percentages rather than raw data and only gives information about the top three categories.” So, if one of the top three categories of readers isn't a practitioner category, almost no information about an article's impact on practice ends up being available.
           </p>
           <p>
-            Though, it is important to note some of the caveats given by the authors. “Mendeley is perhaps most useful for those who will eventually cite an article and so its readership counts seem likely to under-represent users who will never need to cite an article, perhaps including disproportionately many practitioners” (Mohammadi <em>et al.</em> 2014). So, while the data from Mendeley suggests the potential of tracking practical impact, it may not be able to fulfill it. Also, “although the Mendeley API provides information related to the discipline, academic status and country of readers for each record, it only reports percentages rather than raw data and only gives information about the top three categories.” So, if one of the top three categories of readers isn't a practitioner category, almost no information about an articles impact on practice ends up being available.
-          </p>
-          <p>
-            A similar potential for finding evidence of practical impact exist in social media sources as in Mendeley readership data. The various examples of Altmetric LLC data given by Adie and Roe (2013) hint at this potential for extracting practical impact information, while also highlighting some of the difficulties in utilizing those sources. E.g., though Adie and Roe were able to collect meta-data about the users involved in “mentions” of citable research, there's no indication that there is any data available which would allow users to be classified as being, or not being, members of academia.
+            A similar potential for finding evidence of practical impact exists in social media sources as in Mendeley readership data. The various examples of Altmetric LLC data given by Adie and Roe (2013) hint at this potential for extracting practical impact information, while also highlighting some of the difficulties in utilizing those sources. E.g., though Adie and Roe were able to collect meta-data about the users involved in “mentions” of citable research, there's no indication that there is any data available which would allow users to be classified as being, or not being, members of academia.
           </p>
           <p>
             But, then again, this lack of meta-data suitable for classifying users is only a hinderance to the automated analysis and quantification of data. Finding and flagging altmetric mentions in social-media discussion can provide leads to information about the practical impact of research. Which is presumably why Almetric LLC provides “data sources that can be manually audited by our users. If Altmetric [LLC] says that an article has been tweeted about five times, then users should be able to get the relevant five links, Twitter usernames, and timestamps to go check for themselves” (Adie and Roe 2013).
@@ -553,13 +585,13 @@
         <section>
           <h2>How can researchers be “ahead of the curve” in evaluations of research impact?</h2>
           <p>
-            Even when not officially required, demonstrations of the practical impact of research can be a useful addition in any context when there is an evaluation of the value of research. Documenting or demonstrating impact can also be internally helpful, as “in doing so a great majority will derive insight and local benefits” (Technopolis 2010)
+            Even when not officially required, demonstrations of the practical impact of research can be a useful addition in any context when there is an evaluation of the value of research. Documenting or demonstrating impact can also be internally helpful, as “in doing so a great majority will derive insight and local benefits” (Technopolis 2010).
           </p>
           <p>
             The Technopolis report on feedback from the HEFCE-REF pilot includes a lot that would seem to recommend that researchers develop a portfolio of research impact <em>before</em> it's required of them. Participants in the pilot exercise reported that, “It did cause departments to take a fresh look at their work, and it shed new light on the breadth of good things that have happened in part as a result of the excellent research being carried out. It has helped people to reflect on their wider contributions…”. The irony in the report is that “The exercise has also revealed how little we do know about the use that is made of our research and equally that where one has a sense of good things happening, we simply don’t record that anywhere. Our evidence base is pretty scant”. This irony is echoed a number of times: research institutions were unaware of the wider impact they were having despite that impact being real and positive. E.g., “we were pleasantly surprised at the outcome of the case studies. These clearly provided a much broader appreciation of the impact the university’s research has had / is having than previously recognised” (Technopolis 2010).
           </p>
           <p>
-            If the report is correct in that there is a “growing interest in the notion of research impact, evident amongst all funders” (Technopolis 2010), then the best way to avoid the irony experienced by participating institutions and researchers in the REF pilot exercise, is for researchers to not wait until a similar exercised is forced upon them.
+            If the report is correct in that there is a “growing interest in the notion of research impact, evident amongst all funders” (Technopolis 2010), then the best way to avoid the irony experienced by participating institutions and researchers in the REF pilot exercise, is for researchers to not wait until a similar exercise is forced upon them.
           </p>
           <p>
             Perhaps the ongoing-experiences of the HEFCE and the institutions that it covers, along with the experiences of programs such as ‘Evaluating Research in Context’ (ERiC) in the Netherlands (Spaapen <em>et al.</em> 2007), should be used as a basis to create a set of “best practices” for use by researchers not yet covered by any practical-impact requirements to do self-assessments, and potentially by funding institutions as a starting point for including practical impact in their evaluation of research.
@@ -569,10 +601,10 @@
       <article>
         <h1>Conclusion</h1>
         <p>
-          Since institutions have limited resources they must regularly assess if those resources are allocated efficiently, in regard to meeting the institution's goals. Traditionally, the focus of that evaluation has been on research quality using bibliometric methods that analyze article citations in academic journals.
+          Since institutions have limited resources they must regularly assess if those resources are allocated efficiently, in regard to meeting the institution's goals. Traditionally, the focus of such evaluation has been on research quality using bibliometric methods that analyze article citations in academic journals.
         </p>
         <p>
-          More recently, there has been interest in the practical impact of research, that is, the benefit outside of research institutions. To evaluate the practical impact of research, a qualitative, case-study based approach is typically recommend and/or used, ideally having the evaluation done by a panel of experts that includes the end-users of researchers.
+          More recently, there has been interest in the practical impact of research, that is, the benefit outside of research institutions. To evaluate the practical impact of research, a qualitative, case-study-based approach is typically recommended and/or used, ideally having the evaluation done by a panel of experts that includes the end-users of research.
         </p>
         <p>
           The value of research comes from both its research quality and its practical impact. The best way to judge the value of research is to have the evaluation done by a panel of experts, using both quantitative and qualitative methods.
